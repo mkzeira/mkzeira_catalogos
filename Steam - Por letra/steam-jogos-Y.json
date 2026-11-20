@@ -1,0 +1,5547 @@
+[
+  {
+    "appid": 4668700,
+    "name": "Y: Solo Mod Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 1661930,
+    "name": "Y: The Game",
+    "type": "game"
+  },
+  {
+    "appid": 2649190,
+    "name": "Y. Village - The Visitors",
+    "type": "game"
+  },
+  {
+    "appid": 584070,
+    "name": "Y.A.R.L. VR",
+    "type": "game"
+  },
+  {
+    "appid": 4080150,
+    "name": "Y.E.L.L.",
+    "type": "game"
+  },
+  {
+    "appid": 1499640,
+    "name": "Y.E.T.I",
+    "type": "game"
+  },
+  {
+    "appid": 3418970,
+    "name": "Y.M.C.A",
+    "type": "game"
+  },
+  {
+    "appid": 4856650,
+    "name": "Y2K Coin Pusher",
+    "type": "game"
+  },
+  {
+    "appid": 2687650,
+    "name": "Y2K Directive",
+    "type": "game"
+  },
+  {
+    "appid": 5166490,
+    "name": "Y2K: Sydney",
+    "type": "game"
+  },
+  {
+    "appid": 3552780,
+    "name": "Y2Kill",
+    "type": "game"
+  },
+  {
+    "appid": 3459420,
+    "name": "Y2ROLL",
+    "type": "game"
+  },
+  {
+    "appid": 2821760,
+    "name": "Yaad",
+    "type": "game"
+  },
+  {
+    "appid": 3899230,
+    "name": "Yaarmi Tycoon",
+    "type": "game"
+  },
+  {
+    "appid": 1612750,
+    "name": "YAARRGH! Battle Island!",
+    "type": "game"
+  },
+  {
+    "appid": 1484610,
+    "name": "YABAI MANTIS VR",
+    "type": "game"
+  },
+  {
+    "appid": 2219630,
+    "name": "YabaSanshiro",
+    "type": "game"
+  },
+  {
+    "appid": 1512320,
+    "name": "Yabgits: Haunted Cemetery",
+    "type": "game"
+  },
+  {
+    "appid": 1737690,
+    "name": "Yacht Dice",
+    "type": "game"
+  },
+  {
+    "appid": 3848270,
+    "name": "Yacht Dice Family",
+    "type": "game"
+  },
+  {
+    "appid": 1846370,
+    "name": "Yacht Dice M : Global League",
+    "type": "game"
+  },
+  {
+    "appid": 3124870,
+    "name": "Yacht Life Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 1263620,
+    "name": "Yacht Mechanic Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 1415550,
+    "name": "Yacht Mechanic Simulator: First Contract",
+    "type": "game"
+  },
+  {
+    "appid": 3390720,
+    "name": "Yacht Sea",
+    "type": "game"
+  },
+  {
+    "appid": 809610,
+    "name": "Yacht Simulator VR",
+    "type": "game"
+  },
+  {
+    "appid": 1435540,
+    "name": "Yachu Dice",
+    "type": "game"
+  },
+  {
+    "appid": 3843370,
+    "name": "YaeiJinja",
+    "type": "game"
+  },
+  {
+    "appid": 1545830,
+    "name": "Yaengard",
+    "type": "game"
+  },
+  {
+    "appid": 821410,
+    "name": "Yafti",
+    "type": "game"
+  },
+  {
+    "appid": 736420,
+    "name": "Yag",
+    "type": "game"
+  },
+  {
+    "appid": 888530,
+    "name": "Yaga",
+    "type": "game"
+  },
+  {
+    "appid": 3560170,
+    "name": "Yagazem Elements",
+    "type": "game"
+  },
+  {
+    "appid": 744390,
+    "name": "Yago, the Coquerrestrial",
+    "type": "game"
+  },
+  {
+    "appid": 4839350,
+    "name": "Yagodki",
+    "type": "game"
+  },
+  {
+    "appid": 4198470,
+    "name": "Yaguareté: The Game",
+    "type": "game"
+  },
+  {
+    "appid": 709720,
+    "name": "YAGZZ!",
+    "type": "game"
+  },
+  {
+    "appid": 862370,
+    "name": "Yahrit!",
+    "type": "game"
+  },
+  {
+    "appid": 2635340,
+    "name": "yahtzee girl",
+    "type": "game"
+  },
+  {
+    "appid": 252230,
+    "name": "YAIBA: NINJA GAIDEN Z",
+    "type": "game"
+  },
+  {
+    "appid": 1346770,
+    "name": "YAKIMOCHI STREAM",
+    "type": "game"
+  },
+  {
+    "appid": 3249580,
+    "name": "Yakiniku Party Survival",
+    "type": "game"
+  },
+  {
+    "appid": 2001570,
+    "name": "Yakiniku Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 5087740,
+    "name": "Yakiniku!!!",
+    "type": "game"
+  },
+  {
+    "appid": 4907860,
+    "name": "Yakko Tako",
+    "type": "game"
+  },
+  {
+    "appid": 5186240,
+    "name": "Yakko Tako Royale",
+    "type": "game"
+  },
+  {
+    "appid": 1363620,
+    "name": "Yako",
+    "type": "game"
+  },
+  {
+    "appid": 3146220,
+    "name": "Yãkoana: Dreams of Resistance",
+    "type": "game"
+  },
+  {
+    "appid": 4005380,
+    "name": "Yaks : Yet another kingdom to save",
+    "type": "game"
+  },
+  {
+    "appid": 4364030,
+    "name": "Yakshini Lokam",
+    "type": "game"
+  },
+  {
+    "appid": 3250410,
+    "name": "Yaku Slap",
+    "type": "game"
+  },
+  {
+    "appid": 638970,
+    "name": "Yakuza 0",
+    "type": "game"
+  },
+  {
+    "appid": 2988580,
+    "name": "Yakuza 0 Director's Cut",
+    "type": "game"
+  },
+  {
+    "appid": 1088710,
+    "name": "Yakuza 3 Remastered",
+    "type": "game"
+  },
+  {
+    "appid": 1105500,
+    "name": "Yakuza 4 Remastered",
+    "type": "game"
+  },
+  {
+    "appid": 1105510,
+    "name": "Yakuza 5 Remastered",
+    "type": "game"
+  },
+  {
+    "appid": 1388590,
+    "name": "Yakuza 6: The Song of Life",
+    "type": "game"
+  },
+  {
+    "appid": 1471950,
+    "name": "Yakuza Cats",
+    "type": "game"
+  },
+  {
+    "appid": 1349300,
+    "name": "Yakuza Empire",
+    "type": "game"
+  },
+  {
+    "appid": 847950,
+    "name": "Yakuza Kiss",
+    "type": "game"
+  },
+  {
+    "appid": 3717330,
+    "name": "Yakuza Kiwami",
+    "type": "game"
+  },
+  {
+    "appid": 834530,
+    "name": "Yakuza Kiwami (Legacy)",
+    "type": "game"
+  },
+  {
+    "appid": 3717340,
+    "name": "Yakuza Kiwami 2",
+    "type": "game"
+  },
+  {
+    "appid": 927380,
+    "name": "Yakuza Kiwami 2 (Legacy)",
+    "type": "game"
+  },
+  {
+    "appid": 3937550,
+    "name": "Yakuza Kiwami 3 & Dark Ties",
+    "type": "game"
+  },
+  {
+    "appid": 4706950,
+    "name": "Yakuza Rogue EX: Officer Ayukawa Hikaru",
+    "type": "game"
+  },
+  {
+    "appid": 2857880,
+    "name": "Yakuza Rogue: Yokohama massage parlor chapter",
+    "type": "game"
+  },
+  {
+    "appid": 2051820,
+    "name": "Yakuza Undisputed",
+    "type": "game"
+  },
+  {
+    "appid": 1235140,
+    "name": "Yakuza: Like a Dragon",
+    "type": "game"
+  },
+  {
+    "appid": 1567400,
+    "name": "Yakyosho",
+    "type": "game"
+  },
+  {
+    "appid": 661610,
+    "name": "Yama",
+    "type": "game"
+  },
+  {
+    "appid": 1727520,
+    "name": "Yamafuda! 2nd station",
+    "type": "game"
+  },
+  {
+    "appid": 4539420,
+    "name": "Yamasen-Chan's Hermit Home Designer+",
+    "type": "game"
+  },
+  {
+    "appid": 3112330,
+    "name": "Yamauba",
+    "type": "game"
+  },
+  {
+    "appid": 455770,
+    "name": "YamaYama",
+    "type": "game"
+  },
+  {
+    "appid": 2200100,
+    "name": "YAMC - Yet Another Minesweeper Client",
+    "type": "game"
+  },
+  {
+    "appid": 1011200,
+    "name": "Yametei",
+    "type": "game"
+  },
+  {
+    "appid": 1461320,
+    "name": "Yami",
+    "type": "game"
+  },
+  {
+    "appid": 3807690,
+    "name": "Yami Kids",
+    "type": "game"
+  },
+  {
+    "appid": 4295860,
+    "name": "Yami Mura",
+    "type": "game"
+  },
+  {
+    "appid": 3499410,
+    "name": "Yami Protocol",
+    "type": "game"
+  },
+  {
+    "appid": 4025010,
+    "name": "YAMIGATARI: FOR3ST",
+    "type": "game"
+  },
+  {
+    "appid": 3890720,
+    "name": "Yaminer",
+    "type": "game"
+  },
+  {
+    "appid": 3168720,
+    "name": "Yamizome Liberator",
+    "type": "game"
+  },
+  {
+    "appid": 1208630,
+    "name": "YANCY",
+    "type": "game"
+  },
+  {
+    "appid": 1172950,
+    "name": "Yandere Escape",
+    "type": "game"
+  },
+  {
+    "appid": 2060730,
+    "name": "Yandere Goddess: A Snatch Made in Heaven",
+    "type": "game"
+  },
+  {
+    "appid": 3958250,
+    "name": "Yandere Goth BDSM",
+    "type": "game"
+  },
+  {
+    "appid": 3982390,
+    "name": "Yandere Goth BDSM 10",
+    "type": "game"
+  },
+  {
+    "appid": 3983970,
+    "name": "Yandere Goth BDSM 11",
+    "type": "game"
+  },
+  {
+    "appid": 3989110,
+    "name": "Yandere Goth BDSM 12",
+    "type": "game"
+  },
+  {
+    "appid": 3990830,
+    "name": "Yandere Goth BDSM 13",
+    "type": "game"
+  },
+  {
+    "appid": 4019680,
+    "name": "Yandere Goth BDSM 14",
+    "type": "game"
+  },
+  {
+    "appid": 4021170,
+    "name": "Yandere Goth BDSM 15",
+    "type": "game"
+  },
+  {
+    "appid": 4025470,
+    "name": "Yandere Goth BDSM 16",
+    "type": "game"
+  },
+  {
+    "appid": 3959000,
+    "name": "Yandere Goth BDSM 2",
+    "type": "game"
+  },
+  {
+    "appid": 3961920,
+    "name": "Yandere Goth BDSM 3",
+    "type": "game"
+  },
+  {
+    "appid": 3963610,
+    "name": "Yandere Goth BDSM 4",
+    "type": "game"
+  },
+  {
+    "appid": 3965760,
+    "name": "Yandere Goth BDSM 5",
+    "type": "game"
+  },
+  {
+    "appid": 3968740,
+    "name": "Yandere Goth BDSM 6",
+    "type": "game"
+  },
+  {
+    "appid": 3972270,
+    "name": "Yandere Goth BDSM 7",
+    "type": "game"
+  },
+  {
+    "appid": 3973400,
+    "name": "Yandere Goth BDSM 8",
+    "type": "game"
+  },
+  {
+    "appid": 3981030,
+    "name": "Yandere Goth BDSM 9",
+    "type": "game"
+  },
+  {
+    "appid": 4762210,
+    "name": "Yandere Goth Boss 2: First Session",
+    "type": "game"
+  },
+  {
+    "appid": 3513080,
+    "name": "Yandere Goth Boss: Valentine's Day",
+    "type": "game"
+  },
+  {
+    "appid": 3941560,
+    "name": "Yandere Goth Delinquent Trouble",
+    "type": "game"
+  },
+  {
+    "appid": 3954100,
+    "name": "Yandere Goth Delinquent Trouble 2",
+    "type": "game"
+  },
+  {
+    "appid": 3955650,
+    "name": "Yandere Goth Delinquent Trouble 3",
+    "type": "game"
+  },
+  {
+    "appid": 3956910,
+    "name": "Yandere Goth Delinquent Trouble 4",
+    "type": "game"
+  },
+  {
+    "appid": 3607850,
+    "name": "Yandere Maid~Love-Crazed Maid~",
+    "type": "game"
+  },
+  {
+    "appid": 3723650,
+    "name": "Yandere Sacrifice",
+    "type": "game"
+  },
+  {
+    "appid": 687750,
+    "name": "Yandere School",
+    "type": "game"
+  },
+  {
+    "appid": 1970370,
+    "name": "Yandere Sim: Loveblood",
+    "type": "game"
+  },
+  {
+    "appid": 1683460,
+    "name": "Yandere Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 4513060,
+    "name": "Yandere Virus",
+    "type": "game"
+  },
+  {
+    "appid": 5392490,
+    "name": "Yandra斗地主",
+    "type": "game"
+  },
+  {
+    "appid": 5341770,
+    "name": "Yang",
+    "type": "game"
+  },
+  {
+    "appid": 3941720,
+    "name": "Yang JingYuan",
+    "type": "game"
+  },
+  {
+    "appid": 1204720,
+    "name": "Yang2020 Path To Presidency",
+    "type": "game"
+  },
+  {
+    "appid": 772460,
+    "name": "YangBo Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 4656800,
+    "name": "Yani Again",
+    "type": "game"
+  },
+  {
+    "appid": 654910,
+    "name": "YANKAI'S PEAK.",
+    "type": "game"
+  },
+  {
+    "appid": 527740,
+    "name": "YANKAI'S TRIANGLE",
+    "type": "game"
+  },
+  {
+    "appid": 3922140,
+    "name": "Yankee Rabbits",
+    "type": "game"
+  },
+  {
+    "appid": 4946150,
+    "name": "Yankii Zuwari",
+    "type": "game"
+  },
+  {
+    "appid": 748830,
+    "name": "Yanone: Letter Splatter",
+    "type": "game"
+  },
+  {
+    "appid": 990850,
+    "name": "Yanpai Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 3110000,
+    "name": "YanYueDao Kill",
+    "type": "game"
+  },
+  {
+    "appid": 2967220,
+    "name": "yan魇: Parasomnia",
+    "type": "game"
+  },
+  {
+    "appid": 5169020,
+    "name": "Yao! Into the Furnace",
+    "type": "game"
+  },
+  {
+    "appid": 2816950,
+    "name": "Yaoling: Mythical Journey",
+    "type": "game"
+  },
+  {
+    "appid": 4970670,
+    "name": "YAOYA THE GAME",
+    "type": "game"
+  },
+  {
+    "appid": 3395500,
+    "name": "Yap Wizards Tower Defence",
+    "type": "game"
+  },
+  {
+    "appid": 4397120,
+    "name": "Yapori Advance",
+    "type": "game"
+  },
+  {
+    "appid": 4435900,
+    "name": "Yapori Dimensions 2",
+    "type": "game"
+  },
+  {
+    "appid": 4020720,
+    "name": "Yapori Dimensões",
+    "type": "game"
+  },
+  {
+    "appid": 2964440,
+    "name": "Yapori Minigames",
+    "type": "game"
+  },
+  {
+    "appid": 3520590,
+    "name": "Yapori Minigames 2",
+    "type": "game"
+  },
+  {
+    "appid": 5017990,
+    "name": "Yapori Soccer",
+    "type": "game"
+  },
+  {
+    "appid": 4993520,
+    "name": "Yapori Toys",
+    "type": "game"
+  },
+  {
+    "appid": 745250,
+    "name": "YAPP: Yet Another Puzzle Platformer",
+    "type": "game"
+  },
+  {
+    "appid": 2382770,
+    "name": "Yappie! Knockout",
+    "type": "game"
+  },
+  {
+    "appid": 4563550,
+    "name": "Yappy Bird",
+    "type": "game"
+  },
+  {
+    "appid": 3834090,
+    "name": "YAPYAP",
+    "type": "game"
+  },
+  {
+    "appid": 2669860,
+    "name": "YAR: Forgotten Throne",
+    "type": "game"
+  },
+  {
+    "appid": 99120,
+    "name": "Yar's Revenge",
+    "type": "game"
+  },
+  {
+    "appid": 5096740,
+    "name": "Yaradiel's crown",
+    "type": "game"
+  },
+  {
+    "appid": 2525110,
+    "name": "Yarashii Hotel",
+    "type": "game"
+  },
+  {
+    "appid": 1141970,
+    "name": "YARBAY",
+    "type": "game"
+  },
+  {
+    "appid": 2736430,
+    "name": "Yard Sale",
+    "type": "game"
+  },
+  {
+    "appid": 19090,
+    "name": "Yard Sale Hidden Treasures Sunnyville",
+    "type": "game"
+  },
+  {
+    "appid": 2416350,
+    "name": "Yard Sale Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 3230380,
+    "name": "YARETA",
+    "type": "game"
+  },
+  {
+    "appid": 1731340,
+    "name": "YARG",
+    "type": "game"
+  },
+  {
+    "appid": 369040,
+    "name": "Yargis - Space Melee",
+    "type": "game"
+  },
+  {
+    "appid": 2696050,
+    "name": "Yarimono",
+    "type": "game"
+  },
+  {
+    "appid": 2976160,
+    "name": "Yark Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 1731450,
+    "name": "Yarn",
+    "type": "game"
+  },
+  {
+    "appid": 2928940,
+    "name": "Yarn Guardians",
+    "type": "game"
+  },
+  {
+    "appid": 4417600,
+    "name": "Yarn-Ball!",
+    "type": "game"
+  },
+  {
+    "appid": 1548190,
+    "name": "Yarne",
+    "type": "game"
+  },
+  {
+    "appid": 2534370,
+    "name": "Yars Rising",
+    "type": "game"
+  },
+  {
+    "appid": 2019990,
+    "name": "Yars: Recharged",
+    "type": "game"
+  },
+  {
+    "appid": 372150,
+    "name": "Yasai Ninja",
+    "type": "game"
+  },
+  {
+    "appid": 2846980,
+    "name": "YasaiGame",
+    "type": "game"
+  },
+  {
+    "appid": 4610260,
+    "name": "YASC",
+    "type": "game"
+  },
+  {
+    "appid": 1143870,
+    "name": "YASG",
+    "type": "game"
+  },
+  {
+    "appid": 2169950,
+    "name": "Yasha: Legends of the Demon Blade",
+    "type": "game"
+  },
+  {
+    "appid": 4601370,
+    "name": "Yashi - Sand Driver",
+    "type": "game"
+  },
+  {
+    "appid": 754800,
+    "name": "Yashik",
+    "type": "game"
+  },
+  {
+    "appid": 5385530,
+    "name": "YASUKE CHRONICLES",
+    "type": "game"
+  },
+  {
+    "appid": 3624590,
+    "name": "Yasuke Hentai Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 3272300,
+    "name": "Yasuke Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 2446760,
+    "name": "YASUKE: A Lost Descendant",
+    "type": "game"
+  },
+  {
+    "appid": 319280,
+    "name": "Yatagarasu Attack on Cataclysm",
+    "type": "game"
+  },
+  {
+    "appid": 2630350,
+    "name": "Yatagarasu Enter the Eastward",
+    "type": "game"
+  },
+  {
+    "appid": 5080810,
+    "name": "Yatai 8",
+    "type": "game"
+  },
+  {
+    "appid": 3831610,
+    "name": "Yatai Master",
+    "type": "game"
+  },
+  {
+    "appid": 4526070,
+    "name": "Yatai Talee",
+    "type": "game"
+  },
+  {
+    "appid": 1254430,
+    "name": "YATB：You Are The Best - Egypt Chapter",
+    "type": "game"
+  },
+  {
+    "appid": 4871350,
+    "name": "Yathsel",
+    "type": "game"
+  },
+  {
+    "appid": 4078450,
+    "name": "Yatra - Longest Climb Up",
+    "type": "game"
+  },
+  {
+    "appid": 3078570,
+    "name": "Yatsumeguri | 八つ巡",
+    "type": "game"
+  },
+  {
+    "appid": 696930,
+    "name": "Yatsumitsu Fists of Wrath",
+    "type": "game"
+  },
+  {
+    "appid": 3774530,
+    "name": "YATTY - Dice Card Battle -",
+    "type": "game"
+  },
+  {
+    "appid": 749010,
+    "name": "Yatzy",
+    "type": "game"
+  },
+  {
+    "appid": 4292260,
+    "name": "Yavalanche",
+    "type": "game"
+  },
+  {
+    "appid": 1814510,
+    "name": "Yavi",
+    "type": "game"
+  },
+  {
+    "appid": 2824730,
+    "name": "Yawnoc",
+    "type": "game"
+  },
+  {
+    "appid": 1112670,
+    "name": "YAWS - Yet Another Waveshooter",
+    "type": "game"
+  },
+  {
+    "appid": 4316050,
+    "name": "Yaxi Taxi",
+    "type": "game"
+  },
+  {
+    "appid": 2290960,
+    "name": "Yayla",
+    "type": "game"
+  },
+  {
+    "appid": 4207330,
+    "name": "Yayos",
+    "type": "game"
+  },
+  {
+    "appid": 1996070,
+    "name": "YAYS - Your Adventure Your Story",
+    "type": "game"
+  },
+  {
+    "appid": 2546780,
+    "name": "Yaz",
+    "type": "game"
+  },
+  {
+    "appid": 5007330,
+    "name": "Yazan",
+    "type": "game"
+  },
+  {
+    "appid": 3680760,
+    "name": "Yazuke: Destroy The Halloween",
+    "type": "game"
+  },
+  {
+    "appid": 712660,
+    "name": "YBit",
+    "type": "game"
+  },
+  {
+    "appid": 5179020,
+    "name": "YBR-You Break Rock",
+    "type": "game"
+  },
+  {
+    "appid": 4086340,
+    "name": "Yclept",
+    "type": "game"
+  },
+  {
+    "appid": 2678140,
+    "name": "YCOM",
+    "type": "game"
+  },
+  {
+    "appid": 769020,
+    "name": "Ye Fenny - Revenge of the Evil Good Shepherd",
+    "type": "game"
+  },
+  {
+    "appid": 3715020,
+    "name": "Ye Guild Clerk!",
+    "type": "game"
+  },
+  {
+    "appid": 4380240,
+    "name": "Ye Old Seadog",
+    "type": "game"
+  },
+  {
+    "appid": 2020210,
+    "name": "Ye Olde Cribbage Club",
+    "type": "game"
+  },
+  {
+    "appid": 2013030,
+    "name": "Yeah Jam Fury (2012)",
+    "type": "game"
+  },
+  {
+    "appid": 633930,
+    "name": "Yeah Jam Fury: U, Me, Everybody!",
+    "type": "game"
+  },
+  {
+    "appid": 1871700,
+    "name": "Yeah Yeah Beebiss II",
+    "type": "game"
+  },
+  {
+    "appid": 2622540,
+    "name": "Yeah! Wow! Hey!",
+    "type": "game"
+  },
+  {
+    "appid": 2348100,
+    "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",
+    "type": "game"
+  },
+  {
+    "appid": 2744230,
+    "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM! 2",
+    "type": "game"
+  },
+  {
+    "appid": 1926370,
+    "name": "Yeah！Fighting Girl",
+    "type": "game"
+  },
+  {
+    "appid": 2164060,
+    "name": "YeahZapRun",
+    "type": "game"
+  },
+  {
+    "appid": 3181950,
+    "name": "Year 2031",
+    "type": "game"
+  },
+  {
+    "appid": 3181430,
+    "name": "Year 2134: New Era Apocalyptique",
+    "type": "game"
+  },
+  {
+    "appid": 2748720,
+    "name": "Year 3055",
+    "type": "game"
+  },
+  {
+    "appid": 2373540,
+    "name": "Year 500",
+    "type": "game"
+  },
+  {
+    "appid": 3325130,
+    "name": "Year of the Ladybug: Season 1",
+    "type": "game"
+  },
+  {
+    "appid": 2565520,
+    "name": "Year Unknown",
+    "type": "game"
+  },
+  {
+    "appid": 269050,
+    "name": "Year Walk",
+    "type": "game"
+  },
+  {
+    "appid": 2639160,
+    "name": "Yearn LineageII",
+    "type": "game"
+  },
+  {
+    "appid": 449070,
+    "name": "YEARN Tyrant's Conquest",
+    "type": "game"
+  },
+  {
+    "appid": 969740,
+    "name": "Yearning",
+    "type": "game"
+  },
+  {
+    "appid": 1690530,
+    "name": "Yearning: A Gay Story",
+    "type": "game"
+  },
+  {
+    "appid": 3648900,
+    "name": "Years Gone By",
+    "type": "game"
+  },
+  {
+    "appid": 2289270,
+    "name": "Years of Division",
+    "type": "game"
+  },
+  {
+    "appid": 5517900,
+    "name": "Yeat",
+    "type": "game"
+  },
+  {
+    "appid": 2976670,
+    "name": "Yee-Haw!!",
+    "type": "game"
+  },
+  {
+    "appid": 2307030,
+    "name": "YEET",
+    "type": "game"
+  },
+  {
+    "appid": 5070400,
+    "name": "Yeet the Chest",
+    "type": "game"
+  },
+  {
+    "appid": 3356160,
+    "name": "Yeet Thyself",
+    "type": "game"
+  },
+  {
+    "appid": 3914410,
+    "name": "Yeet Up!",
+    "type": "game"
+  },
+  {
+    "appid": 4726020,
+    "name": "YEET! the Elite",
+    "type": "game"
+  },
+  {
+    "appid": 5091450,
+    "name": "Yeetbags",
+    "type": "game"
+  },
+  {
+    "appid": 5065310,
+    "name": "YEETFEST",
+    "type": "game"
+  },
+  {
+    "appid": 2640910,
+    "name": "Yeetus",
+    "type": "game"
+  },
+  {
+    "appid": 3021370,
+    "name": "YeGung",
+    "type": "game"
+  },
+  {
+    "appid": 5060470,
+    "name": "Yehuelu Online",
+    "type": "game"
+  },
+  {
+    "appid": 4437790,
+    "name": "YEKO",
+    "type": "game"
+  },
+  {
+    "appid": 340820,
+    "name": "Yelaxot",
+    "type": "game"
+  },
+  {
+    "appid": 886270,
+    "name": "Yeli Orog",
+    "type": "game"
+  },
+  {
+    "appid": 3401370,
+    "name": "Yell At Each Other Online",
+    "type": "game"
+  },
+  {
+    "appid": 4488520,
+    "name": "Yelling At Cats: The Game",
+    "type": "game"
+  },
+  {
+    "appid": 2528100,
+    "name": "Yello Adventures",
+    "type": "game"
+  },
+  {
+    "appid": 681420,
+    "name": "Yello Bandana",
+    "type": "game"
+  },
+  {
+    "appid": 4272700,
+    "name": "Yellow",
+    "type": "game"
+  },
+  {
+    "appid": 965610,
+    "name": "Yellow & Yangtze",
+    "type": "game"
+  },
+  {
+    "appid": 1666190,
+    "name": "Yellow Ballman",
+    "type": "game"
+  },
+  {
+    "appid": 1543400,
+    "name": "Yellow Brick Road",
+    "type": "game"
+  },
+  {
+    "appid": 4678680,
+    "name": "Yellow Clicker",
+    "type": "game"
+  },
+  {
+    "appid": 2274850,
+    "name": "Yellow History",
+    "type": "game"
+  },
+  {
+    "appid": 3023880,
+    "name": "Yellow House",
+    "type": "game"
+  },
+  {
+    "appid": 2011780,
+    "name": "Yellow Taxi Goes Vroom",
+    "type": "game"
+  },
+  {
+    "appid": 5286120,
+    "name": "Yellow Terminal",
+    "type": "game"
+  },
+  {
+    "appid": 3091520,
+    "name": "Yellow Trouble",
+    "type": "game"
+  },
+  {
+    "appid": 486820,
+    "name": "Yellow: The Yellow Artifact",
+    "type": "game"
+  },
+  {
+    "appid": 3584590,
+    "name": "YELLOW*DEMON",
+    "type": "game"
+  },
+  {
+    "appid": 2626770,
+    "name": "Yellowcake",
+    "type": "game"
+  },
+  {
+    "appid": 3445170,
+    "name": "Yellowcake - The Audio Game",
+    "type": "game"
+  },
+  {
+    "appid": 4411840,
+    "name": "Yellowcreek Stories - The Cabin Watcher",
+    "type": "game"
+  },
+  {
+    "appid": 5083230,
+    "name": "YellowJacket",
+    "type": "game"
+  },
+  {
+    "appid": 1515730,
+    "name": "Yellowlooper",
+    "type": "game"
+  },
+  {
+    "appid": 3172490,
+    "name": "Yellowstone",
+    "type": "game"
+  },
+  {
+    "appid": 1073380,
+    "name": "yellowtoy",
+    "type": "game"
+  },
+  {
+    "appid": 1500480,
+    "name": "Yeminj",
+    "type": "game"
+  },
+  {
+    "appid": 894320,
+    "name": "Yemon",
+    "type": "game"
+  },
+  {
+    "appid": 4466030,
+    "name": "Yendo al Chino",
+    "type": "game"
+  },
+  {
+    "appid": 1743460,
+    "name": "YEOLLEB Warrior",
+    "type": "game"
+  },
+  {
+    "appid": 5136390,
+    "name": "Yeommae",
+    "type": "game"
+  },
+  {
+    "appid": 1414470,
+    "name": "Yeomna : The Legend of Dongbaek",
+    "type": "game"
+  },
+  {
+    "appid": 2353380,
+    "name": "Yeon-oh and Seo",
+    "type": "game"
+  },
+  {
+    "appid": 3467700,
+    "name": "Yeonkyung",
+    "type": "game"
+  },
+  {
+    "appid": 3058320,
+    "name": "Yep!",
+    "type": "game"
+  },
+  {
+    "appid": 717380,
+    "name": "Yerah",
+    "type": "game"
+  },
+  {
+    "appid": 4226700,
+    "name": "YerAna: The Tree of Life",
+    "type": "game"
+  },
+  {
+    "appid": 2330110,
+    "name": "Yerba Buena",
+    "type": "game"
+  },
+  {
+    "appid": 1404560,
+    "name": "Yerba Mate Tycoon",
+    "type": "game"
+  },
+  {
+    "appid": 1963360,
+    "name": "Yerr Out",
+    "type": "game"
+  },
+  {
+    "appid": 3918570,
+    "name": "Yes",
+    "type": "game"
+  },
+  {
+    "appid": 1343410,
+    "name": "Yes Brother",
+    "type": "game"
+  },
+  {
+    "appid": 5553890,
+    "name": "Yes Chef!",
+    "type": "game"
+  },
+  {
+    "appid": 2198400,
+    "name": "Yes Comrade",
+    "type": "game"
+  },
+  {
+    "appid": 3583070,
+    "name": "Yes Mr. President",
+    "type": "game"
+  },
+  {
+    "appid": 1802850,
+    "name": "Yes My Lord",
+    "type": "game"
+  },
+  {
+    "appid": 3520670,
+    "name": "Yes Sir",
+    "type": "game"
+  },
+  {
+    "appid": 1090900,
+    "name": "Yes, Master!",
+    "type": "game"
+  },
+  {
+    "appid": 3609980,
+    "name": "Yes, My Queen",
+    "type": "game"
+  },
+  {
+    "appid": 3843430,
+    "name": "Yes, My Warlord",
+    "type": "game"
+  },
+  {
+    "appid": 3846240,
+    "name": "Yes, No, Goodbye",
+    "type": "game"
+  },
+  {
+    "appid": 1115690,
+    "name": "Yes, Your Grace",
+    "type": "game"
+  },
+  {
+    "appid": 1373090,
+    "name": "Yes, Your Grace: Snowfall",
+    "type": "game"
+  },
+  {
+    "appid": 205840,
+    "name": "Yesterday",
+    "type": "game"
+  },
+  {
+    "appid": 649360,
+    "name": "Yesterday",
+    "type": "game"
+  },
+  {
+    "appid": 465280,
+    "name": "Yesterday Origins",
+    "type": "game"
+  },
+  {
+    "appid": 3640120,
+    "name": "Yesterday's Crossroads",
+    "type": "game"
+  },
+  {
+    "appid": 2850560,
+    "name": "Yesterday's News",
+    "type": "game"
+  },
+  {
+    "appid": 1637180,
+    "name": "Yesterdreamt",
+    "type": "game"
+  },
+  {
+    "appid": 1210490,
+    "name": "YesterMorrow",
+    "type": "game"
+  },
+  {
+    "appid": 2248230,
+    "name": "YesterSol",
+    "type": "game"
+  },
+  {
+    "appid": 3329220,
+    "name": "Yet Another Climbing Game",
+    "type": "game"
+  },
+  {
+    "appid": 1993450,
+    "name": "Yet Another Fantasy Title (YAFT)",
+    "type": "game"
+  },
+  {
+    "appid": 1559070,
+    "name": "Yet Another Hard Game",
+    "type": "game"
+  },
+  {
+    "appid": 746100,
+    "name": "Yet Another Hentai Puzzle",
+    "type": "game"
+  },
+  {
+    "appid": 2355610,
+    "name": "Yet Another Hentai Puzzle",
+    "type": "game"
+  },
+  {
+    "appid": 3234890,
+    "name": "Yet Another Hentai Puzzle: Cyberpunk",
+    "type": "game"
+  },
+  {
+    "appid": 1083750,
+    "name": "Yet Another Hero Legend",
+    "type": "game"
+  },
+  {
+    "appid": 1106150,
+    "name": "Yet Another Hero Story",
+    "type": "game"
+  },
+  {
+    "appid": 3729810,
+    "name": "Yet Another Incremental Game",
+    "type": "game"
+  },
+  {
+    "appid": 4220840,
+    "name": "Yet Another Jumping Game",
+    "type": "game"
+  },
+  {
+    "appid": 3217970,
+    "name": "Yet Another Killing Game",
+    "type": "game"
+  },
+  {
+    "appid": 1081630,
+    "name": "Yet Another Level",
+    "type": "game"
+  },
+  {
+    "appid": 3594210,
+    "name": "Yet Another One",
+    "type": "game"
+  },
+  {
+    "appid": 853410,
+    "name": "Yet Another Pushing Puzzler",
+    "type": "game"
+  },
+  {
+    "appid": 4538170,
+    "name": "Yet Another Reality Show",
+    "type": "game"
+  },
+  {
+    "appid": 777650,
+    "name": "Yet Another Research Dog",
+    "type": "game"
+  },
+  {
+    "appid": 4543680,
+    "name": "Yet Another Shift",
+    "type": "game"
+  },
+  {
+    "appid": 956590,
+    "name": "Yet Another Snake Game",
+    "type": "game"
+  },
+  {
+    "appid": 1023060,
+    "name": "Yet Another Survival Game",
+    "type": "game"
+  },
+  {
+    "appid": 923890,
+    "name": "Yet another tower defence",
+    "type": "game"
+  },
+  {
+    "appid": 411740,
+    "name": "Yet Another World",
+    "type": "game"
+  },
+  {
+    "appid": 270550,
+    "name": "Yet Another Zombie Defense",
+    "type": "game"
+  },
+  {
+    "appid": 674750,
+    "name": "Yet Another Zombie Defense HD",
+    "type": "game"
+  },
+  {
+    "appid": 2163330,
+    "name": "Yet Another Zombie Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 604810,
+    "name": "Yeti Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 3481110,
+    "name": "Yeti Ski",
+    "type": "game"
+  },
+  {
+    "appid": 772320,
+    "name": "Yeti's Parole Officer",
+    "type": "game"
+  },
+  {
+    "appid": 1743390,
+    "name": "YetiFree",
+    "type": "game"
+  },
+  {
+    "appid": 3823130,
+    "name": "YetiParty",
+    "type": "game"
+  },
+  {
+    "appid": 2883650,
+    "name": "Yez- The Dark Amulet",
+    "type": "game"
+  },
+  {
+    "appid": 1992740,
+    "name": "YGeia",
+    "type": "game"
+  },
+  {
+    "appid": 1991460,
+    "name": "Ygg Engine",
+    "type": "game"
+  },
+  {
+    "appid": 3761580,
+    "name": "YGGDRA REFRAIN",
+    "type": "game"
+  },
+  {
+    "appid": 2107860,
+    "name": "Yggdra Union",
+    "type": "game"
+  },
+  {
+    "appid": 4513660,
+    "name": "YGGDRA: DECKBUILDING",
+    "type": "game"
+  },
+  {
+    "appid": 4513640,
+    "name": "YGGDRA: SURVIVOR",
+    "type": "game"
+  },
+  {
+    "appid": 3836140,
+    "name": "Yggdrasil Defenders",
+    "type": "game"
+  },
+  {
+    "appid": 1045400,
+    "name": "YGGDRASIL JIGSAW PUZZLE",
+    "type": "game"
+  },
+  {
+    "appid": 2433380,
+    "name": "YGGDRASILL",
+    "type": "game"
+  },
+  {
+    "appid": 701730,
+    "name": "Yi and the Thousand Moons",
+    "type": "game"
+  },
+  {
+    "appid": 1948800,
+    "name": "Yi Xian: The Cultivation Card Game",
+    "type": "game"
+  },
+  {
+    "appid": 4824150,
+    "name": "Yield to the Abyss",
+    "type": "game"
+  },
+  {
+    "appid": 1561960,
+    "name": "Yield! Fall of Rome",
+    "type": "game"
+  },
+  {
+    "appid": 1802980,
+    "name": "Yihongyuan",
+    "type": "game"
+  },
+  {
+    "appid": 2863840,
+    "name": "YIIK Nameless Psychosis",
+    "type": "game"
+  },
+  {
+    "appid": 459080,
+    "name": "YIIK: A Postmodern RPG",
+    "type": "game"
+  },
+  {
+    "appid": 5070950,
+    "name": "YiJing 101",
+    "type": "game"
+  },
+  {
+    "appid": 1062920,
+    "name": "Yiki Action RPG",
+    "type": "game"
+  },
+  {
+    "appid": 2802180,
+    "name": "YILAN",
+    "type": "game"
+  },
+  {
+    "appid": 1501090,
+    "name": "Yin yang",
+    "type": "game"
+  },
+  {
+    "appid": 4234270,
+    "name": "Yin Yang Fun",
+    "type": "game"
+  },
+  {
+    "appid": 3436190,
+    "name": "YIN YANG SEX",
+    "type": "game"
+  },
+  {
+    "appid": 1927300,
+    "name": "Yin Yang Space",
+    "type": "game"
+  },
+  {
+    "appid": 1650450,
+    "name": "Yin Yuh",
+    "type": "game"
+  },
+  {
+    "appid": 3117780,
+    "name": "Yin-Yang Ping-Pong",
+    "type": "game"
+  },
+  {
+    "appid": 3892470,
+    "name": "Yindy",
+    "type": "game"
+  },
+  {
+    "appid": 1043450,
+    "name": "Yinyang",
+    "type": "game"
+  },
+  {
+    "appid": 2334040,
+    "name": "YinYang Street Ultimate Edition",
+    "type": "game"
+  },
+  {
+    "appid": 4900320,
+    "name": "Yipe 5",
+    "type": "game"
+  },
+  {
+    "appid": 3059360,
+    "name": "Yips!",
+    "type": "game"
+  },
+  {
+    "appid": 2888990,
+    "name": "YiShi",
+    "type": "game"
+  },
+  {
+    "appid": 4552280,
+    "name": "YiShi Contagion: Versus",
+    "type": "game"
+  },
+  {
+    "appid": 750960,
+    "name": "Yissa Deep Realms",
+    "type": "game"
+  },
+  {
+    "appid": 4029000,
+    "name": "YKick",
+    "type": "game"
+  },
+  {
+    "appid": 3515380,
+    "name": "YKMET: Strade",
+    "type": "game"
+  },
+  {
+    "appid": 298610,
+    "name": "Ylands",
+    "type": "game"
+  },
+  {
+    "appid": 378360,
+    "name": "Ymir",
+    "type": "game"
+  },
+  {
+    "appid": 2960110,
+    "name": "Ymn7",
+    "type": "game"
+  },
+  {
+    "appid": 2991040,
+    "name": "Yn Moddey Dhoo",
+    "type": "game"
+  },
+  {
+    "appid": 1015920,
+    "name": "Ynglet",
+    "type": "game"
+  },
+  {
+    "appid": 1336070,
+    "name": "Ynglet: Prologue",
+    "type": "game"
+  },
+  {
+    "appid": 2278390,
+    "name": "yni^",
+    "type": "game"
+  },
+  {
+    "appid": 4952250,
+    "name": "Yo Ho Ho And A Rubber Duck",
+    "type": "game"
+  },
+  {
+    "appid": 978490,
+    "name": "Yo My Yo!",
+    "type": "game"
+  },
+  {
+    "appid": 4685840,
+    "name": "Yo Skater",
+    "type": "game"
+  },
+  {
+    "appid": 5249190,
+    "name": "Yo soy páramo",
+    "type": "game"
+  },
+  {
+    "appid": 4635820,
+    "name": "YO UP!",
+    "type": "game"
+  },
+  {
+    "appid": 5440690,
+    "name": "Yo! ShotGunn",
+    "type": "game"
+  },
+  {
+    "appid": 688690,
+    "name": "Yoba",
+    "type": "game"
+  },
+  {
+    "appid": 1026890,
+    "name": "YOBA2D",
+    "type": "game"
+  },
+  {
+    "appid": 4375890,
+    "name": "YOBI",
+    "type": "game"
+  },
+  {
+    "appid": 736710,
+    "name": "Yōdanji",
+    "type": "game"
+  },
+  {
+    "appid": 2457010,
+    "name": "Yodel-Oh!",
+    "type": "game"
+  },
+  {
+    "appid": 4562880,
+    "name": "Yodelee Golf",
+    "type": "game"
+  },
+  {
+    "appid": 2439340,
+    "name": "YoFengYo",
+    "type": "game"
+  },
+  {
+    "appid": 2194530,
+    "name": "Yog-Sothoth's Yard",
+    "type": "game"
+  },
+  {
+    "appid": 895580,
+    "name": "Yoga Lesson VR",
+    "type": "game"
+  },
+  {
+    "appid": 1736480,
+    "name": "YOGA MASTER",
+    "type": "game"
+  },
+  {
+    "appid": 3325410,
+    "name": "YOGA SEX PRACTICE",
+    "type": "game"
+  },
+  {
+    "appid": 4376370,
+    "name": "Yoga with Sensei",
+    "type": "game"
+  },
+  {
+    "appid": 1890670,
+    "name": "Yoga108",
+    "type": "game"
+  },
+  {
+    "appid": 3962400,
+    "name": "YogLabs: Testing Initiative",
+    "type": "game"
+  },
+  {
+    "appid": 3644520,
+    "name": "Yogoe Hunter",
+    "type": "game"
+  },
+  {
+    "appid": 5019490,
+    "name": "YOGRAK — the long way down",
+    "type": "game"
+  },
+  {
+    "appid": 1319790,
+    "name": "Yogurt Commercial 3",
+    "type": "game"
+  },
+  {
+    "appid": 2345250,
+    "name": "Yogurt: Wet Dreams",
+    "type": "game"
+  },
+  {
+    "appid": 1390740,
+    "name": "Yogurt!",
+    "type": "game"
+  },
+  {
+    "appid": 224020,
+    "name": "Yogventures!",
+    "type": "game"
+  },
+  {
+    "appid": 2459750,
+    "name": "Yohane the Parhelion - NUMAZU in the MIRAGE -",
+    "type": "game"
+  },
+  {
+    "appid": 2404370,
+    "name": "YOHANE THE PARHELION -BLAZE in the DEEPBLUE-",
+    "type": "game"
+  },
+  {
+    "appid": 415950,
+    "name": "Yohjo Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 2163340,
+    "name": "YohohoDice",
+    "type": "game"
+  },
+  {
+    "appid": 3750350,
+    "name": "YOIN: The shadow of dawn",
+    "type": "game"
+  },
+  {
+    "appid": 4703060,
+    "name": "YoiNekoAn: The Seven Tails",
+    "type": "game"
+  },
+  {
+    "appid": 3619760,
+    "name": "Yoiyami Biscuit",
+    "type": "game"
+  },
+  {
+    "appid": 1998530,
+    "name": "Yoiyami Dancers: Twilight Danmaku Dancers",
+    "type": "game"
+  },
+  {
+    "appid": 3405160,
+    "name": "Yokai Art 2: Tales of the Nine-Tails",
+    "type": "game"
+  },
+  {
+    "appid": 1812060,
+    "name": "Yokai Art: Night Parade of One Hundred Demons",
+    "type": "game"
+  },
+  {
+    "appid": 2256380,
+    "name": "Yokai Art: Survival",
+    "type": "game"
+  },
+  {
+    "appid": 2455110,
+    "name": "Yokai Art: Survival Prologue",
+    "type": "game"
+  },
+  {
+    "appid": 4467370,
+    "name": "Yokai Batting Game in Kawagoe",
+    "type": "game"
+  },
+  {
+    "appid": 3216190,
+    "name": "Yokai Busters",
+    "type": "game"
+  },
+  {
+    "appid": 2725430,
+    "name": "Yokai City",
+    "type": "game"
+  },
+  {
+    "appid": 4609630,
+    "name": "Yokai Crossing",
+    "type": "game"
+  },
+  {
+    "appid": 3598140,
+    "name": "YOKAI GODDESS An Urban Legend Bullet hell Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 2343150,
+    "name": "Yokai Hero",
+    "type": "game"
+  },
+  {
+    "appid": 4936300,
+    "name": "Yokai Hunter",
+    "type": "game"
+  },
+  {
+    "appid": 1916960,
+    "name": "Yokai Hunter Shintaro",
+    "type": "game"
+  },
+  {
+    "appid": 4786370,
+    "name": "Yokai Idle",
+    "type": "game"
+  },
+  {
+    "appid": 3193560,
+    "name": "Yokai Landlord: Monster Mystery!",
+    "type": "game"
+  },
+  {
+    "appid": 4514600,
+    "name": "Yokai Legends",
+    "type": "game"
+  },
+  {
+    "appid": 4869400,
+    "name": "Yokai Mart",
+    "type": "game"
+  },
+  {
+    "appid": 708160,
+    "name": "Yokai Mask",
+    "type": "game"
+  },
+  {
+    "appid": 5494940,
+    "name": "Yokai Night Bazaar",
+    "type": "game"
+  },
+  {
+    "appid": 3685940,
+    "name": "Yokai Onsen",
+    "type": "game"
+  },
+  {
+    "appid": 5044780,
+    "name": "Yokai Parade",
+    "type": "game"
+  },
+  {
+    "appid": 3826820,
+    "name": "Yokai Park",
+    "type": "game"
+  },
+  {
+    "appid": 2898970,
+    "name": "Yokai Rescue",
+    "type": "game"
+  },
+  {
+    "appid": 4330250,
+    "name": "YOKAI RETURN",
+    "type": "game"
+  },
+  {
+    "appid": 3514690,
+    "name": "Yokai Survivor",
+    "type": "game"
+  },
+  {
+    "appid": 1614020,
+    "name": "Yokai Taiji",
+    "type": "game"
+  },
+  {
+    "appid": 3417780,
+    "name": "Yokai Tales",
+    "type": "game"
+  },
+  {
+    "appid": 2817760,
+    "name": "Yokai Tales: Fox",
+    "type": "game"
+  },
+  {
+    "appid": 2974690,
+    "name": "Yokai Unbound",
+    "type": "game"
+  },
+  {
+    "appid": 3534190,
+    "name": "YOKAI WAIFU HUNTERS",
+    "type": "game"
+  },
+  {
+    "appid": 4533730,
+    "name": "Yokai: Lust Secret 🪭",
+    "type": "game"
+  },
+  {
+    "appid": 2151700,
+    "name": "Yokai's Wish",
+    "type": "game"
+  },
+  {
+    "appid": 2207010,
+    "name": "Yōkaimaki",
+    "type": "game"
+  },
+  {
+    "appid": 5102190,
+    "name": "YokaiRou: Shoppe of Mystique",
+    "type": "game"
+  },
+  {
+    "appid": 4183150,
+    "name": "YokaiRun 巡妖",
+    "type": "game"
+  },
+  {
+    "appid": 1787210,
+    "name": "YOKAIWARE",
+    "type": "game"
+  },
+  {
+    "appid": 858730,
+    "name": "YokeLight",
+    "type": "game"
+  },
+  {
+    "appid": 2664050,
+    "name": "YOKO",
+    "type": "game"
+  },
+  {
+    "appid": 1632000,
+    "name": "Yoko & Yuki: Dr. Rat's Revenge",
+    "type": "game"
+  },
+  {
+    "appid": 3906610,
+    "name": "Yoko no Hanashi",
+    "type": "game"
+  },
+  {
+    "appid": 1869560,
+    "name": "Yoko Redux: Dreams",
+    "type": "game"
+  },
+  {
+    "appid": 334940,
+    "name": "Yoku's Island Express",
+    "type": "game"
+  },
+  {
+    "appid": 3627270,
+    "name": "Yokumo: Night Parade",
+    "type": "game"
+  },
+  {
+    "appid": 1413090,
+    "name": "Yoli",
+    "type": "game"
+  },
+  {
+    "appid": 4976180,
+    "name": "Yolings",
+    "type": "game"
+  },
+  {
+    "appid": 4935790,
+    "name": "Yolk & Yonder",
+    "type": "game"
+  },
+  {
+    "appid": 2417850,
+    "name": "Yolk Heroes: A Long Tamago",
+    "type": "game"
+  },
+  {
+    "appid": 1384130,
+    "name": "Yolka",
+    "type": "game"
+  },
+  {
+    "appid": 4843140,
+    "name": "YOLKA: 90s New Year Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 1464010,
+    "name": "YOLKED",
+    "type": "game"
+  },
+  {
+    "appid": 3721490,
+    "name": "Yollen",
+    "type": "game"
+  },
+  {
+    "appid": 5438840,
+    "name": "Yollen 2",
+    "type": "game"
+  },
+  {
+    "appid": 4516940,
+    "name": "Yolo Mode",
+    "type": "game"
+  },
+  {
+    "appid": 1341450,
+    "name": "Yolo Space Hacker - Mission Bikini",
+    "type": "game"
+  },
+  {
+    "appid": 2224580,
+    "name": "Yolo Space Hacker 2",
+    "type": "game"
+  },
+  {
+    "appid": 770120,
+    "name": "Yoltrund",
+    "type": "game"
+  },
+  {
+    "appid": 2229790,
+    "name": "Yomaia",
+    "type": "game"
+  },
+  {
+    "appid": 2558870,
+    "name": "YOMAS",
+    "type": "game"
+  },
+  {
+    "appid": 1998330,
+    "name": "Yomawari: Lost in the Dark",
+    "type": "game"
+  },
+  {
+    "appid": 625980,
+    "name": "Yomawari: Midnight Shadows",
+    "type": "game"
+  },
+  {
+    "appid": 477870,
+    "name": "Yomawari: Night Alone",
+    "type": "game"
+  },
+  {
+    "appid": 3294690,
+    "name": "Yomegami: My Sweet Goddess!",
+    "type": "game"
+  },
+  {
+    "appid": 287960,
+    "name": "Yomi",
+    "type": "game"
+  },
+  {
+    "appid": 2022230,
+    "name": "Yomi 2",
+    "type": "game"
+  },
+  {
+    "appid": 4103600,
+    "name": "Yomi no Kuni",
+    "type": "game"
+  },
+  {
+    "appid": 4538780,
+    "name": "Yomi-no-kuni",
+    "type": "game"
+  },
+  {
+    "appid": 4276660,
+    "name": "Yomifuda: Kanji Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 5039340,
+    "name": "Yomino",
+    "type": "game"
+  },
+  {
+    "appid": 846020,
+    "name": "YOMOTSU",
+    "type": "game"
+  },
+  {
+    "appid": 3062980,
+    "name": "Yomp for Zhi",
+    "type": "game"
+  },
+  {
+    "appid": 450050,
+    "name": "Yon Paradox",
+    "type": "game"
+  },
+  {
+    "appid": 4152260,
+    "name": "Yondel",
+    "type": "game"
+  },
+  {
+    "appid": 1787550,
+    "name": "YonDelver",
+    "type": "game"
+  },
+  {
+    "appid": 1832030,
+    "name": "Yonder World: Interview with the Void",
+    "type": "game"
+  },
+  {
+    "appid": 580200,
+    "name": "Yonder: The Cloud Catcher Chronicles",
+    "type": "game"
+  },
+  {
+    "appid": 2318020,
+    "name": "Yondu's Journey",
+    "type": "game"
+  },
+  {
+    "appid": 1879750,
+    "name": "YONESAWARA HOSPITAL",
+    "type": "game"
+  },
+  {
+    "appid": 4120160,
+    "name": "Yongjiang River",
+    "type": "game"
+  },
+  {
+    "appid": 602430,
+    "name": "Yono and the Celestial Elephants",
+    "type": "game"
+  },
+  {
+    "appid": 3612370,
+    "name": "Yooca: Next Horizon",
+    "type": "game"
+  },
+  {
+    "appid": 4138870,
+    "name": "Yooca: Your Life",
+    "type": "game"
+  },
+  {
+    "appid": 360830,
+    "name": "Yooka-Laylee",
+    "type": "game"
+  },
+  {
+    "appid": 426750,
+    "name": "Yooka-Laylee - Toybox",
+    "type": "game"
+  },
+  {
+    "appid": 846870,
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "type": "game"
+  },
+  {
+    "appid": 2448020,
+    "name": "Yooka-Replaylee",
+    "type": "game"
+  },
+  {
+    "appid": 774151,
+    "name": "YOOMURJAK'S RING",
+    "type": "game"
+  },
+  {
+    "appid": 4865530,
+    "name": "Yora Emerald",
+    "type": "game"
+  },
+  {
+    "appid": 3632370,
+    "name": "Yoram",
+    "type": "game"
+  },
+  {
+    "appid": 3721950,
+    "name": "Yorda's Quest: A Lighthearted Magic Fantasy RPG",
+    "type": "game"
+  },
+  {
+    "appid": 524380,
+    "name": "Yore VR",
+    "type": "game"
+  },
+  {
+    "appid": 1239270,
+    "name": "Yoren",
+    "type": "game"
+  },
+  {
+    "appid": 880580,
+    "name": "YORG.io",
+    "type": "game"
+  },
+  {
+    "appid": 1134480,
+    "name": "YORG.io 3",
+    "type": "game"
+  },
+  {
+    "appid": 5067090,
+    "name": "Yorick: Worlds in Bloom",
+    "type": "game"
+  },
+  {
+    "appid": 4236840,
+    "name": "Yorin Love (With Me)",
+    "type": "game"
+  },
+  {
+    "appid": 716650,
+    "name": "Yorkshire Gubbins",
+    "type": "game"
+  },
+  {
+    "appid": 1284540,
+    "name": "Yorna: Monster Girl's Secret",
+    "type": "game"
+  },
+  {
+    "appid": 2901150,
+    "name": "Yoru ga Kuru! -Square of the Moon- Remastered",
+    "type": "game"
+  },
+  {
+    "appid": 4066550,
+    "name": "Yorvik's Game",
+    "type": "game"
+  },
+  {
+    "appid": 2711170,
+    "name": "Yosei Wars",
+    "type": "game"
+  },
+  {
+    "appid": 1909150,
+    "name": "Yosemite Forest Ranger",
+    "type": "game"
+  },
+  {
+    "appid": 3931440,
+    "name": "Yoshihiro",
+    "type": "game"
+  },
+  {
+    "appid": 3298250,
+    "name": "Yoshima: Hentai Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 1686440,
+    "name": "Yoshimitsu Hatsumi",
+    "type": "game"
+  },
+  {
+    "appid": 1853360,
+    "name": "Yoshitaka Amano VR Museum",
+    "type": "game"
+  },
+  {
+    "appid": 1539270,
+    "name": "Yōso Warriors",
+    "type": "game"
+  },
+  {
+    "appid": 2981340,
+    "name": "Yosuga no Sora",
+    "type": "game"
+  },
+  {
+    "appid": 23370,
+    "name": "Yosumin Media preview",
+    "type": "game"
+  },
+  {
+    "appid": 23300,
+    "name": "Yosumin!",
+    "type": "game"
+  },
+  {
+    "appid": 3620240,
+    "name": "Yots",
+    "type": "game"
+  },
+  {
+    "appid": 1399240,
+    "name": "Yotsume God -Reunion-",
+    "type": "game"
+  },
+  {
+    "appid": 880150,
+    "name": "Yotsunoha",
+    "type": "game"
+  },
+  {
+    "appid": 3736750,
+    "name": "YOU",
+    "type": "game"
+  },
+  {
+    "appid": 5408670,
+    "name": "YOU",
+    "type": "game"
+  },
+  {
+    "appid": 904930,
+    "name": "YOU - The Untold Stories",
+    "type": "game"
+  },
+  {
+    "appid": 4629630,
+    "name": "You Ain’t the Hero",
+    "type": "game"
+  },
+  {
+    "appid": 4204840,
+    "name": "You All Know! Arm Tank Volley",
+    "type": "game"
+  },
+  {
+    "appid": 1274700,
+    "name": "You Alone Can Defeat Evil",
+    "type": "game"
+  },
+  {
+    "appid": 3840180,
+    "name": "You And I",
+    "type": "game"
+  },
+  {
+    "appid": 1293820,
+    "name": "YOU and ME and HER: A Love Story",
+    "type": "game"
+  },
+  {
+    "appid": 4491650,
+    "name": "You Are ¿Not? A Dentist",
+    "type": "game"
+  },
+  {
+    "appid": 1233230,
+    "name": "You Are A Bird",
+    "type": "game"
+  },
+  {
+    "appid": 3540870,
+    "name": "You are a Failed Murderer",
+    "type": "game"
+  },
+  {
+    "appid": 3857970,
+    "name": "You are a Fucking Idiot!",
+    "type": "game"
+  },
+  {
+    "appid": 1818590,
+    "name": "You Are A Pilot",
+    "type": "game"
+  },
+  {
+    "appid": 1746080,
+    "name": "You are a slave!",
+    "type": "game"
+  },
+  {
+    "appid": 750820,
+    "name": "You Are a Torpedo AI",
+    "type": "game"
+  },
+  {
+    "appid": 1476750,
+    "name": "You are alone",
+    "type": "game"
+  },
+  {
+    "appid": 1140930,
+    "name": "You are apt",
+    "type": "game"
+  },
+  {
+    "appid": 2668610,
+    "name": "You Are Bugs",
+    "type": "game"
+  },
+  {
+    "appid": 3578190,
+    "name": "You Are Circle",
+    "type": "game"
+  },
+  {
+    "appid": 2962990,
+    "name": "You Are Dead",
+    "type": "game"
+  },
+  {
+    "appid": 63930,
+    "name": "You Are EMPTY",
+    "type": "game"
+  },
+  {
+    "appid": 4760480,
+    "name": "You Are Empty: Absolute Edition",
+    "type": "game"
+  },
+  {
+    "appid": 4625750,
+    "name": "You Are Family",
+    "type": "game"
+  },
+  {
+    "appid": 4052750,
+    "name": "You are fired",
+    "type": "game"
+  },
+  {
+    "appid": 3875950,
+    "name": "You Are Ghost",
+    "type": "game"
+  },
+  {
+    "appid": 596280,
+    "name": "You Are God",
+    "type": "game"
+  },
+  {
+    "appid": 3161920,
+    "name": "You Are Grounded",
+    "type": "game"
+  },
+  {
+    "appid": 930500,
+    "name": "You Are Here",
+    "type": "game"
+  },
+  {
+    "appid": 2890630,
+    "name": "You Are Horny",
+    "type": "game"
+  },
+  {
+    "appid": 1610070,
+    "name": "You Are Kaiju",
+    "type": "game"
+  },
+  {
+    "appid": 697000,
+    "name": "YOU ARE KING",
+    "type": "game"
+  },
+  {
+    "appid": 2626680,
+    "name": "You Are Liam: Shadow Memories",
+    "type": "game"
+  },
+  {
+    "appid": 2921520,
+    "name": "You Are My Treasure",
+    "type": "game"
+  },
+  {
+    "appid": 978020,
+    "name": "You are Never Alone",
+    "type": "game"
+  },
+  {
+    "appid": 4994950,
+    "name": "YOU ARE NEWTON",
+    "type": "game"
+  },
+  {
+    "appid": 1250290,
+    "name": "You are next",
+    "type": "game"
+  },
+  {
+    "appid": 340470,
+    "name": "You Are Not a Banana: Better Edition",
+    "type": "game"
+  },
+  {
+    "appid": 3510450,
+    "name": "You Are Not Alice",
+    "type": "game"
+  },
+  {
+    "appid": 1848490,
+    "name": "You Are NOT Bunnygirl",
+    "type": "game"
+  },
+  {
+    "appid": 4903320,
+    "name": "You Are Not the Chosen One",
+    "type": "game"
+  },
+  {
+    "appid": 268970,
+    "name": "You Are Not The Hero",
+    "type": "game"
+  },
+  {
+    "appid": 2352640,
+    "name": "You are Peter Shorts",
+    "type": "game"
+  },
+  {
+    "appid": 1183410,
+    "name": "you are pig sitter",
+    "type": "game"
+  },
+  {
+    "appid": 2323370,
+    "name": "You Are Sick",
+    "type": "game"
+  },
+  {
+    "appid": 2330060,
+    "name": "You Are Speed",
+    "type": "game"
+  },
+  {
+    "appid": 3173980,
+    "name": "YOU ARE SUPER MEGA LEGENDARY PHEONIX",
+    "type": "game"
+  },
+  {
+    "appid": 822440,
+    "name": "You Are The Apple Of My Eye 研磨时光",
+    "type": "game"
+  },
+  {
+    "appid": 3459520,
+    "name": "You Are The Bomb: A Game About Rolling Bombs",
+    "type": "game"
+  },
+  {
+    "appid": 3333330,
+    "name": "You Are The Code",
+    "type": "game"
+  },
+  {
+    "appid": 2151530,
+    "name": "YOU ARE THE DINNER",
+    "type": "game"
+  },
+  {
+    "appid": 2305180,
+    "name": "You are the Judge!",
+    "type": "game"
+  },
+  {
+    "appid": 4314930,
+    "name": "You Are the Light – An Audiovisual VR Journey",
+    "type": "game"
+  },
+  {
+    "appid": 4793760,
+    "name": "You Are The Loading Screen",
+    "type": "game"
+  },
+  {
+    "appid": 3986670,
+    "name": "YOU ARE THE MONSTER",
+    "type": "game"
+  },
+  {
+    "appid": 2056250,
+    "name": "You are the weapon",
+    "type": "game"
+  },
+  {
+    "appid": 2404610,
+    "name": "You Are Tre",
+    "type": "game"
+  },
+  {
+    "appid": 4751170,
+    "name": "You Are Vacuum",
+    "type": "game"
+  },
+  {
+    "appid": 1478780,
+    "name": "You Are Weak",
+    "type": "game"
+  },
+  {
+    "appid": 1466190,
+    "name": "You Arrive in a Town",
+    "type": "game"
+  },
+  {
+    "appid": 4295470,
+    "name": "YOU BECOME FROG 🐸",
+    "type": "game"
+  },
+  {
+    "appid": 4217680,
+    "name": "You Belong Here",
+    "type": "game"
+  },
+  {
+    "appid": 3030470,
+    "name": "You belong in the Stars",
+    "type": "game"
+  },
+  {
+    "appid": 1683650,
+    "name": "You Better Run",
+    "type": "game"
+  },
+  {
+    "appid": 4884490,
+    "name": "You Broke My Sunshine",
+    "type": "game"
+  },
+  {
+    "appid": 4948660,
+    "name": "You Call Yourself a Wizard?!",
+    "type": "game"
+  },
+  {
+    "appid": 4254490,
+    "name": "You Can (Not) Do It!!",
+    "type": "game"
+  },
+  {
+    "appid": 2269690,
+    "name": "You Can Do!mino",
+    "type": "game"
+  },
+  {
+    "appid": 1031900,
+    "name": "You Can Kana",
+    "type": "game"
+  },
+  {
+    "appid": 1394140,
+    "name": "You Can Pet The Dog VR",
+    "type": "game"
+  },
+  {
+    "appid": 2750210,
+    "name": "You Can Save Everyone",
+    "type": "game"
+  },
+  {
+    "appid": 3956930,
+    "name": "you can serve",
+    "type": "game"
+  },
+  {
+    "appid": 3192330,
+    "name": "You Can't Corrupt Me! ~Tale of a Naive Elven Swordswoman~ SS",
+    "type": "game"
+  },
+  {
+    "appid": 5112830,
+    "name": "You Can't Drink Gold",
+    "type": "game"
+  },
+  {
+    "appid": 1682210,
+    "name": "You Can't Finish",
+    "type": "game"
+  },
+  {
+    "appid": 1018880,
+    "name": "YOU CAN'T FUCK ON AN EMPTY STOMACH",
+    "type": "game"
+  },
+  {
+    "appid": 4631050,
+    "name": "You Can't Ring It",
+    "type": "game"
+  },
+  {
+    "appid": 2097210,
+    "name": "You Can't Scare Me",
+    "type": "game"
+  },
+  {
+    "appid": 3165640,
+    "name": "You Can't See Ghosts!",
+    "type": "game"
+  },
+  {
+    "appid": 976340,
+    "name": "You Can(Not) Survive",
+    "type": "game"
+  },
+  {
+    "appid": 1122330,
+    "name": "You Complete Me",
+    "type": "game"
+  },
+  {
+    "appid": 502240,
+    "name": "You Deserve",
+    "type": "game"
+  },
+  {
+    "appid": 1931970,
+    "name": "You Deserve a Seat at the Table",
+    "type": "game"
+  },
+  {
+    "appid": 3434040,
+    "name": "You Die Today",
+    "type": "game"
+  },
+  {
+    "appid": 1037100,
+    "name": "You Died but a Necromancer revived you",
+    "type": "game"
+  },
+  {
+    "appid": 3039370,
+    "name": "You Died!",
+    "type": "game"
+  },
+  {
+    "appid": 3719690,
+    "name": "YOU DO NOT EXIST",
+    "type": "game"
+  },
+  {
+    "appid": 688650,
+    "name": "You Doesn't Exist",
+    "type": "game"
+  },
+  {
+    "appid": 4005260,
+    "name": "You Don't Belong Here",
+    "type": "game"
+  },
+  {
+    "appid": 1107040,
+    "name": "You Don't Have Time",
+    "type": "game"
+  },
+  {
+    "appid": 99200,
+    "name": "YOU DON'T KNOW JACK",
+    "type": "game"
+  },
+  {
+    "appid": 260060,
+    "name": "YOU DON'T KNOW JACK HEADRUSH",
+    "type": "game"
+  },
+  {
+    "appid": 260000,
+    "name": "YOU DON'T KNOW JACK MOVIES",
+    "type": "game"
+  },
+  {
+    "appid": 260020,
+    "name": "YOU DON'T KNOW JACK SPORTS",
+    "type": "game"
+  },
+  {
+    "appid": 260040,
+    "name": "YOU DON'T KNOW JACK TELEVISION",
+    "type": "game"
+  },
+  {
+    "appid": 252730,
+    "name": "YOU DON'T KNOW JACK Vol. 1 XL",
+    "type": "game"
+  },
+  {
+    "appid": 259940,
+    "name": "YOU DON'T KNOW JACK Vol. 2",
+    "type": "game"
+  },
+  {
+    "appid": 259960,
+    "name": "YOU DON'T KNOW JACK Vol. 3",
+    "type": "game"
+  },
+  {
+    "appid": 259980,
+    "name": "YOU DON'T KNOW JACK Vol. 4 The Ride",
+    "type": "game"
+  },
+  {
+    "appid": 260080,
+    "name": "YOU DON'T KNOW JACK Vol. 6 The Lost Gold",
+    "type": "game"
+  },
+  {
+    "appid": 2688400,
+    "name": "You Draw, I Guess",
+    "type": "game"
+  },
+  {
+    "appid": 2892270,
+    "name": "you feel normal.",
+    "type": "game"
+  },
+  {
+    "appid": 2964980,
+    "name": "You Go Boom",
+    "type": "game"
+  },
+  {
+    "appid": 3012680,
+    "name": "You Go First!",
+    "type": "game"
+  },
+  {
+    "appid": 2695870,
+    "name": "You Got Crabs",
+    "type": "game"
+  },
+  {
+    "appid": 848670,
+    "name": "You Green Elephant",
+    "type": "game"
+  },
+  {
+    "appid": 4683510,
+    "name": "You had a bad dream",
+    "type": "game"
+  },
+  {
+    "appid": 510050,
+    "name": "You Have 10 Seconds",
+    "type": "game"
+  },
+  {
+    "appid": 2390510,
+    "name": "You Have 10 Seconds (2023)",
+    "type": "game"
+  },
+  {
+    "appid": 521570,
+    "name": "You Have 10 Seconds 2",
+    "type": "game"
+  },
+  {
+    "appid": 978640,
+    "name": "You Have 10 Seconds 3",
+    "type": "game"
+  },
+  {
+    "appid": 3420980,
+    "name": "You Have A Delivery",
+    "type": "game"
+  },
+  {
+    "appid": 966530,
+    "name": "You have a drunk friend",
+    "type": "game"
+  },
+  {
+    "appid": 3363910,
+    "name": "You Have Been Deleted",
+    "type": "game"
+  },
+  {
+    "appid": 4826650,
+    "name": "You Have Been Slain: An Idle Tragedy",
+    "type": "game"
+  },
+  {
+    "appid": 5126880,
+    "name": "You Have No Friends But You Still Want to Play Tabletop RPGs",
+    "type": "game"
+  },
+  {
+    "appid": 2238360,
+    "name": "You Have No Time",
+    "type": "game"
+  },
+  {
+    "appid": 3026480,
+    "name": "You Have To Climb Out",
+    "type": "game"
+  },
+  {
+    "appid": 1699320,
+    "name": "You Have to Play This Game",
+    "type": "game"
+  },
+  {
+    "appid": 286100,
+    "name": "You Have to Win the Game",
+    "type": "game"
+  },
+  {
+    "appid": 5018930,
+    "name": "YOU IN?",
+    "type": "game"
+  },
+  {
+    "appid": 3056420,
+    "name": "You know my name?",
+    "type": "game"
+  },
+  {
+    "appid": 3833760,
+    "name": "You Know The Drill",
+    "type": "game"
+  },
+  {
+    "appid": 2866730,
+    "name": "You Left Us",
+    "type": "game"
+  },
+  {
+    "appid": 4349610,
+    "name": "YOU LOSE YOU SCREAM",
+    "type": "game"
+  },
+  {
+    "appid": 4325120,
+    "name": "You Lose: Retry",
+    "type": "game"
+  },
+  {
+    "appid": 3232890,
+    "name": "You Make The Game",
+    "type": "game"
+  },
+  {
+    "appid": 3896240,
+    "name": "You Move, I Move",
+    "type": "game"
+  },
+  {
+    "appid": 1726730,
+    "name": "You Must",
+    "type": "game"
+  },
+  {
+    "appid": 608510,
+    "name": "You Must be 18 or Older to Enter",
+    "type": "game"
+  },
+  {
+    "appid": 2414190,
+    "name": "You Must Become A Lich",
+    "type": "game"
+  },
+  {
+    "appid": 290890,
+    "name": "You Must Build A Boat",
+    "type": "game"
+  },
+  {
+    "appid": 4832350,
+    "name": "You Must Die",
+    "type": "game"
+  },
+  {
+    "appid": 4561540,
+    "name": "You must evolve it! Incremental",
+    "type": "game"
+  },
+  {
+    "appid": 1300910,
+    "name": "You Must Mop",
+    "type": "game"
+  },
+  {
+    "appid": 5054860,
+    "name": "You Must Peg",
+    "type": "game"
+  },
+  {
+    "appid": 3035100,
+    "name": "You Must Retry",
+    "type": "game"
+  },
+  {
+    "appid": 5005510,
+    "name": "YOU MUST SLEEP: Ravenous Nightmares",
+    "type": "game"
+  },
+  {
+    "appid": 1530120,
+    "name": "You Must Survive",
+    "type": "game"
+  },
+  {
+    "appid": 1157600,
+    "name": "You Never Listen",
+    "type": "game"
+  },
+  {
+    "appid": 5083910,
+    "name": "You Only Dream Once - Unknown Player’s Island Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 1172820,
+    "name": "You Only Livez Twice",
+    "type": "game"
+  },
+  {
+    "appid": 3755760,
+    "name": "You Owe Me",
+    "type": "game"
+  },
+  {
+    "appid": 1480240,
+    "name": "You Pilot A Piece Of S****: GAIDEN",
+    "type": "game"
+  },
+  {
+    "appid": 3377940,
+    "name": "You reincarnated into the game world and fucked the NPCs!-Animation-",
+    "type": "game"
+  },
+  {
+    "appid": 4108300,
+    "name": "You Remembered",
+    "type": "game"
+  },
+  {
+    "appid": 3099580,
+    "name": "You see me?",
+    "type": "game"
+  },
+  {
+    "appid": 959020,
+    "name": "You Shall Not Break!",
+    "type": "game"
+  },
+  {
+    "appid": 649000,
+    "name": "You Shall Not Jump: PC Master Race Edition",
+    "type": "game"
+  },
+  {
+    "appid": 4108580,
+    "name": "You shall not pass",
+    "type": "game"
+  },
+  {
+    "appid": 5140030,
+    "name": "You Should Consider Making a Burger",
+    "type": "game"
+  },
+  {
+    "appid": 5123870,
+    "name": "You Should Have Stopped",
+    "type": "game"
+  },
+  {
+    "appid": 3531640,
+    "name": "You Shouldn't Be Here",
+    "type": "game"
+  },
+  {
+    "appid": 4288920,
+    "name": "You Stay",
+    "type": "game"
+  },
+  {
+    "appid": 3117710,
+    "name": "You struck gold",
+    "type": "game"
+  },
+  {
+    "appid": 3903630,
+    "name": "You suck and I hate you: part 1",
+    "type": "game"
+  },
+  {
+    "appid": 3947570,
+    "name": "You suck and I hate you: part 2",
+    "type": "game"
+  },
+  {
+    "appid": 3842740,
+    "name": "You Suck At Football",
+    "type": "game"
+  },
+  {
+    "appid": 837880,
+    "name": "You Suck at Parking® - Complete Edition",
+    "type": "game"
+  },
+  {
+    "appid": 1043160,
+    "name": "You Versus 27 Elves",
+    "type": "game"
+  },
+  {
+    "appid": 1741900,
+    "name": "You VS Drugs",
+    "type": "game"
+  },
+  {
+    "appid": 4224660,
+    "name": "YOU vs Zombies",
+    "type": "game"
+  },
+  {
+    "appid": 3029680,
+    "name": "You Want to Watch the World Burn",
+    "type": "game"
+  },
+  {
+    "appid": 3828830,
+    "name": "You Were Sent Alone",
+    "type": "game"
+  },
+  {
+    "appid": 4020970,
+    "name": "You Were There -君はそこにいた-",
+    "type": "game"
+  },
+  {
+    "appid": 4545930,
+    "name": "You Weren't Invited",
+    "type": "game"
+  },
+  {
+    "appid": 1776160,
+    "name": "You Will (Not) Remain",
+    "type": "game"
+  },
+  {
+    "appid": 3151040,
+    "name": "You will be cursed",
+    "type": "game"
+  },
+  {
+    "appid": 1932470,
+    "name": "You will die a lot buddy, trust me!",
+    "type": "game"
+  },
+  {
+    "appid": 1446350,
+    "name": "You Will Die Here Tonight",
+    "type": "game"
+  },
+  {
+    "appid": 2411240,
+    "name": "You Will Die!",
+    "type": "game"
+  },
+  {
+    "appid": 4559610,
+    "name": "You Will Fall",
+    "type": "game"
+  },
+  {
+    "appid": 5169430,
+    "name": "You Will Get Rich!",
+    "type": "game"
+  },
+  {
+    "appid": 771410,
+    "name": "You Will Never Get This Achievement",
+    "type": "game"
+  },
+  {
+    "appid": 2487420,
+    "name": "You Will Not Survive",
+    "type": "game"
+  },
+  {
+    "appid": 3893950,
+    "name": "You Will Rot",
+    "type": "game"
+  },
+  {
+    "appid": 4706680,
+    "name": "You Within Me",
+    "type": "game"
+  },
+  {
+    "appid": 1563310,
+    "name": "You You N Music",
+    "type": "game"
+  },
+  {
+    "appid": 4359400,
+    "name": "You, in every Room.",
+    "type": "game"
+  },
+  {
+    "appid": 5341940,
+    "name": "You, Me, and a Beautiful Lie -CLASSIC REMASTER-",
+    "type": "game"
+  },
+  {
+    "appid": 588050,
+    "name": "You, With Me - A Kinetic Novel",
+    "type": "game"
+  },
+  {
+    "appid": 459640,
+    "name": "You... and who else?",
+    "type": "game"
+  },
+  {
+    "appid": 4824530,
+    "name": "You.T@pes",
+    "type": "game"
+  },
+  {
+    "appid": 5125990,
+    "name": "You'll Be Mined",
+    "type": "game"
+  },
+  {
+    "appid": 5035780,
+    "name": "You'll never find it!",
+    "type": "game"
+  },
+  {
+    "appid": 5040820,
+    "name": "You'll Never Find My Cash!",
+    "type": "game"
+  },
+  {
+    "appid": 2406490,
+    "name": "You'll stay here forever",
+    "type": "game"
+  },
+  {
+    "appid": 3160540,
+    "name": "You're a dad",
+    "type": "game"
+  },
+  {
+    "appid": 5034340,
+    "name": "You're Absolutely Right! Or: A lovehate game about technology",
+    "type": "game"
+  },
+  {
+    "appid": 4708400,
+    "name": "You're Alive, Phil",
+    "type": "game"
+  },
+  {
+    "appid": 843210,
+    "name": "You're Fired",
+    "type": "game"
+  },
+  {
+    "appid": 1086050,
+    "name": "You're Fired!",
+    "type": "game"
+  },
+  {
+    "appid": 2234320,
+    "name": "You're Fired! Revenge!",
+    "type": "game"
+  },
+  {
+    "appid": 4303410,
+    "name": "You're Gonna Be Famous!",
+    "type": "game"
+  },
+  {
+    "appid": 3386150,
+    "name": "You're here again",
+    "type": "game"
+  },
+  {
+    "appid": 5360530,
+    "name": "You're Hired!",
+    "type": "game"
+  },
+  {
+    "appid": 3937780,
+    "name": "You're Invading my Space",
+    "type": "game"
+  },
+  {
+    "appid": 5187640,
+    "name": "You're It!",
+    "type": "game"
+  },
+  {
+    "appid": 3224310,
+    "name": "you're just imagining it",
+    "type": "game"
+  },
+  {
+    "appid": 3866380,
+    "name": "You're My Favorite Person",
+    "type": "game"
+  },
+  {
+    "appid": 2448710,
+    "name": "You're My Penguin",
+    "type": "game"
+  },
+  {
+    "appid": 2567170,
+    "name": "You're Not Family",
+    "type": "game"
+  },
+  {
+    "appid": 991430,
+    "name": "You're Not Special",
+    "type": "game"
+  },
+  {
+    "appid": 3854950,
+    "name": "You're Nuts!",
+    "type": "game"
+  },
+  {
+    "appid": 1303090,
+    "name": "You're the Doctor",
+    "type": "game"
+  },
+  {
+    "appid": 2098120,
+    "name": "You've been banished.",
+    "type": "game"
+  },
+  {
+    "appid": 2473620,
+    "name": "You've been ReMaid",
+    "type": "game"
+  },
+  {
+    "appid": 3556110,
+    "name": "You've Changed",
+    "type": "game"
+  },
+  {
+    "appid": 4018200,
+    "name": "You’ve Got a Package",
+    "type": "game"
+  },
+  {
+    "appid": 1282630,
+    "name": "YouCanDoIt?",
+    "type": "game"
+  },
+  {
+    "appid": 3764090,
+    "name": "Youchosis.",
+    "type": "game"
+  },
+  {
+    "appid": 733710,
+    "name": "YOUFIGHT",
+    "type": "game"
+  },
+  {
+    "appid": 1826130,
+    "name": "Yougen",
+    "type": "game"
+  },
+  {
+    "appid": 1727150,
+    "name": "Youkai-Senki",
+    "type": "game"
+  },
+  {
+    "appid": 2593830,
+    "name": "Youlogic",
+    "type": "game"
+  },
+  {
+    "appid": 2002520,
+    "name": "Youmandriver",
+    "type": "game"
+  },
+  {
+    "appid": 1538240,
+    "name": "Youmu Konpaku & Dungeon of Lewd Creatures",
+    "type": "game"
+  },
+  {
+    "appid": 3925220,
+    "name": "Youmu's Cube Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 4809860,
+    "name": "YouMustRemember",
+    "type": "game"
+  },
+  {
+    "appid": 1467240,
+    "name": "Young Archaeologist",
+    "type": "game"
+  },
+  {
+    "appid": 4888050,
+    "name": "Young Cathedral",
+    "type": "game"
+  },
+  {
+    "appid": 3051620,
+    "name": "Young Detectives: Animals",
+    "type": "game"
+  },
+  {
+    "appid": 3051610,
+    "name": "Young Detectives: Farm",
+    "type": "game"
+  },
+  {
+    "appid": 3051650,
+    "name": "Young Detectives: Holidays",
+    "type": "game"
+  },
+  {
+    "appid": 3023360,
+    "name": "Young Detectives: School",
+    "type": "game"
+  },
+  {
+    "appid": 3051640,
+    "name": "Young Detectives: Space",
+    "type": "game"
+  },
+  {
+    "appid": 3051630,
+    "name": "Young Detectives: Undersea",
+    "type": "game"
+  },
+  {
+    "appid": 2394910,
+    "name": "Young Hearts",
+    "type": "game"
+  },
+  {
+    "appid": 4852710,
+    "name": "Young Homer: A Storyteller's Odyssey",
+    "type": "game"
+  },
+  {
+    "appid": 235760,
+    "name": "Young Justice: Legacy",
+    "type": "game"
+  },
+  {
+    "appid": 2334920,
+    "name": "Young mage",
+    "type": "game"
+  },
+  {
+    "appid": 5368480,
+    "name": "Young Mysteries: The Secret of the Old Clock (1930)",
+    "type": "game"
+  },
+  {
+    "appid": 985900,
+    "name": "Young Souls",
+    "type": "game"
+  },
+  {
+    "appid": 4149610,
+    "name": "Young Suns",
+    "type": "game"
+  },
+  {
+    "appid": 2553880,
+    "name": "YOUNG TEAM SOUNDS",
+    "type": "game"
+  },
+  {
+    "appid": 3243330,
+    "name": "Youniverse",
+    "type": "game"
+  },
+  {
+    "appid": 5184540,
+    "name": "YouPlanet",
+    "type": "game"
+  },
+  {
+    "appid": 3844930,
+    "name": "YOUR ADULT STORE",
+    "type": "game"
+  },
+  {
+    "appid": 1689550,
+    "name": "Your Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 3983500,
+    "name": "YOUR ALIEN ROOMMATE EMILY",
+    "type": "game"
+  },
+  {
+    "appid": 1420740,
+    "name": "Your amazing T-Gotchi!",
+    "type": "game"
+  },
+  {
+    "appid": 5326420,
+    "name": "Your Ancestor Stories",
+    "type": "game"
+  },
+  {
+    "appid": 3352470,
+    "name": "Your Android",
+    "type": "game"
+  },
+  {
+    "appid": 1159020,
+    "name": "Your Anime Waifu",
+    "type": "game"
+  },
+  {
+    "appid": 2349870,
+    "name": "Your Average Bear",
+    "type": "game"
+  },
+  {
+    "appid": 872980,
+    "name": "Your Ball Exploded",
+    "type": "game"
+  },
+  {
+    "appid": 3659410,
+    "name": "Your Big, Cute Monster Farm",
+    "type": "game"
+  },
+  {
+    "appid": 1600500,
+    "name": "Your Blight",
+    "type": "game"
+  },
+  {
+    "appid": 1771650,
+    "name": "Your Boyfriend",
+    "type": "game"
+  },
+  {
+    "appid": 4671200,
+    "name": "Your Brother's Requiem",
+    "type": "game"
+  },
+  {
+    "appid": 3649460,
+    "name": "Your Bunny Secretary",
+    "type": "game"
+  },
+  {
+    "appid": 756440,
+    "name": "Your Bunny Wrote",
+    "type": "game"
+  },
+  {
+    "appid": 4343210,
+    "name": "Your Busty Waifu",
+    "type": "game"
+  },
+  {
+    "appid": 4160030,
+    "name": "Your Canvas",
+    "type": "game"
+  },
+  {
+    "appid": 882510,
+    "name": "Your Car Shooter",
+    "type": "game"
+  },
+  {
+    "appid": 5339360,
+    "name": "Your Cat",
+    "type": "game"
+  },
+  {
+    "appid": 4560940,
+    "name": "Your Chibi Chicken: Lo-Fi Desktop Pet",
+    "type": "game"
+  },
+  {
+    "appid": 1546320,
+    "name": "Your Chronicle",
+    "type": "game"
+  },
+  {
+    "appid": 5227830,
+    "name": "Your City Coming",
+    "type": "game"
+  },
+  {
+    "appid": 1532870,
+    "name": "Your city in 3D",
+    "type": "game"
+  },
+  {
+    "appid": 1969620,
+    "name": "Your Computer Might Be At Risk",
+    "type": "game"
+  },
+  {
+    "appid": 1839900,
+    "name": "Your courier is on their way!",
+    "type": "game"
+  },
+  {
+    "appid": 4704430,
+    "name": "Your Cozy Unboxing",
+    "type": "game"
+  },
+  {
+    "appid": 3541340,
+    "name": "Your Crown Is Mine",
+    "type": "game"
+  },
+  {
+    "appid": 2564140,
+    "name": "Your Cute Wife",
+    "type": "game"
+  },
+  {
+    "appid": 4551520,
+    "name": "Your Daddy",
+    "type": "game"
+  },
+  {
+    "appid": 4298160,
+    "name": "Your Daily Life",
+    "type": "game"
+  },
+  {
+    "appid": 1431540,
+    "name": "Your Dead Majesty",
+    "type": "game"
+  },
+  {
+    "appid": 5103830,
+    "name": "Your Desktop Companion - Lumi",
+    "type": "game"
+  },
+  {
+    "appid": 761700,
+    "name": "Your Diary +",
+    "type": "game"
+  },
+  {
+    "appid": 3535480,
+    "name": "Your Digital Cookbook",
+    "type": "game"
+  },
+  {
+    "appid": 3652750,
+    "name": "Your Dog Hitler",
+    "type": "game"
+  },
+  {
+    "appid": 95500,
+    "name": "Your Doodles Are Bugged!",
+    "type": "game"
+  },
+  {
+    "appid": 4605230,
+    "name": "Your Drunken Girl",
+    "type": "game"
+  },
+  {
+    "appid": 913010,
+    "name": "Your Dry Delight",
+    "type": "game"
+  },
+  {
+    "appid": 2829270,
+    "name": "YOUR EARTH",
+    "type": "game"
+  },
+  {
+    "appid": 4636720,
+    "name": "Your Ex",
+    "type": "game"
+  },
+  {
+    "appid": 5128650,
+    "name": "Your Fantasy Pets",
+    "type": "game"
+  },
+  {
+    "appid": 1411750,
+    "name": "Your Fear",
+    "type": "game"
+  },
+  {
+    "appid": 4753760,
+    "name": "Your Fiancée",
+    "type": "game"
+  },
+  {
+    "appid": 4739740,
+    "name": "Your First Half-Orc: A Fantasy Gay Sex Encounter in VR",
+    "type": "game"
+  },
+  {
+    "appid": 4323970,
+    "name": "Your Fitness Wife",
+    "type": "game"
+  },
+  {
+    "appid": 3948370,
+    "name": "Your Forever Friend",
+    "type": "game"
+  },
+  {
+    "appid": 3791760,
+    "name": "Your Fox Wife",
+    "type": "game"
+  },
+  {
+    "appid": 610810,
+    "name": "Your Friend Hana",
+    "type": "game"
+  },
+  {
+    "appid": 3235360,
+    "name": "Your Friend Is A Bad Apple",
+    "type": "game"
+  },
+  {
+    "appid": 3978710,
+    "name": "Your Friend Wiggles",
+    "type": "game"
+  },
+  {
+    "appid": 4541300,
+    "name": "Your Friend, Sam",
+    "type": "game"
+  },
+  {
+    "appid": 4397180,
+    "name": "Your Friend's Mom",
+    "type": "game"
+  },
+  {
+    "appid": 5273050,
+    "name": "Your Friend's Mom 2",
+    "type": "game"
+  },
+  {
+    "appid": 4634660,
+    "name": "Your Friends Vs Hidebehind",
+    "type": "game"
+  },
+  {
+    "appid": 4828550,
+    "name": "Your Furry Mother",
+    "type": "game"
+  },
+  {
+    "appid": 1030580,
+    "name": "Your Future Self",
+    "type": "game"
+  },
+  {
+    "appid": 1085310,
+    "name": "Your Girl",
+    "type": "game"
+  },
+  {
+    "appid": 3415860,
+    "name": "Your Girlfriend",
+    "type": "game"
+  },
+  {
+    "appid": 4774310,
+    "name": "Your God Damn Battle-Beast",
+    "type": "game"
+  },
+  {
+    "appid": 3602080,
+    "name": "Your God is false",
+    "type": "game"
+  },
+  {
+    "appid": 3204900,
+    "name": "Your Heart",
+    "type": "game"
+  },
+  {
+    "appid": 2621030,
+    "name": "Your Holy & Virtuous Heretic",
+    "type": "game"
+  },
+  {
+    "appid": 1015350,
+    "name": "Your Home",
+    "type": "game"
+  },
+  {
+    "appid": 5072310,
+    "name": "Your Horny Streamer",
+    "type": "game"
+  },
+  {
+    "appid": 2667740,
+    "name": "YOUR HOUSE",
+    "type": "game"
+  },
+  {
+    "appid": 1290510,
+    "name": "Your Human is Sick",
+    "type": "game"
+  },
+  {
+    "appid": 1087720,
+    "name": "Your Island -KIMI NO SIMA-",
+    "type": "game"
+  },
+  {
+    "appid": 2514900,
+    "name": "Your Journey of Survival",
+    "type": "game"
+  },
+  {
+    "appid": 3953700,
+    "name": "Your Judgement, Inquisitor",
+    "type": "game"
+  },
+  {
+    "appid": 5191450,
+    "name": "Your Legacy: Generations",
+    "type": "game"
+  },
+  {
+    "appid": 2841740,
+    "name": "Your letter has been rejected.",
+    "type": "game"
+  },
+  {
+    "appid": 4904370,
+    "name": "Your Liar",
+    "type": "game"
+  },
+  {
+    "appid": 5262620,
+    "name": "Your Life is Not Covered",
+    "type": "game"
+  },
+  {
+    "appid": 4499030,
+    "name": "Your Lil' Cow",
+    "type": "game"
+  },
+  {
+    "appid": 1218150,
+    "name": "Your little story: Valentine's Day",
+    "type": "game"
+  },
+  {
+    "appid": 1195350,
+    "name": "Your little story: Winter",
+    "type": "game"
+  },
+  {
+    "appid": 3826970,
+    "name": "Your Love Ai",
+    "type": "game"
+  },
+  {
+    "appid": 2010830,
+    "name": "Your Love Story 被你忘记的那个夏天",
+    "type": "game"
+  },
+  {
+    "appid": 3648550,
+    "name": "Your Magic Hook",
+    "type": "game"
+  },
+  {
+    "appid": 4362620,
+    "name": "Your Maid",
+    "type": "game"
+  },
+  {
+    "appid": 4249640,
+    "name": "Your Maid!!",
+    "type": "game"
+  },
+  {
+    "appid": 2699740,
+    "name": "Your Majesty",
+    "type": "game"
+  },
+  {
+    "appid": 4710410,
+    "name": "Your master",
+    "type": "game"
+  },
+  {
+    "appid": 4106510,
+    "name": "YOUR MEDIEVAL ADULT STORE",
+    "type": "game"
+  },
+  {
+    "appid": 4453370,
+    "name": "Your Meow-jesty!",
+    "type": "game"
+  },
+  {
+    "appid": 3448530,
+    "name": "Your mini wife",
+    "type": "game"
+  },
+  {
+    "appid": 1678830,
+    "name": "Your mom",
+    "type": "game"
+  },
+  {
+    "appid": 4147820,
+    "name": "Your Mom",
+    "type": "game"
+  },
+  {
+    "appid": 4745370,
+    "name": "Your Momo",
+    "type": "game"
+  },
+  {
+    "appid": 4596090,
+    "name": "Your Mother Disgusts Me",
+    "type": "game"
+  },
+  {
+    "appid": 4044500,
+    "name": "Your Move",
+    "type": "game"
+  },
+  {
+    "appid": 4799370,
+    "name": "Your Murder Is Served",
+    "type": "game"
+  },
+  {
+    "appid": 1377120,
+    "name": "Your Music Puzzle",
+    "type": "game"
+  },
+  {
+    "appid": 2212330,
+    "name": "Your Only Move Is HUSTLE",
+    "type": "game"
+  },
+  {
+    "appid": 2229020,
+    "name": "Your Otherworldly Harem",
+    "type": "game"
+  },
+  {
+    "appid": 4407070,
+    "name": "Your Own Constella",
+    "type": "game"
+  },
+  {
+    "appid": 4668390,
+    "name": "Your Own Cozy Motel",
+    "type": "game"
+  },
+  {
+    "appid": 4117830,
+    "name": "Your Painting, Sir",
+    "type": "game"
+  },
+  {
+    "appid": 4609470,
+    "name": "Your party died again",
+    "type": "game"
+  },
+  {
+    "appid": 1870430,
+    "name": "Your Personal Chill Apartment",
+    "type": "game"
+  },
+  {
+    "appid": 2477610,
+    "name": "Your Personality Test",
+    "type": "game"
+  },
+  {
+    "appid": 1483790,
+    "name": "your planet in 60 seconds",
+    "type": "game"
+  },
+  {
+    "appid": 5411590,
+    "name": "Your Presence Is Delaying Progress",
+    "type": "game"
+  },
+  {
+    "appid": 4282880,
+    "name": "Your Price, Your Honor.",
+    "type": "game"
+  },
+  {
+    "appid": 416030,
+    "name": "Your Quest",
+    "type": "game"
+  },
+  {
+    "appid": 1220510,
+    "name": "Your Quest 2",
+    "type": "game"
+  },
+  {
+    "appid": 5119100,
+    "name": "Your quest, please",
+    "type": "game"
+  },
+  {
+    "appid": 5069180,
+    "name": "Your Reimu",
+    "type": "game"
+  },
+  {
+    "appid": 5019750,
+    "name": "Your Reputation Precedes You",
+    "type": "game"
+  },
+  {
+    "appid": 765210,
+    "name": "Your Royal Gayness",
+    "type": "game"
+  },
+  {
+    "appid": 4873080,
+    "name": "Your Screen Friend",
+    "type": "game"
+  },
+  {
+    "appid": 3723680,
+    "name": "Your Second Wife",
+    "type": "game"
+  },
+  {
+    "appid": 2678880,
+    "name": "Your Shots Count",
+    "type": "game"
+  },
+  {
+    "appid": 1730390,
+    "name": "Your Show Has Been Cancelled",
+    "type": "game"
+  },
+  {
+    "appid": 3639840,
+    "name": "your side girls",
+    "type": "game"
+  },
+  {
+    "appid": 2957100,
+    "name": "Your Sister",
+    "type": "game"
+  },
+  {
+    "appid": 3879250,
+    "name": "Your Sister",
+    "type": "game"
+  },
+  {
+    "appid": 4359450,
+    "name": "Your sister",
+    "type": "game"
+  },
+  {
+    "appid": 611150,
+    "name": "your sisters",
+    "type": "game"
+  },
+  {
+    "appid": 653950,
+    "name": "Your Smile Beyond Twilight",
+    "type": "game"
+  },
+  {
+    "appid": 2418780,
+    "name": "Your Spaceport!",
+    "type": "game"
+  },
+  {
+    "appid": 1885510,
+    "name": "Your Spider",
+    "type": "game"
+  },
+  {
+    "appid": 520080,
+    "name": "Your Star",
+    "type": "game"
+  },
+  {
+    "appid": 4308110,
+    "name": "Your Stepmom",
+    "type": "game"
+  },
+  {
+    "appid": 3615360,
+    "name": "Your StepSister",
+    "type": "game"
+  },
+  {
+    "appid": 1247740,
+    "name": "Your Story",
+    "type": "game"
+  },
+  {
+    "appid": 3257780,
+    "name": "Your Story: Games with Death",
+    "type": "game"
+  },
+  {
+    "appid": 3905430,
+    "name": "Your Succubus",
+    "type": "game"
+  },
+  {
+    "appid": 5017960,
+    "name": "Your Suffering Is Important to Us",
+    "type": "game"
+  },
+  {
+    "appid": 4763980,
+    "name": "Your Sweet Little Kitty",
+    "type": "game"
+  },
+  {
+    "appid": 1756120,
+    "name": "Your Sword Is So Big",
+    "type": "game"
+  },
+  {
+    "appid": 3734310,
+    "name": "Your Takeout",
+    "type": "game"
+  },
+  {
+    "appid": 4000510,
+    "name": "Your Teacher",
+    "type": "game"
+  },
+  {
+    "appid": 3616290,
+    "name": "Your Time Has Come",
+    "type": "game"
+  },
+  {
+    "appid": 2587670,
+    "name": "Your Train 2",
+    "type": "game"
+  },
+  {
+    "appid": 2067780,
+    "name": "Your Turn To Die -Death Game By Majority-",
+    "type": "game"
+  },
+  {
+    "appid": 2852390,
+    "name": "Your Turn to Disembark",
+    "type": "game"
+  },
+  {
+    "appid": 5188450,
+    "name": "Your Usual",
+    "type": "game"
+  },
+  {
+    "appid": 3859700,
+    "name": "Your Very Last Words",
+    "type": "game"
+  },
+  {
+    "appid": 3947100,
+    "name": "Your Waifu",
+    "type": "game"
+  },
+  {
+    "appid": 1338670,
+    "name": "Your Waifu Foxgirl Konko",
+    "type": "game"
+  },
+  {
+    "appid": 2128750,
+    "name": "Your Waifu JUICE",
+    "type": "game"
+  },
+  {
+    "appid": 1462740,
+    "name": "Your way",
+    "type": "game"
+  },
+  {
+    "appid": 4930730,
+    "name": "Your Way Out",
+    "type": "game"
+  },
+  {
+    "appid": 3959160,
+    "name": "Your Weight",
+    "type": "game"
+  },
+  {
+    "appid": 3720340,
+    "name": "your wife, mother and daughter",
+    "type": "game"
+  },
+  {
+    "appid": 4032640,
+    "name": "Your Wife's Pussy",
+    "type": "game"
+  },
+  {
+    "appid": 2518930,
+    "name": "Your World",
+    "type": "game"
+  },
+  {
+    "appid": 3568760,
+    "name": "Your World",
+    "type": "game"
+  },
+  {
+    "appid": 2383970,
+    "name": "Your World VR",
+    "type": "game"
+  },
+  {
+    "appid": 4888170,
+    "name": "Your Young Mother: NSFW PUZZLE",
+    "type": "game"
+  },
+  {
+    "appid": 1836350,
+    "name": "Your's Truly",
+    "type": "game"
+  },
+  {
+    "appid": 2724180,
+    "name": "Youra The Game",
+    "type": "game"
+  },
+  {
+    "appid": 2758760,
+    "name": "YourFigureOut",
+    "type": "game"
+  },
+  {
+    "appid": 1725680,
+    "name": "YouRiding - Surfing and Bodyboarding Game",
+    "type": "game"
+  },
+  {
+    "appid": 640120,
+    "name": "Youropa",
+    "type": "game"
+  },
+  {
+    "appid": 4397420,
+    "name": "YourQuest",
+    "type": "game"
+  },
+  {
+    "appid": 5247600,
+    "name": "YourTenderCatgirl",
+    "type": "game"
+  },
+  {
+    "appid": 760120,
+    "name": "YourToy",
+    "type": "game"
+  },
+  {
+    "appid": 2281470,
+    "name": "YourTrain",
+    "type": "game"
+  },
+  {
+    "appid": 771380,
+    "name": "Yousei",
+    "type": "game"
+  },
+  {
+    "appid": 4799860,
+    "name": "YOUSWAR",
+    "type": "game"
+  },
+  {
+    "appid": 4165060,
+    "name": "Youth Academy",
+    "type": "game"
+  },
+  {
+    "appid": 4642040,
+    "name": "Youth Centre Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 1111450,
+    "name": "Youth Feather",
+    "type": "game"
+  },
+  {
+    "appid": 3004120,
+    "name": "YouthSignal",
+    "type": "game"
+  },
+  {
+    "appid": 3491850,
+    "name": "Youtopia",
+    "type": "game"
+  },
+  {
+    "appid": 755770,
+    "name": "YouTube VR",
+    "type": "game"
+  },
+  {
+    "appid": 2098560,
+    "name": "Youtuber Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 689750,
+    "name": "Youtubers Clicker",
+    "type": "game"
+  },
+  {
+    "appid": 428690,
+    "name": "Youtubers Life",
+    "type": "game"
+  },
+  {
+    "appid": 1493760,
+    "name": "Youtubers Life 2",
+    "type": "game"
+  },
+  {
+    "appid": 3487060,
+    "name": "Youtubers Life 3",
+    "type": "game"
+  },
+  {
+    "appid": 1127890,
+    "name": "YouTubers Test",
+    "type": "game"
+  },
+  {
+    "appid": 2003870,
+    "name": "YOW",
+    "type": "game"
+  },
+  {
+    "appid": 4227240,
+    "name": "Yowlah Superstars نجوم اليولة",
+    "type": "game"
+  },
+  {
+    "appid": 5159330,
+    "name": "YoYo Blade",
+    "type": "game"
+  },
+  {
+    "appid": 3109010,
+    "name": "YOYO PUNK",
+    "type": "game"
+  },
+  {
+    "appid": 790780,
+    "name": "Yozakura Wizard VR",
+    "type": "game"
+  },
+  {
+    "appid": 5038570,
+    "name": "Yozgat City Survival",
+    "type": "game"
+  },
+  {
+    "appid": 569210,
+    "name": "Yozora Rhapsody",
+    "type": "game"
+  },
+  {
+    "appid": 3996700,
+    "name": "Yrdenwatch - The Dragon from Lidoriya",
+    "type": "game"
+  },
+  {
+    "appid": 1376010,
+    "name": "YRek Lost In Portals",
+    "type": "game"
+  },
+  {
+    "appid": 412490,
+    "name": "Yrminsul",
+    "type": "game"
+  },
+  {
+    "appid": 2605720,
+    "name": "Ys Foliage Ocean in Celceta : Kai",
+    "type": "game"
+  },
+  {
+    "appid": 223810,
+    "name": "Ys I",
+    "type": "game"
+  },
+  {
+    "appid": 223870,
+    "name": "Ys II",
+    "type": "game"
+  },
+  {
+    "appid": 1732330,
+    "name": "Ys IX -Monstrum NOX-",
+    "type": "game"
+  },
+  {
+    "appid": 1351630,
+    "name": "Ys IX: Monstrum Nox",
+    "type": "game"
+  },
+  {
+    "appid": 207350,
+    "name": "Ys Origin",
+    "type": "game"
+  },
+  {
+    "appid": 587100,
+    "name": "Ys SEVEN",
+    "type": "game"
+  },
+  {
+    "appid": 312540,
+    "name": "Ys VI: The Ark of Napishtim",
+    "type": "game"
+  },
+  {
+    "appid": 579180,
+    "name": "Ys VIII: Lacrimosa of Dana",
+    "type": "game"
+  },
+  {
+    "appid": 1794880,
+    "name": "Ys vs. Trails in the Sky: Alternative Saga",
+    "type": "game"
+  },
+  {
+    "appid": 2570810,
+    "name": "Ys X -NORDICS-",
+    "type": "game"
+  },
+  {
+    "appid": 2731870,
+    "name": "Ys X: Nordics",
+    "type": "game"
+  },
+  {
+    "appid": 3821790,
+    "name": "Ys X: Proud Nordics",
+    "type": "game"
+  },
+  {
+    "appid": 3949290,
+    "name": "Ys X: Proud Nordics",
+    "type": "game"
+  },
+  {
+    "appid": 587110,
+    "name": "Ys: Memories of Celceta",
+    "type": "game"
+  },
+  {
+    "appid": 207320,
+    "name": "Ys: The Oath in Felghana",
+    "type": "game"
+  },
+  {
+    "appid": 3171340,
+    "name": "ysh park",
+    "type": "game"
+  },
+  {
+    "appid": 1630290,
+    "name": "Yu Crossing Animals",
+    "type": "game"
+  },
+  {
+    "appid": 1177720,
+    "name": "Yu Escape / Monday",
+    "type": "game"
+  },
+  {
+    "appid": 4789420,
+    "name": "Yu Gong Moves Mountains",
+    "type": "game"
+  },
+  {
+    "appid": 601510,
+    "name": "Yu-Gi-Oh! Duel Links",
+    "type": "game"
+  },
+  {
+    "appid": 3013550,
+    "name": "Yu-Gi-Oh! EARLY DAYS COLLECTION",
+    "type": "game"
+  },
+  {
+    "appid": 480650,
+    "name": "Yu-Gi-Oh! Legacy of the Duelist",
+    "type": "game"
+  },
+  {
+    "appid": 1150640,
+    "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
+    "type": "game"
+  },
+  {
+    "appid": 1449850,
+    "name": "Yu-Gi-Oh! Master Duel",
+    "type": "game"
+  },
+  {
+    "appid": 4416300,
+    "name": "Yu-Gi-Oh! Tag Force GX",
+    "type": "game"
+  },
+  {
+    "appid": 912450,
+    "name": "YU-NO: A girl who chants love at the bound of this world",
+    "type": "game"
+  },
+  {
+    "appid": 4558920,
+    "name": "Yua Games collection 1",
+    "type": "game"
+  },
+  {
+    "appid": 2599530,
+    "name": "Yua's Yuri Office",
+    "type": "game"
+  },
+  {
+    "appid": 4802410,
+    "name": "YuanQi : 元氣",
+    "type": "game"
+  },
+  {
+    "appid": 4801600,
+    "name": "YuanRong",
+    "type": "game"
+  },
+  {
+    "appid": 4220220,
+    "name": "Yubasumi",
+    "type": "game"
+  },
+  {
+    "appid": 2487000,
+    "name": "Yubu: The Shoeventure",
+    "type": "game"
+  },
+  {
+    "appid": 930220,
+    "name": "Yucatan",
+    "type": "game"
+  },
+  {
+    "appid": 2994040,
+    "name": "Yugen Saga",
+    "type": "game"
+  },
+  {
+    "appid": 1693260,
+    "name": "Yugo Puzzle",
+    "type": "game"
+  },
+  {
+    "appid": 3151830,
+    "name": "Yugo: the non-game",
+    "type": "game"
+  },
+  {
+    "appid": 4460300,
+    "name": "YUGOPUNK",
+    "type": "game"
+  },
+  {
+    "appid": 2406960,
+    "name": "Yugowave",
+    "type": "game"
+  },
+  {
+    "appid": 1457940,
+    "name": "Yuha's Nightmares. Episode One: Catastrophe",
+    "type": "game"
+  },
+  {
+    "appid": 1229450,
+    "name": "Yuhha: Stolen Treasure",
+    "type": "game"
+  },
+  {
+    "appid": 4936130,
+    "name": "Yuhtzee",
+    "type": "game"
+  },
+  {
+    "appid": 1275340,
+    "name": "Yui - The Forgotten Girl",
+    "type": "game"
+  },
+  {
+    "appid": 1807000,
+    "name": "Yui Tui",
+    "type": "game"
+  },
+  {
+    "appid": 4012910,
+    "name": "yui's notebook",
+    "type": "game"
+  },
+  {
+    "appid": 3999880,
+    "name": "Yui’s Summer Vacation",
+    "type": "game"
+  },
+  {
+    "appid": 3786650,
+    "name": "Yuika My Bestie",
+    "type": "game"
+  },
+  {
+    "appid": 2548070,
+    "name": "Yujiro's Mansion",
+    "type": "game"
+  },
+  {
+    "appid": 2070220,
+    "name": "Yukar From The Abyss",
+    "type": "game"
+  },
+  {
+    "appid": 2730680,
+    "name": "Yuke and the Book of Yokai",
+    "type": "game"
+  },
+  {
+    "appid": 4551820,
+    "name": "Yuki Jump",
+    "type": "game"
+  },
+  {
+    "appid": 1191070,
+    "name": "Yuki Onna | 雪女",
+    "type": "game"
+  },
+  {
+    "appid": 4475600,
+    "name": "Yuki Onna: Snowball Fight!",
+    "type": "game"
+  },
+  {
+    "appid": 1184500,
+    "name": "YUKI Space Ranger",
+    "type": "game"
+  },
+  {
+    "appid": 3552040,
+    "name": "Yuki-Tundra",
+    "type": "game"
+  },
+  {
+    "appid": 1023260,
+    "name": "Yuki's Tale",
+    "type": "game"
+  },
+  {
+    "appid": 3909220,
+    "name": "Yuki「清醒梦」",
+    "type": "game"
+  },
+  {
+    "appid": 352810,
+    "name": "Yukie: A Japanese Winter Fairy Tale",
+    "type": "game"
+  },
+  {
+    "appid": 2307160,
+    "name": "Yukiiro Sign",
+    "type": "game"
+  },
+  {
+    "appid": 5507100,
+    "name": "Yukikaki: Snow Plow Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 1253390,
+    "name": "Yukikoi Melt",
+    "type": "game"
+  },
+  {
+    "appid": 2372200,
+    "name": "Yukimura",
+    "type": "game"
+  },
+  {
+    "appid": 1005080,
+    "name": "Yukinas Diary",
+    "type": "game"
+  },
+  {
+    "appid": 5144560,
+    "name": "Yukinite Depths",
+    "type": "game"
+  },
+  {
+    "appid": 1636590,
+    "name": "Yuko and the Akuma Menace",
+    "type": "game"
+  },
+  {
+    "appid": 828510,
+    "name": "Yuko: tragic love story",
+    "type": "game"
+  },
+  {
+    "appid": 3537730,
+    "name": "YUKOMON",
+    "type": "game"
+  },
+  {
+    "appid": 1845870,
+    "name": "Yukyo Station",
+    "type": "game"
+  },
+  {
+    "appid": 1302920,
+    "name": "Yuldigard's Fate",
+    "type": "game"
+  },
+  {
+    "appid": 5190390,
+    "name": "YULE DADS",
+    "type": "game"
+  },
+  {
+    "appid": 1174500,
+    "name": "Yuletide Legends: Who Framed Santa Claus",
+    "type": "game"
+  },
+  {
+    "appid": 4129000,
+    "name": "Yuletide Regicide",
+    "type": "game"
+  },
+  {
+    "appid": 5178350,
+    "name": "Yulgang W",
+    "type": "game"
+  },
+  {
+    "appid": 1457990,
+    "name": "Yuligans: Christmas is Coming!",
+    "type": "game"
+  },
+  {
+    "appid": 4261390,
+    "name": "Yulong Snow Mountain in Yunnan",
+    "type": "game"
+  },
+  {
+    "appid": 1906130,
+    "name": "Yum Collector",
+    "type": "game"
+  },
+  {
+    "appid": 1827430,
+    "name": "Yum Yum Cookstar",
+    "type": "game"
+  },
+  {
+    "appid": 2199280,
+    "name": "YUMA",
+    "type": "game"
+  },
+  {
+    "appid": 2900870,
+    "name": "Yuma Nest",
+    "type": "game"
+  },
+  {
+    "appid": 1961330,
+    "name": "Yuma Will Burn",
+    "type": "game"
+  },
+  {
+    "appid": 2066360,
+    "name": "Yumahorome ~Toki o Tometa Yakata de Asu o Sagasu Maigo-tachi~",
+    "type": "game"
+  },
+  {
+    "appid": 1471200,
+    "name": "YUME",
+    "type": "game"
+  },
+  {
+    "appid": 1864070,
+    "name": "YUME : Special Edition",
+    "type": "game"
+  },
+  {
+    "appid": 1607280,
+    "name": "YUME 2 : Sleepless Night",
+    "type": "game"
+  },
+  {
+    "appid": 2464120,
+    "name": "YUME 3",
+    "type": "game"
+  },
+  {
+    "appid": 2602730,
+    "name": "YUME 4",
+    "type": "game"
+  },
+  {
+    "appid": 3169820,
+    "name": "YUME 5",
+    "type": "game"
+  },
+  {
+    "appid": 3172220,
+    "name": "YUME 5 : Spring Festival of Lust",
+    "type": "game"
+  },
+  {
+    "appid": 2974430,
+    "name": "Yume Gufi",
+    "type": "game"
+  },
+  {
+    "appid": 2795660,
+    "name": "Yume Kakigori",
+    "type": "game"
+  },
+  {
+    "appid": 2450750,
+    "name": "Yume Memory",
+    "type": "game"
+  },
+  {
+    "appid": 650700,
+    "name": "Yume Nikki",
+    "type": "game"
+  },
+  {
+    "appid": 2978070,
+    "name": "Yume No Office",
+    "type": "game"
+  },
+  {
+    "appid": 1083990,
+    "name": "Yume Puzzle",
+    "type": "game"
+  },
+  {
+    "appid": 4171020,
+    "name": "YUME ROOF",
+    "type": "game"
+  },
+  {
+    "appid": 5033710,
+    "name": "Yume Tenshi",
+    "type": "game"
+  },
+  {
+    "appid": 771240,
+    "name": "YumeCore",
+    "type": "game"
+  },
+  {
+    "appid": 5219030,
+    "name": "YumeGirl",
+    "type": "game"
+  },
+  {
+    "appid": 1836880,
+    "name": "Yumeiri",
+    "type": "game"
+  },
+  {
+    "appid": 2281270,
+    "name": "Yumemori",
+    "type": "game"
+  },
+  {
+    "appid": 774811,
+    "name": "YUMENIKKI -DREAM DIARY-",
+    "type": "game"
+  },
+  {
+    "appid": 1267260,
+    "name": "Yumeutsutsu Re:After",
+    "type": "game"
+  },
+  {
+    "appid": 1267270,
+    "name": "Yumeutsutsu Re:Idol",
+    "type": "game"
+  },
+  {
+    "appid": 1058140,
+    "name": "YumeUtsutsu Re:Master",
+    "type": "game"
+  },
+  {
+    "appid": 3550270,
+    "name": "Yumi's Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 3671540,
+    "name": "Yummimons",
+    "type": "game"
+  },
+  {
+    "appid": 1521260,
+    "name": "Yummy",
+    "type": "game"
+  },
+  {
+    "appid": 1949490,
+    "name": "YUMMY CHICKEN DRAGON",
+    "type": "game"
+  },
+  {
+    "appid": 1615060,
+    "name": "Yummy Girl",
+    "type": "game"
+  },
+  {
+    "appid": 1920390,
+    "name": "Yummy Girl 2",
+    "type": "game"
+  },
+  {
+    "appid": 2013420,
+    "name": "Yummy Girls",
+    "type": "game"
+  },
+  {
+    "appid": 2216170,
+    "name": "Yummy Girls 2",
+    "type": "game"
+  },
+  {
+    "appid": 2226480,
+    "name": "Yummy Girls 3",
+    "type": "game"
+  },
+  {
+    "appid": 1689980,
+    "name": "Yummy Mahjong",
+    "type": "game"
+  },
+  {
+    "appid": 1469840,
+    "name": "Yummy Nuts",
+    "type": "game"
+  },
+  {
+    "appid": 5162940,
+    "name": "Yummy Rumble",
+    "type": "game"
+  },
+  {
+    "appid": 4694320,
+    "name": "Yummy Yummy Honey",
+    "type": "game"
+  },
+  {
+    "appid": 911120,
+    "name": "Yumori Forest",
+    "type": "game"
+  },
+  {
+    "appid": 2835610,
+    "name": "Yumpgril",
+    "type": "game"
+  },
+  {
+    "appid": 2797100,
+    "name": "YUMPR",
+    "type": "game"
+  },
+  {
+    "appid": 29120,
+    "name": "Yumsters! 2: Around the World!",
+    "type": "game"
+  },
+  {
+    "appid": 1189210,
+    "name": "Yuna and other troubles",
+    "type": "game"
+  },
+  {
+    "appid": 3742010,
+    "name": "Yuna and the Spirit Forest",
+    "type": "game"
+  },
+  {
+    "appid": 960340,
+    "name": "YUNA: Sugar hearts and Love",
+    "type": "game"
+  },
+  {
+    "appid": 2827080,
+    "name": "Yunashi no Yume",
+    "type": "game"
+  },
+  {
+    "appid": 5014790,
+    "name": "YunDos 6p",
+    "type": "game"
+  },
+  {
+    "appid": 4655850,
+    "name": "Yunling Dreamland In Tian'e County",
+    "type": "game"
+  },
+  {
+    "appid": 5279530,
+    "name": "YUNO & DAWN",
+    "type": "game"
+  },
+  {
+    "appid": 3710230,
+    "name": "YUNODREAM",
+    "type": "game"
+  },
+  {
+    "appid": 2411830,
+    "name": "Yunoia",
+    "type": "game"
+  },
+  {
+    "appid": 4581940,
+    "name": "Yuntai",
+    "type": "game"
+  },
+  {
+    "appid": 2914150,
+    "name": "Yunyun Syndrome!? Rhythm Psychosis",
+    "type": "game"
+  },
+  {
+    "appid": 1995040,
+    "name": "Yuonger Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 1444410,
+    "name": "Yuoni",
+    "type": "game"
+  },
+  {
+    "appid": 1619890,
+    "name": "Yupi",
+    "type": "game"
+  },
+  {
+    "appid": 2100590,
+    "name": "Yupi Road 2 World",
+    "type": "game"
+  },
+  {
+    "appid": 1352020,
+    "name": "Yupitergrad",
+    "type": "game"
+  },
+  {
+    "appid": 1969000,
+    "name": "Yupitergrad 2: The Lost Station",
+    "type": "game"
+  },
+  {
+    "appid": 1579120,
+    "name": "Yupitergrad: Sneaki Peaki",
+    "type": "game"
+  },
+  {
+    "appid": 597760,
+    "name": "Yuppie Psycho",
+    "type": "game"
+  },
+  {
+    "appid": 1588170,
+    "name": "Yuppys Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 4265310,
+    "name": "YURA",
+    "type": "game"
+  },
+  {
+    "appid": 2651170,
+    "name": "Yurei",
+    "type": "game"
+  },
+  {
+    "appid": 3505800,
+    "name": "Yurei Hunt",
+    "type": "game"
+  },
+  {
+    "appid": 4372880,
+    "name": "Yurei: Ink of the Damned",
+    "type": "game"
+  },
+  {
+    "appid": 4510820,
+    "name": "Yuremizu: Hold It Through the Shift",
+    "type": "game"
+  },
+  {
+    "appid": 3744880,
+    "name": "Yuri Blossom!",
+    "type": "game"
+  },
+  {
+    "appid": 3610630,
+    "name": "Yuri Demon",
+    "type": "game"
+  },
+  {
+    "appid": 1317120,
+    "name": "Yuri Ogibalov's Bizarre Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 3183880,
+    "name": "Yuri Party!",
+    "type": "game"
+  },
+  {
+    "appid": 2797420,
+    "name": "Yuri Sword Saga",
+    "type": "game"
+  },
+  {
+    "appid": 2802720,
+    "name": "Yuri's Resolve",
+    "type": "game"
+  },
+  {
+    "appid": 3134820,
+    "name": "Yurko",
+    "type": "game"
+  },
+  {
+    "appid": 4012790,
+    "name": "YURU-ETO Card Battle",
+    "type": "game"
+  },
+  {
+    "appid": 1733840,
+    "name": "Yurukill: The Calumniation Games",
+    "type": "game"
+  },
+  {
+    "appid": 321950,
+    "name": "Yury",
+    "type": "game"
+  },
+  {
+    "appid": 2506060,
+    "name": "Yusha Prototype -Family Friendly-",
+    "type": "game"
+  },
+  {
+    "appid": 2253970,
+    "name": "Yusha Prototype -原型勇者-",
+    "type": "game"
+  },
+  {
+    "appid": 5070790,
+    "name": "Yushou Xianmen: Mortal Realm",
+    "type": "game"
+  },
+  {
+    "appid": 819220,
+    "name": "Yuso",
+    "type": "game"
+  },
+  {
+    "appid": 1103340,
+    "name": "YUT YUT",
+    "type": "game"
+  },
+  {
+    "appid": 5375340,
+    "name": "YUU VS. ALL!",
+    "type": "game"
+  },
+  {
+    "appid": 1158740,
+    "name": "Yuuki",
+    "type": "game"
+  },
+  {
+    "appid": 973550,
+    "name": "Yuuki's Party Night",
+    "type": "game"
+  },
+  {
+    "appid": 4913340,
+    "name": "Yuuki's Sky",
+    "type": "game"
+  },
+  {
+    "appid": 4559300,
+    "name": "Yuumi-Chan: Rent is Due!",
+    "type": "game"
+  },
+  {
+    "appid": 5031010,
+    "name": "YuYuGram",
+    "type": "game"
+  },
+  {
+    "appid": 1863570,
+    "name": "YUZA",
+    "type": "game"
+  },
+  {
+    "appid": 776550,
+    "name": "Yuzi Lims: anime runner",
+    "type": "game"
+  },
+  {
+    "appid": 960360,
+    "name": "Yuzi Lims: Hentai",
+    "type": "game"
+  },
+  {
+    "appid": 1747520,
+    "name": "Yuzi Lims: Puzzle",
+    "type": "game"
+  },
+  {
+    "appid": 2952190,
+    "name": "YVY",
+    "type": "game"
+  },
+  {
+    "appid": 1061400,
+    "name": "YYDS成神之路",
+    "type": "game"
+  }
+]

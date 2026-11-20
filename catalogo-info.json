@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-11-20T18:28:20.416Z",
+  "source": "https://github.com/Austrum-lab/steam-appdb",
+  "method": "anonymous PICS, atualizado a cada 2 horas",
+  "meta": {
+    "changenumber": 41296182,
+    "scanned_to": 5200000
+  },
+  "counts": {
+    "all": 401832,
+    "game": 213191,
+    "dlc": 85222,
+    "tool": 1474,
+    "application": 3826,
+    "demo": 59676,
+    "beta": 12571,
+    "media": 2701,
+    "music": 11718,
+    "video": 10437,
+    "guide": 52,
+    "hardware": 42,
+    "series": 351,
+    "config": 0,
+    "applist": 218491,
+    "meta": 0
+  }
+}

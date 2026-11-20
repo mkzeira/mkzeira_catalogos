@@ -1,0 +1,2117 @@
+[
+  {
+    "appid": 1519620,
+    "name": "X air combat",
+    "type": "game"
+  },
+  {
+    "appid": 984230,
+    "name": "X Archetype",
+    "type": "game"
+  },
+  {
+    "appid": 2781580,
+    "name": "X Burger",
+    "type": "game"
+  },
+  {
+    "appid": 4758500,
+    "name": "X Calibur",
+    "type": "game"
+  },
+  {
+    "appid": 2385910,
+    "name": "X Dead Detective",
+    "type": "game"
+  },
+  {
+    "appid": 1776290,
+    "name": "X Fugitive",
+    "type": "game"
+  },
+  {
+    "appid": 2090760,
+    "name": "X Invader",
+    "type": "game"
+  },
+  {
+    "appid": 2214500,
+    "name": "X Invader: Prologue",
+    "type": "game"
+  },
+  {
+    "appid": 5016290,
+    "name": "X Killerz",
+    "type": "game"
+  },
+  {
+    "appid": 5406320,
+    "name": "X Marks the Orc",
+    "type": "game"
+  },
+  {
+    "appid": 2788600,
+    "name": "X Mutation",
+    "type": "game"
+  },
+  {
+    "appid": 2870,
+    "name": "X Rebirth",
+    "type": "game"
+  },
+  {
+    "appid": 570420,
+    "name": "X Rebirth VR Edition",
+    "type": "game"
+  },
+  {
+    "appid": 3102820,
+    "name": "X Roulette",
+    "type": "game"
+  },
+  {
+    "appid": 3097010,
+    "name": "X Simulator Drone",
+    "type": "game"
+  },
+  {
+    "appid": 4290910,
+    "name": "X Space",
+    "type": "game"
+  },
+  {
+    "appid": 4671100,
+    "name": "X SPACE: Meditation Pod",
+    "type": "game"
+  },
+  {
+    "appid": 1819210,
+    "name": "X Virus",
+    "type": "game"
+  },
+  {
+    "appid": 1134150,
+    "name": "X Wars Deluxe",
+    "type": "game"
+  },
+  {
+    "appid": 448060,
+    "name": "X-17",
+    "type": "game"
+  },
+  {
+    "appid": 2090810,
+    "name": "X-Angels",
+    "type": "game"
+  },
+  {
+    "appid": 7510,
+    "name": "X-Blades",
+    "type": "game"
+  },
+  {
+    "appid": 209140,
+    "name": "X-Com EU New",
+    "type": "game"
+  },
+  {
+    "appid": 7660,
+    "name": "X-COM: Apocalypse",
+    "type": "game"
+  },
+  {
+    "appid": 219360,
+    "name": "X-Com: Enemy Unknown UNUSED",
+    "type": "game"
+  },
+  {
+    "appid": 7770,
+    "name": "X-COM: Enforcer",
+    "type": "game"
+  },
+  {
+    "appid": 7730,
+    "name": "X-COM: Interceptor",
+    "type": "game"
+  },
+  {
+    "appid": 7650,
+    "name": "X-COM: Terror from the Deep",
+    "type": "game"
+  },
+  {
+    "appid": 7760,
+    "name": "X-COM: UFO Defense",
+    "type": "game"
+  },
+  {
+    "appid": 5356510,
+    "name": "X-Dolls Squad",
+    "type": "game"
+  },
+  {
+    "appid": 1471300,
+    "name": "X-DUNGEON",
+    "type": "game"
+  },
+  {
+    "appid": 768990,
+    "name": "X-Fire VR",
+    "type": "game"
+  },
+  {
+    "appid": 1314590,
+    "name": "X-Fitness",
+    "type": "game"
+  },
+  {
+    "appid": 1686470,
+    "name": "X-Force Genesis",
+    "type": "game"
+  },
+  {
+    "appid": 5479330,
+    "name": "X-Force Genesis 2",
+    "type": "game"
+  },
+  {
+    "appid": 2446740,
+    "name": "X-Force Under Attack",
+    "type": "game"
+  },
+  {
+    "appid": 3210100,
+    "name": "X-GRAVITY",
+    "type": "game"
+  },
+  {
+    "appid": 4839040,
+    "name": "X-Keepers",
+    "type": "game"
+  },
+  {
+    "appid": 2129360,
+    "name": "X-Mas Eve",
+    "type": "game"
+  },
+  {
+    "appid": 705700,
+    "name": "X-MiGuFighters: Stripper Anya",
+    "type": "game"
+  },
+  {
+    "appid": 2265640,
+    "name": "X-Mode",
+    "type": "game"
+  },
+  {
+    "appid": 408410,
+    "name": "X-Morph: Defense",
+    "type": "game"
+  },
+  {
+    "appid": 5343280,
+    "name": "X-Ninja",
+    "type": "game"
+  },
+  {
+    "appid": 337940,
+    "name": "X-note",
+    "type": "game"
+  },
+  {
+    "appid": 1276010,
+    "name": "X-OUT",
+    "type": "game"
+  },
+  {
+    "appid": 3047070,
+    "name": "X-Out: Resurfaced",
+    "type": "game"
+  },
+  {
+    "appid": 292180,
+    "name": "X-Plane 10 Global - 64 Bit",
+    "type": "game"
+  },
+  {
+    "appid": 269950,
+    "name": "X-Plane 11",
+    "type": "game"
+  },
+  {
+    "appid": 2014780,
+    "name": "X-Plane 12",
+    "type": "game"
+  },
+  {
+    "appid": 1018720,
+    "name": "X-POINT",
+    "type": "game"
+  },
+  {
+    "appid": 2162880,
+    "name": "X-RACER",
+    "type": "game"
+  },
+  {
+    "appid": 2160430,
+    "name": "X-Racing",
+    "type": "game"
+  },
+  {
+    "appid": 4712950,
+    "name": "X-Ray 2D",
+    "type": "game"
+  },
+  {
+    "appid": 850720,
+    "name": "X-ray hospital",
+    "type": "game"
+  },
+  {
+    "appid": 4436020,
+    "name": "X-Ray Pet Hospital",
+    "type": "game"
+  },
+  {
+    "appid": 4841230,
+    "name": "X-RL7: Programmatic",
+    "type": "game"
+  },
+  {
+    "appid": 2253490,
+    "name": "X-Sports",
+    "type": "game"
+  },
+  {
+    "appid": 290850,
+    "name": "X-Team",
+    "type": "game"
+  },
+  {
+    "appid": 2850,
+    "name": "X-Tension",
+    "type": "game"
+  },
+  {
+    "appid": 3342540,
+    "name": "X-teroids",
+    "type": "game"
+  },
+  {
+    "appid": 828160,
+    "name": "X-Town 3D game",
+    "type": "game"
+  },
+  {
+    "appid": 3014740,
+    "name": "X-WAR",
+    "type": "game"
+  },
+  {
+    "appid": 2840,
+    "name": "X: Beyond the Frontier",
+    "type": "game"
+  },
+  {
+    "appid": 3793430,
+    "name": "X.E.H.A. Rogue",
+    "type": "game"
+  },
+  {
+    "appid": 2800,
+    "name": "X2: The Threat",
+    "type": "game"
+  },
+  {
+    "appid": 956780,
+    "name": "x2Roulette",
+    "type": "game"
+  },
+  {
+    "appid": 207310,
+    "name": "X3 Terran Conflict more languages",
+    "type": "game"
+  },
+  {
+    "appid": 201310,
+    "name": "X3: Albion Prelude",
+    "type": "game"
+  },
+  {
+    "appid": 483330,
+    "name": "X3: Farnham's Legacy",
+    "type": "game"
+  },
+  {
+    "appid": 2810,
+    "name": "X3: Reunion",
+    "type": "game"
+  },
+  {
+    "appid": 2820,
+    "name": "X3: Terran Conflict",
+    "type": "game"
+  },
+  {
+    "appid": 2830,
+    "name": "X3: Terran Conflict Dev",
+    "type": "game"
+  },
+  {
+    "appid": 3813640,
+    "name": "X300",
+    "type": "game"
+  },
+  {
+    "appid": 392160,
+    "name": "X4: Foundations",
+    "type": "game"
+  },
+  {
+    "appid": 1763510,
+    "name": "X8",
+    "type": "game"
+  },
+  {
+    "appid": 4289840,
+    "name": "x999 ball",
+    "type": "game"
+  },
+  {
+    "appid": 727960,
+    "name": "Xagia Wars",
+    "type": "game"
+  },
+  {
+    "appid": 1491380,
+    "name": "Xagonia Colony",
+    "type": "game"
+  },
+  {
+    "appid": 2218190,
+    "name": "XALADIA: Rise of the Space Pirates X2",
+    "type": "game"
+  },
+  {
+    "appid": 3373520,
+    "name": "Xalos Conquest",
+    "type": "game"
+  },
+  {
+    "appid": 3204750,
+    "name": "Xalos: Collectible Card Game",
+    "type": "game"
+  },
+  {
+    "appid": 4896100,
+    "name": "Xalvorynthium",
+    "type": "game"
+  },
+  {
+    "appid": 269910,
+    "name": "Xam",
+    "type": "game"
+  },
+  {
+    "appid": 2258890,
+    "name": "Xanadu Land",
+    "type": "game"
+  },
+  {
+    "appid": 312560,
+    "name": "Xanadu Next",
+    "type": "game"
+  },
+  {
+    "appid": 1073770,
+    "name": "XANARTHRAXIA",
+    "type": "game"
+  },
+  {
+    "appid": 2063990,
+    "name": "XanChuchamel",
+    "type": "game"
+  },
+  {
+    "appid": 1025160,
+    "name": "Xander the Monster Morpher: Universe Breaker",
+    "type": "game"
+  },
+  {
+    "appid": 1608860,
+    "name": "XANDO: Xtreme & Over the Top",
+    "type": "game"
+  },
+  {
+    "appid": 1787440,
+    "name": "Xangel",
+    "type": "game"
+  },
+  {
+    "appid": 39370,
+    "name": "Xango Tango",
+    "type": "game"
+  },
+  {
+    "appid": 1547730,
+    "name": "Xanguito Aventura",
+    "type": "game"
+  },
+  {
+    "appid": 2259580,
+    "name": "XANNIBAN",
+    "type": "game"
+  },
+  {
+    "appid": 4803390,
+    "name": "XANTAF3 Bogotá Cyberpunk",
+    "type": "game"
+  },
+  {
+    "appid": 2090310,
+    "name": "Xanthaphobia",
+    "type": "game"
+  },
+  {
+    "appid": 2555390,
+    "name": "Xanthiom 2",
+    "type": "game"
+  },
+  {
+    "appid": 2324610,
+    "name": "Xanthiom Zero",
+    "type": "game"
+  },
+  {
+    "appid": 614860,
+    "name": "XAOC",
+    "type": "game"
+  },
+  {
+    "appid": 2505160,
+    "name": "Xaphan - Battle Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 3390500,
+    "name": "Xappy Ship",
+    "type": "game"
+  },
+  {
+    "appid": 4939340,
+    "name": "Xarana Xos: BACKROOMS",
+    "type": "game"
+  },
+  {
+    "appid": 3439940,
+    "name": "Xargon Remake Ep.1",
+    "type": "game"
+  },
+  {
+    "appid": 2946250,
+    "name": "Xargon Remake Ep.2",
+    "type": "game"
+  },
+  {
+    "appid": 2447530,
+    "name": "Xargon Remake Ep.3",
+    "type": "game"
+  },
+  {
+    "appid": 546670,
+    "name": "Xark",
+    "type": "game"
+  },
+  {
+    "appid": 3818530,
+    "name": "Xastur Spa: Erotic Salon Tycoon",
+    "type": "game"
+  },
+  {
+    "appid": 2563490,
+    "name": "Xatrom Command",
+    "type": "game"
+  },
+  {
+    "appid": 2615030,
+    "name": "Xavian",
+    "type": "game"
+  },
+  {
+    "appid": 2021070,
+    "name": "XBall",
+    "type": "game"
+  },
+  {
+    "appid": 794570,
+    "name": "XBall Champion",
+    "type": "game"
+  },
+  {
+    "appid": 2311310,
+    "name": "XBattleCarsPVP",
+    "type": "game"
+  },
+  {
+    "appid": 580150,
+    "name": "Xbird",
+    "type": "game"
+  },
+  {
+    "appid": 421610,
+    "name": "XBlaze Code: Embryo",
+    "type": "game"
+  },
+  {
+    "appid": 438940,
+    "name": "XBlaze Lost: Memories",
+    "type": "game"
+  },
+  {
+    "appid": 2320900,
+    "name": "XC Cross Country Racing",
+    "type": "game"
+  },
+  {
+    "appid": 447960,
+    "name": "XCavalypse",
+    "type": "game"
+  },
+  {
+    "appid": 268500,
+    "name": "XCOM 2",
+    "type": "game"
+  },
+  {
+    "appid": 882100,
+    "name": "XCOM: Chimera Squad",
+    "type": "game"
+  },
+  {
+    "appid": 200510,
+    "name": "XCOM: Enemy Unknown",
+    "type": "game"
+  },
+  {
+    "appid": 219580,
+    "name": "XCOM:Enemy Unknown – Press",
+    "type": "game"
+  },
+  {
+    "appid": 1597240,
+    "name": "XCUTE(me)",
+    "type": "game"
+  },
+  {
+    "appid": 3880670,
+    "name": "XD CLICKER",
+    "type": "game"
+  },
+  {
+    "appid": 3241540,
+    "name": "xd1",
+    "type": "game"
+  },
+  {
+    "appid": 1278290,
+    "name": "xDasher",
+    "type": "game"
+  },
+  {
+    "appid": 4250300,
+    "name": "XDD Sidetracked",
+    "type": "game"
+  },
+  {
+    "appid": 2242320,
+    "name": "xdding",
+    "type": "game"
+  },
+  {
+    "appid": 4011270,
+    "name": "XDefense LF",
+    "type": "game"
+  },
+  {
+    "appid": 623370,
+    "name": "xDrive VR",
+    "type": "game"
+  },
+  {
+    "appid": 1991060,
+    "name": "XEARZ",
+    "type": "game"
+  },
+  {
+    "appid": 510000,
+    "name": "Xecryst Remains",
+    "type": "game"
+  },
+  {
+    "appid": 1218930,
+    "name": "Xecute",
+    "type": "game"
+  },
+  {
+    "appid": 4323520,
+    "name": "XeGrader plus",
+    "type": "game"
+  },
+  {
+    "appid": 1674640,
+    "name": "XEL",
+    "type": "game"
+  },
+  {
+    "appid": 2690610,
+    "name": "XELAN FORCE",
+    "type": "game"
+  },
+  {
+    "appid": 3554820,
+    "name": "XELVITA",
+    "type": "game"
+  },
+  {
+    "appid": 542210,
+    "name": "Xemo : Robot Sim",
+    "type": "game"
+  },
+  {
+    "appid": 3119670,
+    "name": "XEN",
+    "type": "game"
+  },
+  {
+    "appid": 5265450,
+    "name": "Xen'Fonia: Path of Fortune",
+    "type": "game"
+  },
+  {
+    "appid": 1343330,
+    "name": "Xendless",
+    "type": "game"
+  },
+  {
+    "appid": 687310,
+    "name": "Xenia",
+    "type": "game"
+  },
+  {
+    "appid": 944640,
+    "name": "Xenia's Ark",
+    "type": "game"
+  },
+  {
+    "appid": 1667420,
+    "name": "Xenimus",
+    "type": "game"
+  },
+  {
+    "appid": 4990370,
+    "name": "Xenmega",
+    "type": "game"
+  },
+  {
+    "appid": 3518210,
+    "name": "Xenna: The Invasion",
+    "type": "game"
+  },
+  {
+    "appid": 2903940,
+    "name": "Xeno",
+    "type": "game"
+  },
+  {
+    "appid": 2115650,
+    "name": "Xeno Command",
+    "type": "game"
+  },
+  {
+    "appid": 3356010,
+    "name": "Xeno Conflict",
+    "type": "game"
+  },
+  {
+    "appid": 464260,
+    "name": "Xeno Crisis",
+    "type": "game"
+  },
+  {
+    "appid": 3281940,
+    "name": "XENO DEAD",
+    "type": "game"
+  },
+  {
+    "appid": 4591390,
+    "name": "Xeno Finder",
+    "type": "game"
+  },
+  {
+    "appid": 4068260,
+    "name": "Xeno Girlfriend",
+    "type": "game"
+  },
+  {
+    "appid": 4069380,
+    "name": "Xeno Girlfriend 2",
+    "type": "game"
+  },
+  {
+    "appid": 4071930,
+    "name": "Xeno Girlfriend 3",
+    "type": "game"
+  },
+  {
+    "appid": 4078180,
+    "name": "Xeno Girlfriend 4",
+    "type": "game"
+  },
+  {
+    "appid": 4574790,
+    "name": "XENO HIVE",
+    "type": "game"
+  },
+  {
+    "appid": 2020770,
+    "name": "Xeno Last Stand",
+    "type": "game"
+  },
+  {
+    "appid": 3078330,
+    "name": "Xeno Rangers",
+    "type": "game"
+  },
+  {
+    "appid": 4089250,
+    "name": "Xeno Rescue",
+    "type": "game"
+  },
+  {
+    "appid": 2696850,
+    "name": "Xeno Runners",
+    "type": "game"
+  },
+  {
+    "appid": 1452900,
+    "name": "Xeno Shooter",
+    "type": "game"
+  },
+  {
+    "appid": 3987410,
+    "name": "Xeno Strike CCG",
+    "type": "game"
+  },
+  {
+    "appid": 4053210,
+    "name": "Xeno Strikers Hyper Squadron",
+    "type": "game"
+  },
+  {
+    "appid": 3215310,
+    "name": "Xeno TD",
+    "type": "game"
+  },
+  {
+    "appid": 721460,
+    "name": "Xeno Time Inception",
+    "type": "game"
+  },
+  {
+    "appid": 3218150,
+    "name": "XENO WIPEOUT!",
+    "type": "game"
+  },
+  {
+    "appid": 3895000,
+    "name": "Xeno's Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 5071520,
+    "name": "Xenobiome Command",
+    "type": "game"
+  },
+  {
+    "appid": 4371490,
+    "name": "XENOBLAST",
+    "type": "game"
+  },
+  {
+    "appid": 391440,
+    "name": "XenoBloom",
+    "type": "game"
+  },
+  {
+    "appid": 587710,
+    "name": "Xenobox VR",
+    "type": "game"
+  },
+  {
+    "appid": 3389440,
+    "name": "XENOBREAKERS: Classic Tower Defense",
+    "type": "game"
+  },
+  {
+    "appid": 2106970,
+    "name": "XenoCard",
+    "type": "game"
+  },
+  {
+    "appid": 838300,
+    "name": "XENOCAVE",
+    "type": "game"
+  },
+  {
+    "appid": 961720,
+    "name": "Xenochamber",
+    "type": "game"
+  },
+  {
+    "appid": 381910,
+    "name": "Xenocide",
+    "type": "game"
+  },
+  {
+    "appid": 2376370,
+    "name": "Xenocide",
+    "type": "game"
+  },
+  {
+    "appid": 4738630,
+    "name": "XENOCIDE PROTOCOL",
+    "type": "game"
+  },
+  {
+    "appid": 1717180,
+    "name": "Xenocider",
+    "type": "game"
+  },
+  {
+    "appid": 1146920,
+    "name": "Xenociders",
+    "type": "game"
+  },
+  {
+    "appid": 659720,
+    "name": "Xenocite Clad",
+    "type": "game"
+  },
+  {
+    "appid": 3048160,
+    "name": "Xenocrystal TD",
+    "type": "game"
+  },
+  {
+    "appid": 4638780,
+    "name": "XENOFALL",
+    "type": "game"
+  },
+  {
+    "appid": 4293910,
+    "name": "XenoFeels",
+    "type": "game"
+  },
+  {
+    "appid": 2250870,
+    "name": "XenoFeud",
+    "type": "game"
+  },
+  {
+    "appid": 3398480,
+    "name": "XenoFields: Frontier",
+    "type": "game"
+  },
+  {
+    "appid": 4620950,
+    "name": "XENOFLEKT",
+    "type": "game"
+  },
+  {
+    "appid": 796920,
+    "name": "Xenoform",
+    "type": "game"
+  },
+  {
+    "appid": 4920840,
+    "name": "Xenogarden",
+    "type": "game"
+  },
+  {
+    "appid": 2472090,
+    "name": "Xenogen",
+    "type": "game"
+  },
+  {
+    "appid": 869450,
+    "name": "XenoGrove",
+    "type": "game"
+  },
+  {
+    "appid": 1267870,
+    "name": "Xenogunner",
+    "type": "game"
+  },
+  {
+    "appid": 1890750,
+    "name": "Xenoids",
+    "type": "game"
+  },
+  {
+    "appid": 3708210,
+    "name": "Xenolocus",
+    "type": "game"
+  },
+  {
+    "appid": 4451150,
+    "name": "Xenologia",
+    "type": "game"
+  },
+  {
+    "appid": 1683050,
+    "name": "Xenomare",
+    "type": "game"
+  },
+  {
+    "appid": 676830,
+    "name": "Xenomarine",
+    "type": "game"
+  },
+  {
+    "appid": 4879300,
+    "name": "Xenomire",
+    "type": "game"
+  },
+  {
+    "appid": 2623370,
+    "name": "Xenomycology",
+    "type": "game"
+  },
+  {
+    "appid": 899390,
+    "name": "Xenon Racer",
+    "type": "game"
+  },
+  {
+    "appid": 2327130,
+    "name": "Xenon-Runner",
+    "type": "game"
+  },
+  {
+    "appid": 223830,
+    "name": "Xenonauts",
+    "type": "game"
+  },
+  {
+    "appid": 538030,
+    "name": "Xenonauts 2",
+    "type": "game"
+  },
+  {
+    "appid": 573780,
+    "name": "XenonValkyrie",
+    "type": "game"
+  },
+  {
+    "appid": 358420,
+    "name": "Xenophage",
+    "type": "game"
+  },
+  {
+    "appid": 2983410,
+    "name": "Xenopurge",
+    "type": "game"
+  },
+  {
+    "appid": 3485380,
+    "name": "Xenoquarium",
+    "type": "game"
+  },
+  {
+    "appid": 460220,
+    "name": "Xenoraid",
+    "type": "game"
+  },
+  {
+    "appid": 298280,
+    "name": "XenoRaptor",
+    "type": "game"
+  },
+  {
+    "appid": 1122760,
+    "name": "XENOS Defense",
+    "type": "game"
+  },
+  {
+    "appid": 5169100,
+    "name": "Xenos Protocol",
+    "type": "game"
+  },
+  {
+    "appid": 2645110,
+    "name": "Xenos: Cartoon Creature Catcher",
+    "type": "game"
+  },
+  {
+    "appid": 1542640,
+    "name": "Xenoscape",
+    "type": "game"
+  },
+  {
+    "appid": 4037830,
+    "name": "Xenosensory",
+    "type": "game"
+  },
+  {
+    "appid": 429390,
+    "name": "XenoShyft",
+    "type": "game"
+  },
+  {
+    "appid": 2382570,
+    "name": "Xenosis",
+    "type": "game"
+  },
+  {
+    "appid": 611820,
+    "name": "Xenosis: Alien Infection",
+    "type": "game"
+  },
+  {
+    "appid": 654240,
+    "name": "Xenoslaive Overdrive",
+    "type": "game"
+  },
+  {
+    "appid": 3034960,
+    "name": "Xenospore",
+    "type": "game"
+  },
+  {
+    "appid": 2809970,
+    "name": "XenoTechArena",
+    "type": "game"
+  },
+  {
+    "appid": 2623100,
+    "name": "Xenoterrestrial",
+    "type": "game"
+  },
+  {
+    "appid": 2008980,
+    "name": "XENOTILT",
+    "type": "game"
+  },
+  {
+    "appid": 1856040,
+    "name": "XenoTown",
+    "type": "game"
+  },
+  {
+    "appid": 1440030,
+    "name": "Xenotype",
+    "type": "game"
+  },
+  {
+    "appid": 1222980,
+    "name": "XenovaderS",
+    "type": "game"
+  },
+  {
+    "appid": 5078310,
+    "name": "XenoVector",
+    "type": "game"
+  },
+  {
+    "appid": 2920380,
+    "name": "Xenowars",
+    "type": "game"
+  },
+  {
+    "appid": 5355000,
+    "name": "Xenowave Survivor",
+    "type": "game"
+  },
+  {
+    "appid": 1149800,
+    "name": "Xenrai",
+    "type": "game"
+  },
+  {
+    "appid": 3503310,
+    "name": "Xentra Station",
+    "type": "game"
+  },
+  {
+    "appid": 1131690,
+    "name": "Xentripetal Force",
+    "type": "game"
+  },
+  {
+    "appid": 1386110,
+    "name": "Xentron Attack",
+    "type": "game"
+  },
+  {
+    "appid": 1786730,
+    "name": "Xenture",
+    "type": "game"
+  },
+  {
+    "appid": 546230,
+    "name": "Xenus 2. White gold.",
+    "type": "game"
+  },
+  {
+    "appid": 4243900,
+    "name": "Xenus Bug Eater",
+    "type": "game"
+  },
+  {
+    "appid": 319140,
+    "name": "Xeodrifter™",
+    "type": "game"
+  },
+  {
+    "appid": 3227180,
+    "name": "XEOM Saigon Edition",
+    "type": "game"
+  },
+  {
+    "appid": 625340,
+    "name": "XERA: Survival",
+    "type": "game"
+  },
+  {
+    "appid": 2571310,
+    "name": "Xerme",
+    "type": "game"
+  },
+  {
+    "appid": 3513990,
+    "name": "Xerminus",
+    "type": "game"
+  },
+  {
+    "appid": 2440580,
+    "name": "Xero",
+    "type": "game"
+  },
+  {
+    "appid": 2998940,
+    "name": "Xeroes",
+    "type": "game"
+  },
+  {
+    "appid": 3254200,
+    "name": "Xerxes Shadow",
+    "type": "game"
+  },
+  {
+    "appid": 2587870,
+    "name": "Xetanon",
+    "type": "game"
+  },
+  {
+    "appid": 5360450,
+    "name": "Xetodus",
+    "type": "game"
+  },
+  {
+    "appid": 3609670,
+    "name": "XETTER 2020",
+    "type": "game"
+  },
+  {
+    "appid": 1224220,
+    "name": "Xevorel Part I - The Way Of The Feather",
+    "type": "game"
+  },
+  {
+    "appid": 1085990,
+    "name": "XEYYEX",
+    "type": "game"
+  },
+  {
+    "appid": 3155610,
+    "name": "XEYYEX 2: Colour Wars",
+    "type": "game"
+  },
+  {
+    "appid": 2539910,
+    "name": "XF Extreme Formula",
+    "type": "game"
+  },
+  {
+    "appid": 1357580,
+    "name": "XF5700 Mantis Experimental Fighter",
+    "type": "game"
+  },
+  {
+    "appid": 377510,
+    "name": "XField Paintball 3",
+    "type": "game"
+  },
+  {
+    "appid": 4694340,
+    "name": "XGA SPECIAL EDITION",
+    "type": "game"
+  },
+  {
+    "appid": 1393630,
+    "name": "XGAMEX",
+    "type": "game"
+  },
+  {
+    "appid": 2828620,
+    "name": "XGUN",
+    "type": "game"
+  },
+  {
+    "appid": 534780,
+    "name": "XGun-Weapon Evolution",
+    "type": "game"
+  },
+  {
+    "appid": 5364060,
+    "name": "Xhaust",
+    "type": "game"
+  },
+  {
+    "appid": 1922980,
+    "name": "Xheres",
+    "type": "game"
+  },
+  {
+    "appid": 2967870,
+    "name": "Xi-Portal",
+    "type": "game"
+  },
+  {
+    "appid": 4178430,
+    "name": "Xiangbi Mountain in Guilin city",
+    "type": "game"
+  },
+  {
+    "appid": 2527320,
+    "name": "Xiangqi—the Chinese chess",
+    "type": "game"
+  },
+  {
+    "appid": 4280190,
+    "name": "Xiantu: An Idle Tale of Immortality",
+    "type": "game"
+  },
+  {
+    "appid": 3748700,
+    "name": "Xiao Jun (English Edition)",
+    "type": "game"
+  },
+  {
+    "appid": 5262950,
+    "name": "Xiao Wang's World-Visual novel",
+    "type": "game"
+  },
+  {
+    "appid": 4611880,
+    "name": "XiaoLuo's English War",
+    "type": "game"
+  },
+  {
+    "appid": 3125850,
+    "name": "Xiaomei and the Flame Dragon's Fist",
+    "type": "game"
+  },
+  {
+    "appid": 1780240,
+    "name": "xiaoxiaole",
+    "type": "game"
+  },
+  {
+    "appid": 1436220,
+    "name": "XIBALBA",
+    "type": "game"
+  },
+  {
+    "appid": 1154790,
+    "name": "XIII",
+    "type": "game"
+  },
+  {
+    "appid": 3381140,
+    "name": "XIII - A Final Game of Tarot With Death",
+    "type": "game"
+  },
+  {
+    "appid": 1170760,
+    "name": "XIII - Classic",
+    "type": "game"
+  },
+  {
+    "appid": 812120,
+    "name": "XIII - Lost Identity",
+    "type": "game"
+  },
+  {
+    "appid": 34420,
+    "name": "XIII Century",
+    "type": "game"
+  },
+  {
+    "appid": 364250,
+    "name": "XIIZEAL",
+    "type": "game"
+  },
+  {
+    "appid": 4555320,
+    "name": "Xili Bay in Qinzhou",
+    "type": "game"
+  },
+  {
+    "appid": 2769020,
+    "name": "Xilosaga",
+    "type": "game"
+  },
+  {
+    "appid": 943270,
+    "name": "XILOST",
+    "type": "game"
+  },
+  {
+    "appid": 299400,
+    "name": "XING: The Land Beyond",
+    "type": "game"
+  },
+  {
+    "appid": 4824940,
+    "name": "XINGTU",
+    "type": "game"
+  },
+  {
+    "appid": 1736680,
+    "name": "Xio: Survival",
+    "type": "game"
+  },
+  {
+    "appid": 644420,
+    "name": "Xion",
+    "type": "game"
+  },
+  {
+    "appid": 1948490,
+    "name": "Xion Leak",
+    "type": "game"
+  },
+  {
+    "appid": 5238600,
+    "name": "Xiphos",
+    "type": "game"
+  },
+  {
+    "appid": 2351020,
+    "name": "Xissai: the Snake Temple",
+    "type": "game"
+  },
+  {
+    "appid": 1064440,
+    "name": "Xiu's SuperMarket",
+    "type": "game"
+  },
+  {
+    "appid": 5287070,
+    "name": "xiukov",
+    "type": "game"
+  },
+  {
+    "appid": 2868430,
+    "name": "XiuzhenWorld / 修真世界",
+    "type": "game"
+  },
+  {
+    "appid": 3080880,
+    "name": "XiuzhenWorld2 / 修真世界2",
+    "type": "game"
+  },
+  {
+    "appid": 3500490,
+    "name": "Xiwang Ave N 3rd Section",
+    "type": "game"
+  },
+  {
+    "appid": 747240,
+    "name": "XL1-ClippingPoint",
+    "type": "game"
+  },
+  {
+    "appid": 360030,
+    "name": "XLarn",
+    "type": "game"
+  },
+  {
+    "appid": 447100,
+    "name": "XLR",
+    "type": "game"
+  },
+  {
+    "appid": 2197050,
+    "name": "Xmas Apocalypse",
+    "type": "game"
+  },
+  {
+    "appid": 2673690,
+    "name": "Xmas Clash",
+    "type": "game"
+  },
+  {
+    "appid": 4545010,
+    "name": "Xmas Hentai Girlfriends",
+    "type": "game"
+  },
+  {
+    "appid": 1350530,
+    "name": "Xmas Presents",
+    "type": "game"
+  },
+  {
+    "appid": 560050,
+    "name": "Xmas Shooting - Scramble!!",
+    "type": "game"
+  },
+  {
+    "appid": 4781710,
+    "name": "Xmas Squad",
+    "type": "game"
+  },
+  {
+    "appid": 3289010,
+    "name": "Xmas Surprise",
+    "type": "game"
+  },
+  {
+    "appid": 4184540,
+    "name": "Xmas Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 2725500,
+    "name": "XMas Toy Merge",
+    "type": "game"
+  },
+  {
+    "appid": 570690,
+    "name": "Xmas Zombie Rampage",
+    "type": "game"
+  },
+  {
+    "appid": 769390,
+    "name": "Xmas Zombie Rampage 2",
+    "type": "game"
+  },
+  {
+    "appid": 3363420,
+    "name": "Xmas, Super Puzzles Dream",
+    "type": "game"
+  },
+  {
+    "appid": 671050,
+    "name": "XMinutes: Wings",
+    "type": "game"
+  },
+  {
+    "appid": 520400,
+    "name": "XMODULE",
+    "type": "game"
+  },
+  {
+    "appid": 1035410,
+    "name": "xMoon",
+    "type": "game"
+  },
+  {
+    "appid": 399240,
+    "name": "XNemesis",
+    "type": "game"
+  },
+  {
+    "appid": 399720,
+    "name": "XO",
+    "type": "game"
+  },
+  {
+    "appid": 1817260,
+    "name": "XO Evolved",
+    "type": "game"
+  },
+  {
+    "appid": 439730,
+    "name": "XO-Planets",
+    "type": "game"
+  },
+  {
+    "appid": 1454950,
+    "name": "XOB",
+    "type": "game"
+  },
+  {
+    "appid": 946240,
+    "name": "Xobox - circle and cross",
+    "type": "game"
+  },
+  {
+    "appid": 2379750,
+    "name": "Xochi's Apothecary",
+    "type": "game"
+  },
+  {
+    "appid": 5532360,
+    "name": "XOCIETY: Salvation",
+    "type": "game"
+  },
+  {
+    "appid": 589270,
+    "name": "xoEl Empire",
+    "type": "game"
+  },
+  {
+    "appid": 1384840,
+    "name": "XOL",
+    "type": "game"
+  },
+  {
+    "appid": 3123770,
+    "name": "XOL: Space Mech Wars",
+    "type": "game"
+  },
+  {
+    "appid": 3691380,
+    "name": "Xolo and the Forgotten Gods",
+    "type": "game"
+  },
+  {
+    "appid": 1857840,
+    "name": "Xolotl",
+    "type": "game"
+  },
+  {
+    "appid": 4201350,
+    "name": "Xolotl's Escape",
+    "type": "game"
+  },
+  {
+    "appid": 1596330,
+    "name": "XOMBEE",
+    "type": "game"
+  },
+  {
+    "appid": 1693390,
+    "name": "XOMBEE MPFPS",
+    "type": "game"
+  },
+  {
+    "appid": 2400690,
+    "name": "Xon",
+    "type": "game"
+  },
+  {
+    "appid": 3307750,
+    "name": "Xontainer Meta Space",
+    "type": "game"
+  },
+  {
+    "appid": 1339180,
+    "name": "Xoo: Xeno Xafari",
+    "type": "game"
+  },
+  {
+    "appid": 454170,
+    "name": "XorceD - Sashiro's Laedrum",
+    "type": "game"
+  },
+  {
+    "appid": 3950510,
+    "name": "XorO",
+    "type": "game"
+  },
+  {
+    "appid": 800110,
+    "name": "XORPLE",
+    "type": "game"
+  },
+  {
+    "appid": 3423010,
+    "name": "Xoru: The Nightmare Wars",
+    "type": "game"
+  },
+  {
+    "appid": 92600,
+    "name": "Xotic",
+    "type": "game"
+  },
+  {
+    "appid": 3982970,
+    "name": "Xoul",
+    "type": "game"
+  },
+  {
+    "appid": 3147950,
+    "name": "XOverse",
+    "type": "game"
+  },
+  {
+    "appid": 780820,
+    "name": "XOXO Blood Droplets",
+    "type": "game"
+  },
+  {
+    "appid": 622060,
+    "name": "XOXO Droplets",
+    "type": "game"
+  },
+  {
+    "appid": 1178120,
+    "name": "XP Girls",
+    "type": "game"
+  },
+  {
+    "appid": 2699200,
+    "name": "XP Racing",
+    "type": "game"
+  },
+  {
+    "appid": 3771260,
+    "name": "XP Slime",
+    "type": "game"
+  },
+  {
+    "appid": 2013580,
+    "name": "XP Soccer",
+    "type": "game"
+  },
+  {
+    "appid": 3010,
+    "name": "Xpand Rally",
+    "type": "game"
+  },
+  {
+    "appid": 3050,
+    "name": "Xpand Rally Xtreme",
+    "type": "game"
+  },
+  {
+    "appid": 1288330,
+    "name": "XpCade",
+    "type": "game"
+  },
+  {
+    "appid": 1737910,
+    "name": "XPELLIT",
+    "type": "game"
+  },
+  {
+    "appid": 5505790,
+    "name": "XPELLIT Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 763870,
+    "name": "Xploquest",
+    "type": "game"
+  },
+  {
+    "appid": 791370,
+    "name": "Xploquest 2",
+    "type": "game"
+  },
+  {
+    "appid": 2267770,
+    "name": "Xploquest 3",
+    "type": "game"
+  },
+  {
+    "appid": 1768340,
+    "name": "XPLORASI3D",
+    "type": "game"
+  },
+  {
+    "appid": 2144420,
+    "name": "XPLORASI3D 2.0",
+    "type": "game"
+  },
+  {
+    "appid": 2720230,
+    "name": "Xplorite",
+    "type": "game"
+  },
+  {
+    "appid": 2758780,
+    "name": "Xplosive Raccoon",
+    "type": "game"
+  },
+  {
+    "appid": 1475180,
+    "name": "XPock",
+    "type": "game"
+  },
+  {
+    "appid": 1914950,
+    "name": "Xpraize Beta for GameMaster",
+    "type": "game"
+  },
+  {
+    "appid": 1929770,
+    "name": "XpraizeBeta",
+    "type": "game"
+  },
+  {
+    "appid": 1906600,
+    "name": "Xpressorcist",
+    "type": "game"
+  },
+  {
+    "appid": 2435010,
+    "name": "XR22-SEAGUARD",
+    "type": "game"
+  },
+  {
+    "appid": 1270030,
+    "name": "XRacer 2: Evolution",
+    "type": "game"
+  },
+  {
+    "appid": 3496540,
+    "name": "Xreemu",
+    "type": "game"
+  },
+  {
+    "appid": 1866570,
+    "name": "Xross Dreams",
+    "type": "game"
+  },
+  {
+    "appid": 2996320,
+    "name": "Xrun3",
+    "type": "game"
+  },
+  {
+    "appid": 875420,
+    "name": "XRY",
+    "type": "game"
+  },
+  {
+    "appid": 1675030,
+    "name": "XSection",
+    "type": "game"
+  },
+  {
+    "appid": 2075750,
+    "name": "XSpeed",
+    "type": "game"
+  },
+  {
+    "appid": 2718310,
+    "name": "Xstall One",
+    "type": "game"
+  },
+  {
+    "appid": 3924270,
+    "name": "XStoryPlayer",
+    "type": "game"
+  },
+  {
+    "appid": 297470,
+    "name": "Xsyon - Prelude",
+    "type": "game"
+  },
+  {
+    "appid": 1527080,
+    "name": "XTHRUST",
+    "type": "game"
+  },
+  {
+    "appid": 974140,
+    "name": "Xtractor Defender",
+    "type": "game"
+  },
+  {
+    "appid": 4633850,
+    "name": "Xtractorz",
+    "type": "game"
+  },
+  {
+    "appid": 5529550,
+    "name": "XtreaM Zombies",
+    "type": "game"
+  },
+  {
+    "appid": 1729210,
+    "name": "Xtreme Aces Racing",
+    "type": "game"
+  },
+  {
+    "appid": 3301140,
+    "name": "Xtreme Club Racing",
+    "type": "game"
+  },
+  {
+    "appid": 1001760,
+    "name": "Xtreme League",
+    "type": "game"
+  },
+  {
+    "appid": 800640,
+    "name": "Xtreme Paddleball",
+    "type": "game"
+  },
+  {
+    "appid": 4525240,
+    "name": "XTREME PEACEKEEPER FORCE: OPERATION BLITZ",
+    "type": "game"
+  },
+  {
+    "appid": 1145220,
+    "name": "Xtreme Typing",
+    "type": "game"
+  },
+  {
+    "appid": 658250,
+    "name": "Xtrike",
+    "type": "game"
+  },
+  {
+    "appid": 1457950,
+    "name": "xTypeHacking",
+    "type": "game"
+  },
+  {
+    "appid": 2439750,
+    "name": "Xuan Yuan Sword : The fight of heroes",
+    "type": "game"
+  },
+  {
+    "appid": 1508740,
+    "name": "Xuan-Yuan Sword 2",
+    "type": "game"
+  },
+  {
+    "appid": 1728520,
+    "name": "Xuan-Yuan Sword V",
+    "type": "game"
+  },
+  {
+    "appid": 1249800,
+    "name": "Xuan-Yuan Sword VII",
+    "type": "game"
+  },
+  {
+    "appid": 1508750,
+    "name": "Xuan-Yuan Sword: Dance of the Maple Leaves",
+    "type": "game"
+  },
+  {
+    "appid": 1638230,
+    "name": "Xuan-Yuan Sword: Mists Beyond the Mountains",
+    "type": "game"
+  },
+  {
+    "appid": 1870140,
+    "name": "Xuan-Yuan Sword: The Cloud of Han",
+    "type": "game"
+  },
+  {
+    "appid": 1870150,
+    "name": "Xuan-Yuan Sword: The Clouds Faraway",
+    "type": "game"
+  },
+  {
+    "appid": 427030,
+    "name": "Xuan-Yuan Sword: The Gate of Firmament",
+    "type": "game"
+  },
+  {
+    "appid": 4121840,
+    "name": "Xuande",
+    "type": "game"
+  },
+  {
+    "appid": 5353390,
+    "name": "Xuanling: Reborn as a Cat in a Harem Sect",
+    "type": "game"
+  },
+  {
+    "appid": 1595110,
+    "name": "Xuhivan's Autonomous Cube",
+    "type": "game"
+  },
+  {
+    "appid": 3252270,
+    "name": "xukaackque",
+    "type": "game"
+  },
+  {
+    "appid": 2314350,
+    "name": "Xurb",
+    "type": "game"
+  },
+  {
+    "appid": 5033020,
+    "name": "Xuverse",
+    "type": "game"
+  },
+  {
+    "appid": 4736040,
+    "name": "XV",
+    "type": "game"
+  },
+  {
+    "appid": 4450350,
+    "name": "Xvirus",
+    "type": "game"
+  },
+  {
+    "appid": 4953970,
+    "name": "xvorogue",
+    "type": "game"
+  },
+  {
+    "appid": 3479940,
+    "name": "xVR",
+    "type": "game"
+  },
+  {
+    "appid": 2803990,
+    "name": "XVTM",
+    "type": "game"
+  },
+  {
+    "appid": 2756410,
+    "name": "XWarShooterVR",
+    "type": "game"
+  },
+  {
+    "appid": 3713790,
+    "name": "XWheels Grandslam",
+    "type": "game"
+  },
+  {
+    "appid": 2887930,
+    "name": "XX Delicto",
+    "type": "game"
+  },
+  {
+    "appid": 3842660,
+    "name": "XX Fulfillment Center",
+    "type": "game"
+  },
+  {
+    "appid": 4529730,
+    "name": "XX GAME: The Evolution Merge Puzzle",
+    "type": "game"
+  },
+  {
+    "appid": 5029600,
+    "name": "XXL 猛漢町",
+    "type": "game"
+  },
+  {
+    "appid": 3959100,
+    "name": "XXX Pussy House",
+    "type": "game"
+  },
+  {
+    "appid": 874650,
+    "name": "XXX Puzzle",
+    "type": "game"
+  },
+  {
+    "appid": 1922030,
+    "name": "XXX Talent",
+    "type": "game"
+  },
+  {
+    "appid": 2132430,
+    "name": "XXX_CYBERRAT_XXX",
+    "type": "game"
+  },
+  {
+    "appid": 2092140,
+    "name": "XXX, I Want You to Keep Fighting",
+    "type": "game"
+  },
+  {
+    "appid": 4122200,
+    "name": "XXXX",
+    "type": "game"
+  },
+  {
+    "appid": 692920,
+    "name": "XXZ",
+    "type": "game"
+  },
+  {
+    "appid": 696590,
+    "name": "XXZ: XXL",
+    "type": "game"
+  },
+  {
+    "appid": 4972620,
+    "name": "Xydorth",
+    "type": "game"
+  },
+  {
+    "appid": 1239920,
+    "name": "Xyla and the 'Shrooms of Doom",
+    "type": "game"
+  },
+  {
+    "appid": 2404300,
+    "name": "Xyleron",
+    "type": "game"
+  },
+  {
+    "appid": 1210640,
+    "name": "Xylith",
+    "type": "game"
+  },
+  {
+    "appid": 4503170,
+    "name": "XYLOMETAZOLINE",
+    "type": "game"
+  },
+  {
+    "appid": 4239610,
+    "name": "Xylon",
+    "type": "game"
+  },
+  {
+    "appid": 1841430,
+    "name": "Xyz Crossing",
+    "type": "game"
+  },
+  {
+    "appid": 771180,
+    "name": "XZ",
+    "type": "game"
+  },
+  {
+    "appid": 771190,
+    "name": "XZ: XL",
+    "type": "game"
+  },
+  {
+    "appid": 1140340,
+    "name": "x少女逃脱 x girl escape",
+    "type": "game"
+  },
+  {
+    "appid": 1471450,
+    "name": "X遊戲",
+    "type": "game"
+  },
+  {
+    "appid": 3628070,
+    "name": "X飞行俱乐部：FPV无人机模拟器",
+    "type": "game"
+  }
+]

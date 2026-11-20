@@ -1,0 +1,7042 @@
+[
+  {
+    "appid": 275530,
+    "name": "Z",
+    "type": "game"
+  },
+  {
+    "appid": 885840,
+    "name": "Z After",
+    "type": "game"
+  },
+  {
+    "appid": 1411460,
+    "name": "Z Arena",
+    "type": "game"
+  },
+  {
+    "appid": 872680,
+    "name": "Z Dawn",
+    "type": "game"
+  },
+  {
+    "appid": 3202980,
+    "name": "Z Diaries",
+    "type": "game"
+  },
+  {
+    "appid": 4467600,
+    "name": "Z Drive",
+    "type": "game"
+  },
+  {
+    "appid": 3695190,
+    "name": "Z Evil Road",
+    "type": "game"
+  },
+  {
+    "appid": 3316840,
+    "name": "Z Force Recon",
+    "type": "game"
+  },
+  {
+    "appid": 3111730,
+    "name": "Z Juice",
+    "type": "game"
+  },
+  {
+    "appid": 3684920,
+    "name": "Z Mission Breakout",
+    "type": "game"
+  },
+  {
+    "appid": 1687430,
+    "name": "Z Mutants",
+    "type": "game"
+  },
+  {
+    "appid": 1041560,
+    "name": "Z Ops: Campus",
+    "type": "game"
+  },
+  {
+    "appid": 2559880,
+    "name": "Z Ops: DeadZone",
+    "type": "game"
+  },
+  {
+    "appid": 698330,
+    "name": "Z Runaway",
+    "type": "game"
+  },
+  {
+    "appid": 2991740,
+    "name": "Z Rush",
+    "type": "game"
+  },
+  {
+    "appid": 2725170,
+    "name": "Z speed Arcade",
+    "type": "game"
+  },
+  {
+    "appid": 275510,
+    "name": "Z Steel Soldiers",
+    "type": "game"
+  },
+  {
+    "appid": 3313850,
+    "name": "Z Virus: Outbreak",
+    "type": "game"
+  },
+  {
+    "appid": 672450,
+    "name": "Z ViRus: V.I.R.M Uprising",
+    "type": "game"
+  },
+  {
+    "appid": 2267650,
+    "name": "Z World",
+    "type": "game"
+  },
+  {
+    "appid": 2501670,
+    "name": "Z Zombies : Battle Royale",
+    "type": "game"
+  },
+  {
+    "appid": 652730,
+    "name": "Z-Aftershock",
+    "type": "game"
+  },
+  {
+    "appid": 2389100,
+    "name": "Z-APE: Tower Defense",
+    "type": "game"
+  },
+  {
+    "appid": 1502480,
+    "name": "Z-Blood Mission",
+    "type": "game"
+  },
+  {
+    "appid": 1804500,
+    "name": "Z-Collapse",
+    "type": "game"
+  },
+  {
+    "appid": 1583820,
+    "name": "Z-Company",
+    "type": "game"
+  },
+  {
+    "appid": 582610,
+    "name": "Z-End",
+    "type": "game"
+  },
+  {
+    "appid": 434750,
+    "name": "Z-Exemplar",
+    "type": "game"
+  },
+  {
+    "appid": 2929880,
+    "name": "Z-Factor",
+    "type": "game"
+  },
+  {
+    "appid": 2511110,
+    "name": "Z-Grav: Clash",
+    "type": "game"
+  },
+  {
+    "appid": 4040600,
+    "name": "Z-GYUBAAN!",
+    "type": "game"
+  },
+  {
+    "appid": 4574600,
+    "name": "Z-Island",
+    "type": "game"
+  },
+  {
+    "appid": 1343750,
+    "name": "Z-Race",
+    "type": "game"
+  },
+  {
+    "appid": 1899450,
+    "name": "Z-Rush Survival",
+    "type": "game"
+  },
+  {
+    "appid": 4919550,
+    "name": "Z-Sector",
+    "type": "game"
+  },
+  {
+    "appid": 1931150,
+    "name": "Z-STOP",
+    "type": "game"
+  },
+  {
+    "appid": 1990820,
+    "name": "Z-Warp",
+    "type": "game"
+  },
+  {
+    "appid": 843190,
+    "name": "Z: Escape",
+    "type": "game"
+  },
+  {
+    "appid": 786770,
+    "name": "Z: The End",
+    "type": "game"
+  },
+  {
+    "appid": 430930,
+    "name": "Z. Year One",
+    "type": "game"
+  },
+  {
+    "appid": 351820,
+    "name": "Z.A.R.",
+    "type": "game"
+  },
+  {
+    "appid": 4122860,
+    "name": "Z.A.T.O. // I Love the World and Everything In It",
+    "type": "game"
+  },
+  {
+    "appid": 466890,
+    "name": "Z.I.O.N.",
+    "type": "game"
+  },
+  {
+    "appid": 1548540,
+    "name": "Z.O.M.B.I.E.",
+    "type": "game"
+  },
+  {
+    "appid": 2142450,
+    "name": "Z.O.N.A Project X",
+    "type": "game"
+  },
+  {
+    "appid": 2539520,
+    "name": "Z.O.N.A: Origin",
+    "type": "game"
+  },
+  {
+    "appid": 848720,
+    "name": "Z.W!",
+    "type": "game"
+  },
+  {
+    "appid": 543950,
+    "name": "Z`code (VR for HTC Vive)",
+    "type": "game"
+  },
+  {
+    "appid": 433850,
+    "name": "Z1 Battle Royale",
+    "type": "game"
+  },
+  {
+    "appid": 4184940,
+    "name": "Z12",
+    "type": "game"
+  },
+  {
+    "appid": 798270,
+    "name": "Z55Z",
+    "type": "game"
+  },
+  {
+    "appid": 677980,
+    "name": "Z69",
+    "type": "game"
+  },
+  {
+    "appid": 2737160,
+    "name": "Za češtiny ve hrách!",
+    "type": "game"
+  },
+  {
+    "appid": 1492230,
+    "name": "Zaacar",
+    "type": "game"
+  },
+  {
+    "appid": 1128220,
+    "name": "ZAAM",
+    "type": "game"
+  },
+  {
+    "appid": 673530,
+    "name": "Zaba The Frog",
+    "type": "game"
+  },
+  {
+    "appid": 2216090,
+    "name": "ZaBaTa!",
+    "type": "game"
+  },
+  {
+    "appid": 2183530,
+    "name": "Zabawa Karaoke",
+    "type": "game"
+  },
+  {
+    "appid": 1298520,
+    "name": "Zac Zac adventure",
+    "type": "game"
+  },
+  {
+    "appid": 444930,
+    "name": "Zaccaria Pinball",
+    "type": "game"
+  },
+  {
+    "appid": 1098840,
+    "name": "ZACH-LIKE",
+    "type": "game"
+  },
+  {
+    "appid": 2462890,
+    "name": "ZaciSa: Defense of the Crayon Dimension!",
+    "type": "game"
+  },
+  {
+    "appid": 3264140,
+    "name": "ZaciSa: Idle Defense!",
+    "type": "game"
+  },
+  {
+    "appid": 1218320,
+    "name": "Zack 2: Celeste's Map",
+    "type": "game"
+  },
+  {
+    "appid": 3361400,
+    "name": "Zack Bishop and the Forbidden Moon",
+    "type": "game"
+  },
+  {
+    "appid": 937620,
+    "name": "Zack Y",
+    "type": "game"
+  },
+  {
+    "appid": 234290,
+    "name": "Zack Zero",
+    "type": "game"
+  },
+  {
+    "appid": 3313800,
+    "name": "ZackinFight",
+    "type": "game"
+  },
+  {
+    "appid": 4412000,
+    "name": "Zad Archery",
+    "type": "game"
+  },
+  {
+    "appid": 2156630,
+    "name": "Zad Maldan My Bloody Sacrifice",
+    "type": "game"
+  },
+  {
+    "appid": 1893330,
+    "name": "Zadel Princess",
+    "type": "game"
+  },
+  {
+    "appid": 1510670,
+    "name": "ZADETTE",
+    "type": "game"
+  },
+  {
+    "appid": 5156660,
+    "name": "Zaehbet, Draad",
+    "type": "game"
+  },
+  {
+    "appid": 4081670,
+    "name": "Zaetherfall",
+    "type": "game"
+  },
+  {
+    "appid": 653940,
+    "name": "Zafehouse Diaries 2",
+    "type": "game"
+  },
+  {
+    "appid": 249360,
+    "name": "Zafehouse: Diaries",
+    "type": "game"
+  },
+  {
+    "appid": 3589280,
+    "name": "Zafira",
+    "type": "game"
+  },
+  {
+    "appid": 1416940,
+    "name": "Zagamihara",
+    "type": "game"
+  },
+  {
+    "appid": 1295030,
+    "name": "Zagan Must Be Rescued",
+    "type": "game"
+  },
+  {
+    "appid": 1643490,
+    "name": "Zagu Espionage",
+    "type": "game"
+  },
+  {
+    "appid": 3189070,
+    "name": "ZagZag",
+    "type": "game"
+  },
+  {
+    "appid": 2200860,
+    "name": "Zahak",
+    "type": "game"
+  },
+  {
+    "appid": 791320,
+    "name": "Zahalia",
+    "type": "game"
+  },
+  {
+    "appid": 1636990,
+    "name": "Zahalia: The Curse of Zezor",
+    "type": "game"
+  },
+  {
+    "appid": 562290,
+    "name": "Zahalia: The Knights of Galiveth",
+    "type": "game"
+  },
+  {
+    "appid": 1530260,
+    "name": "Zahhak",
+    "type": "game"
+  },
+  {
+    "appid": 3854410,
+    "name": "Zahmahrel",
+    "type": "game"
+  },
+  {
+    "appid": 6050,
+    "name": "Zak McKracken and the Alien Mindbenders",
+    "type": "game"
+  },
+  {
+    "appid": 559070,
+    "name": "Zak McKracken and the Alien Mindbenders",
+    "type": "game"
+  },
+  {
+    "appid": 2547730,
+    "name": "Zakantosh Cardgame",
+    "type": "game"
+  },
+  {
+    "appid": 2695830,
+    "name": "ZAKESTA-Z",
+    "type": "game"
+  },
+  {
+    "appid": 1037150,
+    "name": "Zakk Hazard The Deadly Spawn",
+    "type": "game"
+  },
+  {
+    "appid": 2879980,
+    "name": "ZAKO NO AHIRU",
+    "type": "game"
+  },
+  {
+    "appid": 2212650,
+    "name": "Zako Slayer",
+    "type": "game"
+  },
+  {
+    "appid": 1918120,
+    "name": "ZAKON",
+    "type": "game"
+  },
+  {
+    "appid": 1430350,
+    "name": "Zakumba Astraia: Prologue",
+    "type": "game"
+  },
+  {
+    "appid": 5345570,
+    "name": "Zakuzaku Rogue",
+    "type": "game"
+  },
+  {
+    "appid": 2945790,
+    "name": "ZakuzakuCraft",
+    "type": "game"
+  },
+  {
+    "appid": 5346530,
+    "name": "ZakuzakuTreasure",
+    "type": "game"
+  },
+  {
+    "appid": 5031450,
+    "name": "Zala",
+    "type": "game"
+  },
+  {
+    "appid": 2902220,
+    "name": "Zalera Spark",
+    "type": "game"
+  },
+  {
+    "appid": 3147520,
+    "name": "Zalis: A romantic adventure",
+    "type": "game"
+  },
+  {
+    "appid": 2228100,
+    "name": "Zamakan",
+    "type": "game"
+  },
+  {
+    "appid": 4972420,
+    "name": "Zaman",
+    "type": "game"
+  },
+  {
+    "appid": 429120,
+    "name": "Zamarian",
+    "type": "game"
+  },
+  {
+    "appid": 284580,
+    "name": "ZAMB! Biomutant Extermination",
+    "type": "game"
+  },
+  {
+    "appid": 819280,
+    "name": "ZAMB! Endless Extermination",
+    "type": "game"
+  },
+  {
+    "appid": 4793350,
+    "name": "Zambala",
+    "type": "game"
+  },
+  {
+    "appid": 698930,
+    "name": "ZAMBI 2 KIL",
+    "type": "game"
+  },
+  {
+    "appid": 3346610,
+    "name": "ZAMOK",
+    "type": "game"
+  },
+  {
+    "appid": 5530200,
+    "name": "Zandbox Survival",
+    "type": "game"
+  },
+  {
+    "appid": 3932330,
+    "name": "Zanerdin: The Unbound",
+    "type": "game"
+  },
+  {
+    "appid": 1599850,
+    "name": "Zanfium Tower",
+    "type": "game"
+  },
+  {
+    "appid": 564040,
+    "name": "ZANGEKI WARP",
+    "type": "game"
+  },
+  {
+    "appid": 1271930,
+    "name": "Zango's Shark Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 4606200,
+    "name": "Zangvadz",
+    "type": "game"
+  },
+  {
+    "appid": 3805820,
+    "name": "Zangyou: Overtime",
+    "type": "game"
+  },
+  {
+    "appid": 819020,
+    "name": "Zanki Zero: Last Beginning",
+    "type": "game"
+  },
+  {
+    "appid": 2060740,
+    "name": "Zankinzoken",
+    "type": "game"
+  },
+  {
+    "appid": 2458370,
+    "name": "Zankoi's Chronicles",
+    "type": "game"
+  },
+  {
+    "appid": 5070890,
+    "name": "ZANKOKURYU GETSUDOOM",
+    "type": "game"
+  },
+  {
+    "appid": 1654360,
+    "name": "Zannon",
+    "type": "game"
+  },
+  {
+    "appid": 5389860,
+    "name": "Zanoka",
+    "type": "game"
+  },
+  {
+    "appid": 768550,
+    "name": "Zanshin",
+    "type": "game"
+  },
+  {
+    "appid": 3799780,
+    "name": "Zantar & Other Stories",
+    "type": "game"
+  },
+  {
+    "appid": 4502160,
+    "name": "Zantrixia",
+    "type": "game"
+  },
+  {
+    "appid": 2308130,
+    "name": "Zany Golf",
+    "type": "game"
+  },
+  {
+    "appid": 384570,
+    "name": "ZanZarah: The Hidden Portal",
+    "type": "game"
+  },
+  {
+    "appid": 2708570,
+    "name": "ZANZIBART",
+    "type": "game"
+  },
+  {
+    "appid": 2281150,
+    "name": "Zaoça: Šäaiks Lagush",
+    "type": "game"
+  },
+  {
+    "appid": 4346650,
+    "name": "Zap & Andy: Go to HELL!",
+    "type": "game"
+  },
+  {
+    "appid": 3150320,
+    "name": "Zap & Run",
+    "type": "game"
+  },
+  {
+    "appid": 696850,
+    "name": "Zap Blastum",
+    "type": "game"
+  },
+  {
+    "appid": 3440510,
+    "name": "Zap Colony",
+    "type": "game"
+  },
+  {
+    "appid": 1921460,
+    "name": "Zap Dem Rats",
+    "type": "game"
+  },
+  {
+    "appid": 679860,
+    "name": "ZAP Master",
+    "type": "game"
+  },
+  {
+    "appid": 5035950,
+    "name": "Zap Rat",
+    "type": "game"
+  },
+  {
+    "appid": 743190,
+    "name": "Zap Zap Zombie Cats",
+    "type": "game"
+  },
+  {
+    "appid": 572180,
+    "name": "Zap Zone",
+    "type": "game"
+  },
+  {
+    "appid": 809480,
+    "name": "Zap, Blast, Loot",
+    "type": "game"
+  },
+  {
+    "appid": 4044090,
+    "name": "ZAP: Beam Of Fate",
+    "type": "game"
+  },
+  {
+    "appid": 1173230,
+    "name": "Zapitalism",
+    "type": "game"
+  },
+  {
+    "appid": 1489110,
+    "name": "Zapling Bygone",
+    "type": "game"
+  },
+  {
+    "appid": 5243930,
+    "name": "ZAPLOOPA 4040",
+    "type": "game"
+  },
+  {
+    "appid": 3018640,
+    "name": "ZAPNATOR",
+    "type": "game"
+  },
+  {
+    "appid": 3094700,
+    "name": "Zapp",
+    "type": "game"
+  },
+  {
+    "appid": 2766060,
+    "name": "Zapper: One Wicked Cricket",
+    "type": "game"
+  },
+  {
+    "appid": 4291920,
+    "name": "Zappy Cats",
+    "type": "game"
+  },
+  {
+    "appid": 4545340,
+    "name": "ZapStick",
+    "type": "game"
+  },
+  {
+    "appid": 2870760,
+    "name": "Zaque's Game",
+    "type": "game"
+  },
+  {
+    "appid": 1600600,
+    "name": "ZAR",
+    "type": "game"
+  },
+  {
+    "appid": 3049380,
+    "name": "Zaraq",
+    "type": "game"
+  },
+  {
+    "appid": 2779230,
+    "name": "Zarathustra - Cybergeddon",
+    "type": "game"
+  },
+  {
+    "appid": 2079980,
+    "name": "Zardy's Cave",
+    "type": "game"
+  },
+  {
+    "appid": 1484800,
+    "name": "Zardy's Maze",
+    "type": "game"
+  },
+  {
+    "appid": 4213750,
+    "name": "Zareck: The VideoGame",
+    "type": "game"
+  },
+  {
+    "appid": 3894110,
+    "name": "Zargog",
+    "type": "game"
+  },
+  {
+    "appid": 4184640,
+    "name": "Zaria",
+    "type": "game"
+  },
+  {
+    "appid": 2599620,
+    "name": "Zarie: The Story of Sin",
+    "type": "game"
+  },
+  {
+    "appid": 1665300,
+    "name": "Zarktor's Realm",
+    "type": "game"
+  },
+  {
+    "appid": 2186130,
+    "name": "Zarlor Mercenary",
+    "type": "game"
+  },
+  {
+    "appid": 4692870,
+    "name": "ZArmory",
+    "type": "game"
+  },
+  {
+    "appid": 3071750,
+    "name": "Zaru",
+    "type": "game"
+  },
+  {
+    "appid": 992930,
+    "name": "Zarvot",
+    "type": "game"
+  },
+  {
+    "appid": 2786710,
+    "name": "Zarya",
+    "type": "game"
+  },
+  {
+    "appid": 605040,
+    "name": "Zarya and the Cursed Skull",
+    "type": "game"
+  },
+  {
+    "appid": 640090,
+    "name": "Zarya-1: Mystery on the Moon",
+    "type": "game"
+  },
+  {
+    "appid": 447240,
+    "name": "Zasa - An AI Story",
+    "type": "game"
+  },
+  {
+    "appid": 1257520,
+    "name": "Zatorski, Ph.D.",
+    "type": "game"
+  },
+  {
+    "appid": 5372560,
+    "name": "Zattrick Manager",
+    "type": "game"
+  },
+  {
+    "appid": 427910,
+    "name": "Zavix Tower",
+    "type": "game"
+  },
+  {
+    "appid": 3897920,
+    "name": "Zavix Tower 2",
+    "type": "game"
+  },
+  {
+    "appid": 1437200,
+    "name": "ZAVOD",
+    "type": "game"
+  },
+  {
+    "appid": 2245840,
+    "name": "ZAVOD",
+    "type": "game"
+  },
+  {
+    "appid": 3487340,
+    "name": "Zavod",
+    "type": "game"
+  },
+  {
+    "appid": 2124050,
+    "name": "Zaxoid",
+    "type": "game"
+  },
+  {
+    "appid": 2009420,
+    "name": "Zaxterion - Space Frenzy",
+    "type": "game"
+  },
+  {
+    "appid": 3806110,
+    "name": "Zaxtron EXPLUS",
+    "type": "game"
+  },
+  {
+    "appid": 4210130,
+    "name": "Zaya: Rise to the Gods",
+    "type": "game"
+  },
+  {
+    "appid": 5408350,
+    "name": "Zaz Tower",
+    "type": "game"
+  },
+  {
+    "appid": 770320,
+    "name": "Zazmo Arcade Pack",
+    "type": "game"
+  },
+  {
+    "appid": 4660190,
+    "name": "ZAЇBALY",
+    "type": "game"
+  },
+  {
+    "appid": 1399740,
+    "name": "Zball",
+    "type": "game"
+  },
+  {
+    "appid": 1405720,
+    "name": "Zball II",
+    "type": "game"
+  },
+  {
+    "appid": 1411870,
+    "name": "Zball III",
+    "type": "game"
+  },
+  {
+    "appid": 1412540,
+    "name": "Zball IV",
+    "type": "game"
+  },
+  {
+    "appid": 1462900,
+    "name": "Zball V",
+    "type": "game"
+  },
+  {
+    "appid": 1463820,
+    "name": "Zball VI",
+    "type": "game"
+  },
+  {
+    "appid": 2552820,
+    "name": "Zbuki Zoo Strategic Comedy",
+    "type": "game"
+  },
+  {
+    "appid": 1386650,
+    "name": "Zcrew",
+    "type": "game"
+  },
+  {
+    "appid": 3622800,
+    "name": "ZCurse",
+    "type": "game"
+  },
+  {
+    "appid": 5414890,
+    "name": "ZdenalCity",
+    "type": "game"
+  },
+  {
+    "appid": 982010,
+    "name": "ZDF History 360° – Tempelhof",
+    "type": "game"
+  },
+  {
+    "appid": 2431150,
+    "name": "ZDL",
+    "type": "game"
+  },
+  {
+    "appid": 3381120,
+    "name": "ZDSimulator",
+    "type": "game"
+  },
+  {
+    "appid": 2842970,
+    "name": "ZDSS: Zombie Drone Survival Show",
+    "type": "game"
+  },
+  {
+    "appid": 3638670,
+    "name": "Ze Bomber",
+    "type": "game"
+  },
+  {
+    "appid": 574220,
+    "name": "Ze VR",
+    "type": "game"
+  },
+  {
+    "appid": 703280,
+    "name": "Zeal",
+    "type": "game"
+  },
+  {
+    "appid": 1473900,
+    "name": "Zealot",
+    "type": "game"
+  },
+  {
+    "appid": 1135730,
+    "name": "Zebra Logic Master",
+    "type": "game"
+  },
+  {
+    "appid": 4524160,
+    "name": "ZebraPuzzle.hgm",
+    "type": "game"
+  },
+  {
+    "appid": 4436520,
+    "name": "Zebulon 3D",
+    "type": "game"
+  },
+  {
+    "appid": 3047460,
+    "name": "Zebulon: A Lost Cat",
+    "type": "game"
+  },
+  {
+    "appid": 2935280,
+    "name": "Zector 7",
+    "type": "game"
+  },
+  {
+    "appid": 953370,
+    "name": "ZED",
+    "type": "game"
+  },
+  {
+    "appid": 4354190,
+    "name": "Zed Hunters",
+    "type": "game"
+  },
+  {
+    "appid": 1554590,
+    "name": "ZED Patrol",
+    "type": "game"
+  },
+  {
+    "appid": 794390,
+    "name": "Zed Survival",
+    "type": "game"
+  },
+  {
+    "appid": 1211600,
+    "name": "ZED ZONE",
+    "type": "game"
+  },
+  {
+    "appid": 5076910,
+    "name": "ZedFall: Outbreak",
+    "type": "game"
+  },
+  {
+    "appid": 1037080,
+    "name": "Zedfest",
+    "type": "game"
+  },
+  {
+    "appid": 1715970,
+    "name": "ZEE.END",
+    "type": "game"
+  },
+  {
+    "appid": 3205150,
+    "name": "ZEEP",
+    "type": "game"
+  },
+  {
+    "appid": 1440670,
+    "name": "Zeepkist",
+    "type": "game"
+  },
+  {
+    "appid": 1078380,
+    "name": "Zefira",
+    "type": "game"
+  },
+  {
+    "appid": 1344990,
+    "name": "Zefyr: A Thief's Melody",
+    "type": "game"
+  },
+  {
+    "appid": 2320250,
+    "name": "Zefyr: Prologue",
+    "type": "game"
+  },
+  {
+    "appid": 437520,
+    "name": "ZeGame",
+    "type": "game"
+  },
+  {
+    "appid": 2632070,
+    "name": "Zegelon: Hardcore Arena",
+    "type": "game"
+  },
+  {
+    "appid": 4398860,
+    "name": "ZeGunner",
+    "type": "game"
+  },
+  {
+    "appid": 2303550,
+    "name": "Zehlar",
+    "type": "game"
+  },
+  {
+    "appid": 33390,
+    "name": "Zeit²",
+    "type": "game"
+  },
+  {
+    "appid": 33410,
+    "name": "Zeit² Review",
+    "type": "game"
+  },
+  {
+    "appid": 1791820,
+    "name": "Zeitgeist",
+    "type": "game"
+  },
+  {
+    "appid": 2593070,
+    "name": "Zeitghast",
+    "type": "game"
+  },
+  {
+    "appid": 4574700,
+    "name": "Zeitnot",
+    "type": "game"
+  },
+  {
+    "appid": 2784080,
+    "name": "Zeitz Machz √Rhapsody",
+    "type": "game"
+  },
+  {
+    "appid": 3441490,
+    "name": "Zeizen",
+    "type": "game"
+  },
+  {
+    "appid": 1093800,
+    "name": "Zeke's Peak",
+    "type": "game"
+  },
+  {
+    "appid": 3822960,
+    "name": "Zekertune",
+    "type": "game"
+  },
+  {
+    "appid": 1357200,
+    "name": "Zeko",
+    "type": "game"
+  },
+  {
+    "appid": 4757050,
+    "name": "Zelash: Dash and Slash",
+    "type": "game"
+  },
+  {
+    "appid": 3811520,
+    "name": "ZeLastTank : Battle Royale",
+    "type": "game"
+  },
+  {
+    "appid": 4369560,
+    "name": "Zelene Lux: Spirit Notes",
+    "type": "game"
+  },
+  {
+    "appid": 1069320,
+    "name": "ZELENSKY vs POROSHENKO: The Destiny of Ukraine",
+    "type": "game"
+  },
+  {
+    "appid": 3182030,
+    "name": "Zeleny Grimn",
+    "type": "game"
+  },
+  {
+    "appid": 855630,
+    "name": "Zeliria Sanctuary",
+    "type": "game"
+  },
+  {
+    "appid": 1256330,
+    "name": "Zeliria Sanctuary II: Xinori Asylum",
+    "type": "game"
+  },
+  {
+    "appid": 725330,
+    "name": "Zelle",
+    "type": "game"
+  },
+  {
+    "appid": 2100390,
+    "name": "Zellige: The Tilemaker of Granada",
+    "type": "game"
+  },
+  {
+    "appid": 1193340,
+    "name": "Zelter",
+    "type": "game"
+  },
+  {
+    "appid": 1444840,
+    "name": "Zelter: Zombie Zhooter",
+    "type": "game"
+  },
+  {
+    "appid": 2128060,
+    "name": "Zeltoid X1",
+    "type": "game"
+  },
+  {
+    "appid": 1434550,
+    "name": "Zeltrus",
+    "type": "game"
+  },
+  {
+    "appid": 849340,
+    "name": "zeMa",
+    "type": "game"
+  },
+  {
+    "appid": 1897380,
+    "name": "Zemblanity",
+    "type": "game"
+  },
+  {
+    "appid": 1111970,
+    "name": "Zeminator",
+    "type": "game"
+  },
+  {
+    "appid": 3479140,
+    "name": "Zen Aquarium",
+    "type": "game"
+  },
+  {
+    "appid": 1593570,
+    "name": "Zen Arts: Relaxing Pendulum Paint Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 3409390,
+    "name": "Zen Beauty",
+    "type": "game"
+  },
+  {
+    "appid": 733020,
+    "name": "Zen Blocks",
+    "type": "game"
+  },
+  {
+    "appid": 61600,
+    "name": "Zen Bound® 2",
+    "type": "game"
+  },
+  {
+    "appid": 1108550,
+    "name": "Zen Chess: Blindfold Masters",
+    "type": "game"
+  },
+  {
+    "appid": 1108540,
+    "name": "Zen Chess: Champion's Moves",
+    "type": "game"
+  },
+  {
+    "appid": 1043000,
+    "name": "Zen Chess: Mate in Four",
+    "type": "game"
+  },
+  {
+    "appid": 748970,
+    "name": "Zen Chess: Mate in One",
+    "type": "game"
+  },
+  {
+    "appid": 1042990,
+    "name": "Zen Chess: Mate in Three",
+    "type": "game"
+  },
+  {
+    "appid": 1042980,
+    "name": "Zen Chess: Mate in Two",
+    "type": "game"
+  },
+  {
+    "appid": 1606670,
+    "name": "Zen Cube",
+    "type": "game"
+  },
+  {
+    "appid": 321310,
+    "name": "Zen Fish SIM",
+    "type": "game"
+  },
+  {
+    "appid": 2552170,
+    "name": "Zen FIsher",
+    "type": "game"
+  },
+  {
+    "appid": 3849960,
+    "name": "Zen Forest Brick Breaker VR",
+    "type": "game"
+  },
+  {
+    "appid": 592660,
+    "name": "Zen Garden",
+    "type": "game"
+  },
+  {
+    "appid": 2724860,
+    "name": "Zen Garden",
+    "type": "game"
+  },
+  {
+    "appid": 2124690,
+    "name": "Zen Golf",
+    "type": "game"
+  },
+  {
+    "appid": 1619390,
+    "name": "Zen Landscape Editor",
+    "type": "game"
+  },
+  {
+    "appid": 4987650,
+    "name": "Zen Men",
+    "type": "game"
+  },
+  {
+    "appid": 4900,
+    "name": "Zen of Sudoku",
+    "type": "game"
+  },
+  {
+    "appid": 4443320,
+    "name": "Zen One-Stroke: Ashura Edition",
+    "type": "game"
+  },
+  {
+    "appid": 2212310,
+    "name": "Zen Paint",
+    "type": "game"
+  },
+  {
+    "appid": 2660110,
+    "name": "Zen Quest",
+    "type": "game"
+  },
+  {
+    "appid": 2934010,
+    "name": "Zen Rage",
+    "type": "game"
+  },
+  {
+    "appid": 3189950,
+    "name": "Zen Rogue Monks",
+    "type": "game"
+  },
+  {
+    "appid": 876210,
+    "name": "Zen Space Flight - VR Showcase",
+    "type": "game"
+  },
+  {
+    "appid": 1418570,
+    "name": "Zen Trails",
+    "type": "game"
+  },
+  {
+    "appid": 1281600,
+    "name": "Zen Universe",
+    "type": "game"
+  },
+  {
+    "appid": 5332140,
+    "name": "Zen Village",
+    "type": "game"
+  },
+  {
+    "appid": 852620,
+    "name": "Zen Vs Gravity",
+    "type": "game"
+  },
+  {
+    "appid": 628490,
+    "name": "Zen vs Zombie",
+    "type": "game"
+  },
+  {
+    "appid": 2521470,
+    "name": "Zen With A Pen",
+    "type": "game"
+  },
+  {
+    "appid": 1485650,
+    "name": "Zen World",
+    "type": "game"
+  },
+  {
+    "appid": 1724600,
+    "name": "Zen: A Gay Sequel",
+    "type": "game"
+  },
+  {
+    "appid": 1444700,
+    "name": "Zen! Slider",
+    "type": "game"
+  },
+  {
+    "appid": 4974640,
+    "name": "zenaimu",
+    "type": "game"
+  },
+  {
+    "appid": 2928010,
+    "name": "Zenatria",
+    "type": "game"
+  },
+  {
+    "appid": 400760,
+    "name": "ZenBlade",
+    "type": "game"
+  },
+  {
+    "appid": 1554510,
+    "name": "Zenbones",
+    "type": "game"
+  },
+  {
+    "appid": 5226290,
+    "name": "Zenden",
+    "type": "game"
+  },
+  {
+    "appid": 1441690,
+    "name": "ZendoVR",
+    "type": "game"
+  },
+  {
+    "appid": 37290,
+    "name": "Zenerchi",
+    "type": "game"
+  },
+  {
+    "appid": 694960,
+    "name": "Zenethics Lab : Outbreak",
+    "type": "game"
+  },
+  {
+    "appid": 1542460,
+    "name": "ZenFarm",
+    "type": "game"
+  },
+  {
+    "appid": 2840430,
+    "name": "ZenFire",
+    "type": "game"
+  },
+  {
+    "appid": 2408200,
+    "name": "Zenful Journey",
+    "type": "game"
+  },
+  {
+    "appid": 461840,
+    "name": "Zenge",
+    "type": "game"
+  },
+  {
+    "appid": 1000080,
+    "name": "Zengeon",
+    "type": "game"
+  },
+  {
+    "appid": 1851850,
+    "name": "Zênite",
+    "type": "game"
+  },
+  {
+    "appid": 438420,
+    "name": "Zenith",
+    "type": "game"
+  },
+  {
+    "appid": 3383600,
+    "name": "Zenith",
+    "type": "game"
+  },
+  {
+    "appid": 4727370,
+    "name": "ZENITH",
+    "type": "game"
+  },
+  {
+    "appid": 3040150,
+    "name": "Zenith Armada",
+    "type": "game"
+  },
+  {
+    "appid": 3927710,
+    "name": "Zenith Break",
+    "type": "game"
+  },
+  {
+    "appid": 3643330,
+    "name": "Zenith Drift",
+    "type": "game"
+  },
+  {
+    "appid": 4386170,
+    "name": "Zenith Expanse",
+    "type": "game"
+  },
+  {
+    "appid": 1031860,
+    "name": "Zenith Frontier",
+    "type": "game"
+  },
+  {
+    "appid": 3018090,
+    "name": "Zenith Heroes",
+    "type": "game"
+  },
+  {
+    "appid": 924360,
+    "name": "Zenith Hunter",
+    "type": "game"
+  },
+  {
+    "appid": 1522070,
+    "name": "Zenith Into Maronarium",
+    "type": "game"
+  },
+  {
+    "appid": 3162120,
+    "name": "Zenith Realms",
+    "type": "game"
+  },
+  {
+    "appid": 4142910,
+    "name": "Zenith Trace",
+    "type": "game"
+  },
+  {
+    "appid": 1403370,
+    "name": "Zenith: Nexus",
+    "type": "game"
+  },
+  {
+    "appid": 1085800,
+    "name": "Zenkat",
+    "type": "game"
+  },
+  {
+    "appid": 1632210,
+    "name": "Zenko: A Fox's Tale",
+    "type": "game"
+  },
+  {
+    "appid": 4162040,
+    "name": "Zenless Zone Zero",
+    "type": "game"
+  },
+  {
+    "appid": 22200,
+    "name": "Zeno Clash",
+    "type": "game"
+  },
+  {
+    "appid": 215690,
+    "name": "Zeno Clash 2",
+    "type": "game"
+  },
+  {
+    "appid": 22210,
+    "name": "Zeno Clash Press",
+    "type": "game"
+  },
+  {
+    "appid": 5105370,
+    "name": "Zeno Survivor",
+    "type": "game"
+  },
+  {
+    "appid": 761920,
+    "name": "Zenodeath",
+    "type": "game"
+  },
+  {
+    "appid": 466820,
+    "name": "Zenodyne R",
+    "type": "game"
+  },
+  {
+    "appid": 3852790,
+    "name": "Zenogaias",
+    "type": "game"
+  },
+  {
+    "appid": 402030,
+    "name": "Zenohell",
+    "type": "game"
+  },
+  {
+    "appid": 2494030,
+    "name": "Zenoken",
+    "type": "game"
+  },
+  {
+    "appid": 3080910,
+    "name": "ZENOMATRIX",
+    "type": "game"
+  },
+  {
+    "appid": 4538960,
+    "name": "ZENONIA 1",
+    "type": "game"
+  },
+  {
+    "appid": 4991990,
+    "name": "ZENONIA 2: The Lost Memories",
+    "type": "game"
+  },
+  {
+    "appid": 1490950,
+    "name": "Zenorost Realm",
+    "type": "game"
+  },
+  {
+    "appid": 1690050,
+    "name": "Zenos Stadium",
+    "type": "game"
+  },
+  {
+    "appid": 1868540,
+    "name": "Zenteni",
+    "type": "game"
+  },
+  {
+    "appid": 2724700,
+    "name": "Zenteni: Create Creatures",
+    "type": "game"
+  },
+  {
+    "appid": 4653950,
+    "name": "Zentris",
+    "type": "game"
+  },
+  {
+    "appid": 4456640,
+    "name": "ZenType",
+    "type": "game"
+  },
+  {
+    "appid": 3720960,
+    "name": "Zenvader",
+    "type": "game"
+  },
+  {
+    "appid": 4263560,
+    "name": "ZenWash",
+    "type": "game"
+  },
+  {
+    "appid": 519990,
+    "name": "Zenza",
+    "type": "game"
+  },
+  {
+    "appid": 3616180,
+    "name": "Zenzicube: The Power of Six",
+    "type": "game"
+  },
+  {
+    "appid": 327500,
+    "name": "Zenzizenzic",
+    "type": "game"
+  },
+  {
+    "appid": 1686800,
+    "name": "Zeo Effect",
+    "type": "game"
+  },
+  {
+    "appid": 882620,
+    "name": "Zeon 25",
+    "type": "game"
+  },
+  {
+    "appid": 3377590,
+    "name": "ZEP",
+    "type": "game"
+  },
+  {
+    "appid": 1279810,
+    "name": "Zeph",
+    "type": "game"
+  },
+  {
+    "appid": 2832750,
+    "name": "Zephinala",
+    "type": "game"
+  },
+  {
+    "appid": 1481170,
+    "name": "ZEPHON",
+    "type": "game"
+  },
+  {
+    "appid": 1423010,
+    "name": "Zephyr",
+    "type": "game"
+  },
+  {
+    "appid": 23000,
+    "name": "Zephyr - 01 - Tome of Infamy",
+    "type": "game"
+  },
+  {
+    "appid": 4265110,
+    "name": "Zephyr Cloud",
+    "type": "game"
+  },
+  {
+    "appid": 5528190,
+    "name": "Zephyr's World",
+    "type": "game"
+  },
+  {
+    "appid": 1829960,
+    "name": "Zephyrus Prelude",
+    "type": "game"
+  },
+  {
+    "appid": 4229270,
+    "name": "ZepOrb",
+    "type": "game"
+  },
+  {
+    "appid": 3794410,
+    "name": "Zeppelin Rush",
+    "type": "game"
+  },
+  {
+    "appid": 611200,
+    "name": "Zeppelin VR",
+    "type": "game"
+  },
+  {
+    "appid": 1879220,
+    "name": "Zeppelin: Escape Room",
+    "type": "game"
+  },
+  {
+    "appid": 665030,
+    "name": "Zeran's Folly",
+    "type": "game"
+  },
+  {
+    "appid": 3856190,
+    "name": "Zereoton Hauntings",
+    "type": "game"
+  },
+  {
+    "appid": 4636010,
+    "name": "Zereoton Hauntings 2",
+    "type": "game"
+  },
+  {
+    "appid": 4937420,
+    "name": "Zereoton Hauntings 3",
+    "type": "game"
+  },
+  {
+    "appid": 4340640,
+    "name": "Zeri Factory",
+    "type": "game"
+  },
+  {
+    "appid": 1359240,
+    "name": "Zeriliah Chronicles",
+    "type": "game"
+  },
+  {
+    "appid": 3908920,
+    "name": "Zerion 12",
+    "type": "game"
+  },
+  {
+    "appid": 4152860,
+    "name": "Zerion-X9",
+    "type": "game"
+  },
+  {
+    "appid": 4787300,
+    "name": "Zerion: Infinite Space",
+    "type": "game"
+  },
+  {
+    "appid": 2799570,
+    "name": "Zerium War: Destiny",
+    "type": "game"
+  },
+  {
+    "appid": 2862990,
+    "name": "Zerko",
+    "type": "game"
+  },
+  {
+    "appid": 3839430,
+    "name": "Zero",
+    "type": "game"
+  },
+  {
+    "appid": 3079750,
+    "name": "Zero Agency",
+    "type": "game"
+  },
+  {
+    "appid": 2460940,
+    "name": "Zero Below The Sun",
+    "type": "game"
+  },
+  {
+    "appid": 4834460,
+    "name": "Zero Boundary Line",
+    "type": "game"
+  },
+  {
+    "appid": 4443770,
+    "name": "Zero Bugs Given",
+    "type": "game"
+  },
+  {
+    "appid": 2719740,
+    "name": "Zero Caliber 2",
+    "type": "game"
+  },
+  {
+    "appid": 877200,
+    "name": "Zero Caliber VR",
+    "type": "game"
+  },
+  {
+    "appid": 5124150,
+    "name": "Zero Castle",
+    "type": "game"
+  },
+  {
+    "appid": 4158880,
+    "name": "Zero Century",
+    "type": "game"
+  },
+  {
+    "appid": 1766420,
+    "name": "Zero Chastity: A Sultry Summer Holiday",
+    "type": "game"
+  },
+  {
+    "appid": 5359260,
+    "name": "Zero Colour",
+    "type": "game"
+  },
+  {
+    "appid": 2698320,
+    "name": "Zero Conflict TD",
+    "type": "game"
+  },
+  {
+    "appid": 4798020,
+    "name": "zero contact",
+    "type": "game"
+  },
+  {
+    "appid": 1138000,
+    "name": "Zero Day",
+    "type": "game"
+  },
+  {
+    "appid": 2851860,
+    "name": "Zero Days Since",
+    "type": "game"
+  },
+  {
+    "appid": 754930,
+    "name": "Zero Days VR",
+    "type": "game"
+  },
+  {
+    "appid": 2755690,
+    "name": "Zero Distance",
+    "type": "game"
+  },
+  {
+    "appid": 2181950,
+    "name": "Zero Division",
+    "type": "game"
+  },
+  {
+    "appid": 2573050,
+    "name": "Zero End",
+    "type": "game"
+  },
+  {
+    "appid": 477740,
+    "name": "Zero Escape: The Nonary Games",
+    "type": "game"
+  },
+  {
+    "appid": 311240,
+    "name": "Zero Escape: Zero Time Dilemma",
+    "type": "game"
+  },
+  {
+    "appid": 1131710,
+    "name": "Zero Fantasy - Kanon",
+    "type": "game"
+  },
+  {
+    "appid": 1173540,
+    "name": "Zero Friction",
+    "type": "game"
+  },
+  {
+    "appid": 467820,
+    "name": "Zero G Arena",
+    "type": "game"
+  },
+  {
+    "appid": 5359410,
+    "name": "Zero G Nova Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 18820,
+    "name": "Zero Gear",
+    "type": "game"
+  },
+  {
+    "appid": 423780,
+    "name": "Zero Gravity",
+    "type": "game"
+  },
+  {
+    "appid": 3627900,
+    "name": "Zero Gravity Heroes",
+    "type": "game"
+  },
+  {
+    "appid": 778600,
+    "name": "Zero Gravity Pool",
+    "type": "game"
+  },
+  {
+    "appid": 2402450,
+    "name": "Zero Grounds",
+    "type": "game"
+  },
+  {
+    "appid": 4123660,
+    "name": "Zero Gunner 2",
+    "type": "game"
+  },
+  {
+    "appid": 1342250,
+    "name": "ZERO GUNNER 2-",
+    "type": "game"
+  },
+  {
+    "appid": 2711710,
+    "name": "Zero Hero",
+    "type": "game"
+  },
+  {
+    "appid": 1359090,
+    "name": "Zero Hour",
+    "type": "game"
+  },
+  {
+    "appid": 5137180,
+    "name": "Zero Hour Deadfront",
+    "type": "game"
+  },
+  {
+    "appid": 4724610,
+    "name": "Zero Hour Night",
+    "type": "game"
+  },
+  {
+    "appid": 1236240,
+    "name": "Zero IDLE",
+    "type": "game"
+  },
+  {
+    "appid": 3333760,
+    "name": "Zero Impact",
+    "type": "game"
+  },
+  {
+    "appid": 645930,
+    "name": "Zero Killed",
+    "type": "game"
+  },
+  {
+    "appid": 5028360,
+    "name": "ZERO KNOWLEDGE",
+    "type": "game"
+  },
+  {
+    "appid": 5372870,
+    "name": "Zero League",
+    "type": "game"
+  },
+  {
+    "appid": 2363910,
+    "name": "Zero Lilium Bloom",
+    "type": "game"
+  },
+  {
+    "appid": 3270320,
+    "name": "Zero Line",
+    "type": "game"
+  },
+  {
+    "appid": 2491830,
+    "name": "Zero Losses",
+    "type": "game"
+  },
+  {
+    "appid": 5504190,
+    "name": "Zero Mass",
+    "type": "game"
+  },
+  {
+    "appid": 2488830,
+    "name": "Zero Medal - The Galaxy Champions",
+    "type": "game"
+  },
+  {
+    "appid": 3782000,
+    "name": "Zero Moment",
+    "type": "game"
+  },
+  {
+    "appid": 1040610,
+    "name": "Zero One / 杀戮世界",
+    "type": "game"
+  },
+  {
+    "appid": 4138940,
+    "name": "Zero One Protocol",
+    "type": "game"
+  },
+  {
+    "appid": 1877650,
+    "name": "Zero Orders Tactics",
+    "type": "game"
+  },
+  {
+    "appid": 4542710,
+    "name": "Zero Out",
+    "type": "game"
+  },
+  {
+    "appid": 1752240,
+    "name": "Zero Page",
+    "type": "game"
+  },
+  {
+    "appid": 2863680,
+    "name": "ZERO PARADES: Director's Cut",
+    "type": "game"
+  },
+  {
+    "appid": 3797770,
+    "name": "Zero Pixel Dawn",
+    "type": "game"
+  },
+  {
+    "appid": 268710,
+    "name": "Zero Point",
+    "type": "game"
+  },
+  {
+    "appid": 4496220,
+    "name": "Zero Point",
+    "type": "game"
+  },
+  {
+    "appid": 3476600,
+    "name": "Zero Point Survivor",
+    "type": "game"
+  },
+  {
+    "appid": 2840250,
+    "name": "ZERO PROTOCOL",
+    "type": "game"
+  },
+  {
+    "appid": 403700,
+    "name": "Zero Punctuation: Hatfall - Hatters Gonna Hat Edition",
+    "type": "game"
+  },
+  {
+    "appid": 405650,
+    "name": "Zero Reflex",
+    "type": "game"
+  },
+  {
+    "appid": 1782120,
+    "name": "ZERO Sievert",
+    "type": "game"
+  },
+  {
+    "appid": 4210060,
+    "name": "ZERO Sievert 2",
+    "type": "game"
+  },
+  {
+    "appid": 951010,
+    "name": "Zero spring episode 1 English translation version",
+    "type": "game"
+  },
+  {
+    "appid": 951070,
+    "name": "Zero spring episode 1 Japanese version",
+    "type": "game"
+  },
+  {
+    "appid": 974010,
+    "name": "Zero spring episode 2",
+    "type": "game"
+  },
+  {
+    "appid": 1000900,
+    "name": "Zero spring episode 3",
+    "type": "game"
+  },
+  {
+    "appid": 3875250,
+    "name": "Zero State",
+    "type": "game"
+  },
+  {
+    "appid": 3808190,
+    "name": "Zero State Agent",
+    "type": "game"
+  },
+  {
+    "appid": 4247450,
+    "name": "Zero Station: Interval",
+    "type": "game"
+  },
+  {
+    "appid": 1079560,
+    "name": "Zero Strain",
+    "type": "game"
+  },
+  {
+    "appid": 4271160,
+    "name": "Zero Stress King: Idle Defense",
+    "type": "game"
+  },
+  {
+    "appid": 4546380,
+    "name": "Zero Sum",
+    "type": "game"
+  },
+  {
+    "appid": 873470,
+    "name": "Zero Sum Future",
+    "type": "game"
+  },
+  {
+    "appid": 4829110,
+    "name": "Zero Survivors: The Hero Must Die",
+    "type": "game"
+  },
+  {
+    "appid": 753190,
+    "name": "Zero Symptom",
+    "type": "game"
+  },
+  {
+    "appid": 3595600,
+    "name": "Zero to Army",
+    "type": "game"
+  },
+  {
+    "appid": 2778790,
+    "name": "Zero To Death",
+    "type": "game"
+  },
+  {
+    "appid": 2107470,
+    "name": "Zero to Hero",
+    "type": "game"
+  },
+  {
+    "appid": 4414900,
+    "name": "Zero To Hero Idle",
+    "type": "game"
+  },
+  {
+    "appid": 4229040,
+    "name": "Zero To South",
+    "type": "game"
+  },
+  {
+    "appid": 1257930,
+    "name": "Zero Tolerance",
+    "type": "game"
+  },
+  {
+    "appid": 4358190,
+    "name": "Zero Trust",
+    "type": "game"
+  },
+  {
+    "appid": 5029560,
+    "name": "Zero Viewers",
+    "type": "game"
+  },
+  {
+    "appid": 5315570,
+    "name": "ZERO VISIBILITY",
+    "type": "game"
+  },
+  {
+    "appid": 2342730,
+    "name": "Zero Vortex",
+    "type": "game"
+  },
+  {
+    "appid": 4029840,
+    "name": "Zero Warning: Burnt Out",
+    "type": "game"
+  },
+  {
+    "appid": 2011900,
+    "name": "Zero Wing",
+    "type": "game"
+  },
+  {
+    "appid": 1973280,
+    "name": "Zero World",
+    "type": "game"
+  },
+  {
+    "appid": 1377200,
+    "name": "Zero Wrath Vendetta",
+    "type": "game"
+  },
+  {
+    "appid": 1058860,
+    "name": "ZERO ZION",
+    "type": "game"
+  },
+  {
+    "appid": 4389600,
+    "name": "ZERO_FILL",
+    "type": "game"
+  },
+  {
+    "appid": 4737070,
+    "name": "ZERO_GAUGE",
+    "type": "game"
+  },
+  {
+    "appid": 1044870,
+    "name": "Zero-based World",
+    "type": "game"
+  },
+  {
+    "appid": 567890,
+    "name": "Zero-G",
+    "type": "game"
+  },
+  {
+    "appid": 4344760,
+    "name": "Zero-G Combat",
+    "type": "game"
+  },
+  {
+    "appid": 1312060,
+    "name": "Zero-G Gunfight",
+    "type": "game"
+  },
+  {
+    "appid": 3798450,
+    "name": "Zero-G Guns",
+    "type": "game"
+  },
+  {
+    "appid": 1504630,
+    "name": "Zero-G Revolution",
+    "type": "game"
+  },
+  {
+    "appid": 491520,
+    "name": "Zero-G VR",
+    "type": "game"
+  },
+  {
+    "appid": 2220520,
+    "name": "Zero-G-Racer",
+    "type": "game"
+  },
+  {
+    "appid": 334920,
+    "name": "Zero-K",
+    "type": "game"
+  },
+  {
+    "appid": 1492440,
+    "name": "Zero-Point",
+    "type": "game"
+  },
+  {
+    "appid": 2954920,
+    "name": "Zero-Sum Heart",
+    "type": "game"
+  },
+  {
+    "appid": 5005650,
+    "name": "ZERO//DECAY",
+    "type": "game"
+  },
+  {
+    "appid": 4084170,
+    "name": "ZEROAD",
+    "type": "game"
+  },
+  {
+    "appid": 790080,
+    "name": "ZEROCAR: Future Motorsport",
+    "type": "game"
+  },
+  {
+    "appid": 1594490,
+    "name": "ZeroChance",
+    "type": "game"
+  },
+  {
+    "appid": 1964580,
+    "name": "ZEROCRON",
+    "type": "game"
+  },
+  {
+    "appid": 4724230,
+    "name": "ZeroEco",
+    "type": "game"
+  },
+  {
+    "appid": 1274970,
+    "name": "ZEROED",
+    "type": "game"
+  },
+  {
+    "appid": 3440430,
+    "name": "ZeroFactory",
+    "type": "game"
+  },
+  {
+    "appid": 1218580,
+    "name": "Zerograve",
+    "type": "game"
+  },
+  {
+    "appid": 2675370,
+    "name": "ZeroKing",
+    "type": "game"
+  },
+  {
+    "appid": 4191340,
+    "name": "ZEROLIMIT",
+    "type": "game"
+  },
+  {
+    "appid": 1203940,
+    "name": "ZERONE",
+    "type": "game"
+  },
+  {
+    "appid": 1564410,
+    "name": "Zerone 2D",
+    "type": "game"
+  },
+  {
+    "appid": 952710,
+    "name": "ZERONE Episode 1 Gunner",
+    "type": "game"
+  },
+  {
+    "appid": 4249890,
+    "name": "ZeroOne Terminal",
+    "type": "game"
+  },
+  {
+    "appid": 2545410,
+    "name": "ZeroPiece",
+    "type": "game"
+  },
+  {
+    "appid": 4967350,
+    "name": "ZeroPoint",
+    "type": "game"
+  },
+  {
+    "appid": 4306040,
+    "name": "ZeroPrompt",
+    "type": "game"
+  },
+  {
+    "appid": 974110,
+    "name": "Zeroptian Invasion",
+    "type": "game"
+  },
+  {
+    "appid": 809020,
+    "name": "ZeroRanger",
+    "type": "game"
+  },
+  {
+    "appid": 1605850,
+    "name": "ZeroSpace",
+    "type": "game"
+  },
+  {
+    "appid": 4062680,
+    "name": "Zeroth",
+    "type": "game"
+  },
+  {
+    "appid": 3709790,
+    "name": "Zerowake GATES",
+    "type": "game"
+  },
+  {
+    "appid": 1276300,
+    "name": "Zerowood",
+    "type": "game"
+  },
+  {
+    "appid": 3960120,
+    "name": "ZeroZeta",
+    "type": "game"
+  },
+  {
+    "appid": 1128100,
+    "name": "ZeroZone2020",
+    "type": "game"
+  },
+  {
+    "appid": 2779580,
+    "name": "Zerra´s Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 4504360,
+    "name": "ZERRE",
+    "type": "game"
+  },
+  {
+    "appid": 3801360,
+    "name": "Zerun: The Tiny Planet",
+    "type": "game"
+  },
+  {
+    "appid": 517280,
+    "name": "ZEscape",
+    "type": "game"
+  },
+  {
+    "appid": 968640,
+    "name": "ZET",
+    "type": "game"
+  },
+  {
+    "appid": 2229560,
+    "name": "Zet Zillions",
+    "type": "game"
+  },
+  {
+    "appid": 1649800,
+    "name": "Zeta Bit Player Pack 1",
+    "type": "game"
+  },
+  {
+    "appid": 1042230,
+    "name": "Zeta Complex",
+    "type": "game"
+  },
+  {
+    "appid": 1131290,
+    "name": "Zeta Flyff",
+    "type": "game"
+  },
+  {
+    "appid": 2445160,
+    "name": "Zeta Leporis RTS",
+    "type": "game"
+  },
+  {
+    "appid": 2349640,
+    "name": "Zeta Wolf Chronicles",
+    "type": "game"
+  },
+  {
+    "appid": 2771560,
+    "name": "Zeta Wolf: First Bite",
+    "type": "game"
+  },
+  {
+    "appid": 3595560,
+    "name": "ZetaZania Part 1: Vampire Pirates from Uranus",
+    "type": "game"
+  },
+  {
+    "appid": 924830,
+    "name": "Zether",
+    "type": "game"
+  },
+  {
+    "appid": 1960920,
+    "name": "Zetria",
+    "type": "game"
+  },
+  {
+    "appid": 3890620,
+    "name": "Zetris",
+    "type": "game"
+  },
+  {
+    "appid": 4630420,
+    "name": "Zetrya: Dungeon Dive",
+    "type": "game"
+  },
+  {
+    "appid": 915860,
+    "name": "Zettavolt Trigger",
+    "type": "game"
+  },
+  {
+    "appid": 566050,
+    "name": "Zeus + Poseidon",
+    "type": "game"
+  },
+  {
+    "appid": 1092850,
+    "name": "Zeus Begins",
+    "type": "game"
+  },
+  {
+    "appid": 1953240,
+    "name": "Zeus Quest - The Rebirth of Earth",
+    "type": "game"
+  },
+  {
+    "appid": 488460,
+    "name": "Zeus Quest Remastered",
+    "type": "game"
+  },
+  {
+    "appid": 444430,
+    "name": "Zeus vs Monsters - Math Game for kids",
+    "type": "game"
+  },
+  {
+    "appid": 682290,
+    "name": "Zeus' Battlegrounds",
+    "type": "game"
+  },
+  {
+    "appid": 3371050,
+    "name": "Zeverland",
+    "type": "game"
+  },
+  {
+    "appid": 3392510,
+    "name": "Zexion",
+    "type": "game"
+  },
+  {
+    "appid": 497860,
+    "name": "Zezenia Online",
+    "type": "game"
+  },
+  {
+    "appid": 4452500,
+    "name": "Zhai",
+    "type": "game"
+  },
+  {
+    "appid": 721890,
+    "name": "ZhanDou",
+    "type": "game"
+  },
+  {
+    "appid": 1856890,
+    "name": "Zhazari VR",
+    "type": "game"
+  },
+  {
+    "appid": 543040,
+    "name": "ZHED",
+    "type": "game"
+  },
+  {
+    "appid": 3755890,
+    "name": "ZHEN",
+    "type": "game"
+  },
+  {
+    "appid": 4406670,
+    "name": "Zhenyuan Ancient Town in Guizhou",
+    "type": "game"
+  },
+  {
+    "appid": 423270,
+    "name": "ZHEROS",
+    "type": "game"
+  },
+  {
+    "appid": 1552510,
+    "name": "Zhiel's Mystery",
+    "type": "game"
+  },
+  {
+    "appid": 2927030,
+    "name": "Zhigu Military Exorcist",
+    "type": "game"
+  },
+  {
+    "appid": 4305160,
+    "name": "ZHITEN",
+    "type": "game"
+  },
+  {
+    "appid": 1119530,
+    "name": "ZHIVE",
+    "type": "game"
+  },
+  {
+    "appid": 816180,
+    "name": "Zhmyshenko Valery Albertovich",
+    "type": "game"
+  },
+  {
+    "appid": 3176070,
+    "name": "ZHONG KUI",
+    "type": "game"
+  },
+  {
+    "appid": 4021010,
+    "name": "ZhongKui-Netherblade",
+    "type": "game"
+  },
+  {
+    "appid": 3095960,
+    "name": "Zhouyi Six Lines Divination Game",
+    "type": "game"
+  },
+  {
+    "appid": 1732070,
+    "name": "ZHP: Unlosing Ranger vs. Darkdeath Evilman",
+    "type": "game"
+  },
+  {
+    "appid": 768300,
+    "name": "Zhulik.exe",
+    "type": "game"
+  },
+  {
+    "appid": 2691890,
+    "name": "Zhulu Chess",
+    "type": "game"
+  },
+  {
+    "appid": 649670,
+    "name": "ZHUST - THE ILLUSION SOUL",
+    "type": "game"
+  },
+  {
+    "appid": 527570,
+    "name": "Zi",
+    "type": "game"
+  },
+  {
+    "appid": 1411580,
+    "name": "ZI Survival",
+    "type": "game"
+  },
+  {
+    "appid": 4474010,
+    "name": "Zi´s Mansion",
+    "type": "game"
+  },
+  {
+    "appid": 533360,
+    "name": "Zia and the goddesses of magic",
+    "type": "game"
+  },
+  {
+    "appid": 554720,
+    "name": "Ziba",
+    "type": "game"
+  },
+  {
+    "appid": 1001960,
+    "name": "Zibbs - Alien Survival",
+    "type": "game"
+  },
+  {
+    "appid": 1051290,
+    "name": "ZIC - Zombies in City",
+    "type": "game"
+  },
+  {
+    "appid": 1065210,
+    "name": "ZIC: Survival",
+    "type": "game"
+  },
+  {
+    "appid": 1814690,
+    "name": "Zid Journey",
+    "type": "game"
+  },
+  {
+    "appid": 5382880,
+    "name": "Zifir",
+    "type": "game"
+  },
+  {
+    "appid": 796140,
+    "name": "Zig",
+    "type": "game"
+  },
+  {
+    "appid": 2962250,
+    "name": "Zig Zag Jump: Fantasy Challenge",
+    "type": "game"
+  },
+  {
+    "appid": 4364590,
+    "name": "Zigdig",
+    "type": "game"
+  },
+  {
+    "appid": 259430,
+    "name": "Zigfrak",
+    "type": "game"
+  },
+  {
+    "appid": 1514880,
+    "name": "Zigglox",
+    "type": "game"
+  },
+  {
+    "appid": 308420,
+    "name": "Ziggurat",
+    "type": "game"
+  },
+  {
+    "appid": 1159560,
+    "name": "Ziggurat 2",
+    "type": "game"
+  },
+  {
+    "appid": 654680,
+    "name": "Ziggurat 3D Chess",
+    "type": "game"
+  },
+  {
+    "appid": 2190320,
+    "name": "Ziggy",
+    "type": "game"
+  },
+  {
+    "appid": 1362750,
+    "name": "Ziggy The Chaser",
+    "type": "game"
+  },
+  {
+    "appid": 533660,
+    "name": "Ziggy's Chase",
+    "type": "game"
+  },
+  {
+    "appid": 1501820,
+    "name": "Ziggy's Cosmic Adventures",
+    "type": "game"
+  },
+  {
+    "appid": 2383520,
+    "name": "Ziggy's Labyrinth",
+    "type": "game"
+  },
+  {
+    "appid": 1145300,
+    "name": "Ziggy's Typing Pyramid",
+    "type": "game"
+  },
+  {
+    "appid": 3001430,
+    "name": "ZigZag Drifter",
+    "type": "game"
+  },
+  {
+    "appid": 1107030,
+    "name": "Zigzag Infinite Runner",
+    "type": "game"
+  },
+  {
+    "appid": 2207250,
+    "name": "ZigZagging Ski",
+    "type": "game"
+  },
+  {
+    "appid": 4488730,
+    "name": "Ziii",
+    "type": "game"
+  },
+  {
+    "appid": 1801940,
+    "name": "Ziircon",
+    "type": "game"
+  },
+  {
+    "appid": 601170,
+    "name": "ZiL Truck RallyCross",
+    "type": "game"
+  },
+  {
+    "appid": 3034530,
+    "name": "Zilar: Empire Of The Underground",
+    "type": "game"
+  },
+  {
+    "appid": 5065770,
+    "name": "Zili Diary escape against the witch",
+    "type": "game"
+  },
+  {
+    "appid": 2379280,
+    "name": "Zilla: Shadow of the Bridge",
+    "type": "game"
+  },
+  {
+    "appid": 789450,
+    "name": "Zim's Word Game",
+    "type": "game"
+  },
+  {
+    "appid": 3502590,
+    "name": "Zima",
+    "type": "game"
+  },
+  {
+    "appid": 834470,
+    "name": "Zima uhodi!",
+    "type": "game"
+  },
+  {
+    "appid": 842310,
+    "name": "Zimbo",
+    "type": "game"
+  },
+  {
+    "appid": 2127660,
+    "name": "Zimmer",
+    "type": "game"
+  },
+  {
+    "appid": 4206000,
+    "name": "Zin & Zan",
+    "type": "game"
+  },
+  {
+    "appid": 5046290,
+    "name": "Zingers",
+    "type": "game"
+  },
+  {
+    "appid": 2856040,
+    "name": "Zink",
+    "type": "game"
+  },
+  {
+    "appid": 3751910,
+    "name": "Zinkara",
+    "type": "game"
+  },
+  {
+    "appid": 1467600,
+    "name": "Zinuru The Great",
+    "type": "game"
+  },
+  {
+    "appid": 1575100,
+    "name": "Ziode Shadow",
+    "type": "game"
+  },
+  {
+    "appid": 1961040,
+    "name": "Zion survivors",
+    "type": "game"
+  },
+  {
+    "appid": 4191980,
+    "name": "Zip Up",
+    "type": "game"
+  },
+  {
+    "appid": 1227760,
+    "name": "Zip! Speedster of Valiant City",
+    "type": "game"
+  },
+  {
+    "appid": 1812180,
+    "name": "Zipp's Café",
+    "type": "game"
+  },
+  {
+    "appid": 433110,
+    "name": "Zipple World",
+    "type": "game"
+  },
+  {
+    "appid": 461600,
+    "name": "Zipple World 2: The Sweet Chaos",
+    "type": "game"
+  },
+  {
+    "appid": 1745880,
+    "name": "Zippo",
+    "type": "game"
+  },
+  {
+    "appid": 2330970,
+    "name": "Zippy Detective: Cats",
+    "type": "game"
+  },
+  {
+    "appid": 2889210,
+    "name": "Zippy the Circle",
+    "type": "game"
+  },
+  {
+    "appid": 4520990,
+    "name": "ZipRush: Surf the Void",
+    "type": "game"
+  },
+  {
+    "appid": 3398470,
+    "name": "ZipSokoban",
+    "type": "game"
+  },
+  {
+    "appid": 538900,
+    "name": "ZIQ",
+    "type": "game"
+  },
+  {
+    "appid": 33660,
+    "name": "Ziro",
+    "type": "game"
+  },
+  {
+    "appid": 3437460,
+    "name": "ZIRQUITZ",
+    "type": "game"
+  },
+  {
+    "appid": 516500,
+    "name": "Zissi's Island",
+    "type": "game"
+  },
+  {
+    "appid": 3234820,
+    "name": "Zitifono",
+    "type": "game"
+  },
+  {
+    "appid": 635700,
+    "name": "ZIX",
+    "type": "game"
+  },
+  {
+    "appid": 2889200,
+    "name": "ZJ the Ball",
+    "type": "game"
+  },
+  {
+    "appid": 3644010,
+    "name": "Zjawa: Bloodstained Soul",
+    "type": "game"
+  },
+  {
+    "appid": 894920,
+    "name": "ZKILLER",
+    "type": "game"
+  },
+  {
+    "appid": 3912570,
+    "name": "ZLEEPI",
+    "type": "game"
+  },
+  {
+    "appid": 1701320,
+    "name": "Zleepy",
+    "type": "game"
+  },
+  {
+    "appid": 2308960,
+    "name": "Zlime Arena",
+    "type": "game"
+  },
+  {
+    "appid": 2583330,
+    "name": "Zlime: Return Of Demon Lord",
+    "type": "game"
+  },
+  {
+    "appid": 3017770,
+    "name": "Zlin City: Diorama",
+    "type": "game"
+  },
+  {
+    "appid": 1170830,
+    "name": "ZLM Crafter",
+    "type": "game"
+  },
+  {
+    "appid": 3191940,
+    "name": "Zly.ii: The Hacked Station",
+    "type": "game"
+  },
+  {
+    "appid": 3003300,
+    "name": "ZM Desktop Elf",
+    "type": "game"
+  },
+  {
+    "appid": 904750,
+    "name": "Zniw Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 745380,
+    "name": "Znkl - 177",
+    "type": "game"
+  },
+  {
+    "appid": 1871940,
+    "name": "ZOA Protocol",
+    "type": "game"
+  },
+  {
+    "appid": 2889160,
+    "name": "Zodchy",
+    "type": "game"
+  },
+  {
+    "appid": 1486070,
+    "name": "Zodiac",
+    "type": "game"
+  },
+  {
+    "appid": 1608170,
+    "name": "Zodiac",
+    "type": "game"
+  },
+  {
+    "appid": 3508740,
+    "name": "ZODIAC",
+    "type": "game"
+  },
+  {
+    "appid": 1298410,
+    "name": "Zodiac - Hellish Memory",
+    "type": "game"
+  },
+  {
+    "appid": 1432280,
+    "name": "Zodiac Angel",
+    "type": "game"
+  },
+  {
+    "appid": 946370,
+    "name": "Zodiac Axis",
+    "type": "game"
+  },
+  {
+    "appid": 1397000,
+    "name": "Zodiac DX",
+    "type": "game"
+  },
+  {
+    "appid": 4525210,
+    "name": "Zodiac Echoes",
+    "type": "game"
+  },
+  {
+    "appid": 2136600,
+    "name": "Zodiac Empire TCG",
+    "type": "game"
+  },
+  {
+    "appid": 1995800,
+    "name": "Zodiac fantasy",
+    "type": "game"
+  },
+  {
+    "appid": 2116890,
+    "name": "Zodiac fantasy 2",
+    "type": "game"
+  },
+  {
+    "appid": 1370620,
+    "name": "Zodiac Girls",
+    "type": "game"
+  },
+  {
+    "appid": 616390,
+    "name": "Zodiac Hentai - Hellish Memory",
+    "type": "game"
+  },
+  {
+    "appid": 2716870,
+    "name": "Zodiac Landing",
+    "type": "game"
+  },
+  {
+    "appid": 812910,
+    "name": "Zodiac Legion",
+    "type": "game"
+  },
+  {
+    "appid": 2996150,
+    "name": "Zodiac Mountain",
+    "type": "game"
+  },
+  {
+    "appid": 4745760,
+    "name": "Zodiac Party",
+    "type": "game"
+  },
+  {
+    "appid": 3486120,
+    "name": "Zodiac Reborn",
+    "type": "game"
+  },
+  {
+    "appid": 2663670,
+    "name": "Zodiac Revenger",
+    "type": "game"
+  },
+  {
+    "appid": 4966890,
+    "name": "Zodiac Tale",
+    "type": "game"
+  },
+  {
+    "appid": 1817000,
+    "name": "Zodiacats",
+    "type": "game"
+  },
+  {
+    "appid": 1705890,
+    "name": "ZodiacChild",
+    "type": "game"
+  },
+  {
+    "appid": 4838060,
+    "name": "ZodiacLottery",
+    "type": "game"
+  },
+  {
+    "appid": 4555830,
+    "name": "Zodiacra",
+    "type": "game"
+  },
+  {
+    "appid": 1386460,
+    "name": "Zodiakalik",
+    "type": "game"
+  },
+  {
+    "appid": 4254390,
+    "name": "Zodiax",
+    "type": "game"
+  },
+  {
+    "appid": 876100,
+    "name": "Zodicat",
+    "type": "game"
+  },
+  {
+    "appid": 1576680,
+    "name": "Zoe and the Cursed Dreamer",
+    "type": "game"
+  },
+  {
+    "appid": 1266610,
+    "name": "ZOE Begone!",
+    "type": "game"
+  },
+  {
+    "appid": 2220110,
+    "name": "Zoe The Exhibitionist",
+    "type": "game"
+  },
+  {
+    "appid": 3419710,
+    "name": "Zoe's Game",
+    "type": "game"
+  },
+  {
+    "appid": 1592240,
+    "name": "Zoelie - SCAD Games Studio",
+    "type": "game"
+  },
+  {
+    "appid": 1434540,
+    "name": "Zoeti",
+    "type": "game"
+  },
+  {
+    "appid": 4916280,
+    "name": "Zœufs Story Academie",
+    "type": "game"
+  },
+  {
+    "appid": 2994810,
+    "name": "Zoey: Horny Roomates",
+    "type": "game"
+  },
+  {
+    "appid": 1716170,
+    "name": "Zoey: My Hentai Sex Doll",
+    "type": "game"
+  },
+  {
+    "appid": 3271470,
+    "name": "Zoey: Nightclub Secrets",
+    "type": "game"
+  },
+  {
+    "appid": 1414480,
+    "name": "Zof",
+    "type": "game"
+  },
+  {
+    "appid": 652770,
+    "name": "Zofia",
+    "type": "game"
+  },
+  {
+    "appid": 4072500,
+    "name": "Zohran's Run",
+    "type": "game"
+  },
+  {
+    "appid": 2350010,
+    "name": "Zoid Zoid Tetsoidea",
+    "type": "game"
+  },
+  {
+    "appid": 3386110,
+    "name": "Zoid Zoid Tetsoidea II",
+    "type": "game"
+  },
+  {
+    "appid": 4284650,
+    "name": "Zolana: Girl Galactic",
+    "type": "game"
+  },
+  {
+    "appid": 1645980,
+    "name": "Zolaris",
+    "type": "game"
+  },
+  {
+    "appid": 2057770,
+    "name": "Zold:out 鍛造屋的物語",
+    "type": "game"
+  },
+  {
+    "appid": 555710,
+    "name": "Zolg",
+    "type": "game"
+  },
+  {
+    "appid": 888380,
+    "name": "ZOLO - Zombies Only Live Once",
+    "type": "game"
+  },
+  {
+    "appid": 2303480,
+    "name": "Zom",
+    "type": "game"
+  },
+  {
+    "appid": 1193070,
+    "name": "Zom Nom",
+    "type": "game"
+  },
+  {
+    "appid": 1947270,
+    "name": "Zom Tom",
+    "type": "game"
+  },
+  {
+    "appid": 1098980,
+    "name": "ZomB",
+    "type": "game"
+  },
+  {
+    "appid": 2830330,
+    "name": "Zomb Bomb",
+    "type": "game"
+  },
+  {
+    "appid": 1114020,
+    "name": "ZomB: Battlegrounds",
+    "type": "game"
+  },
+  {
+    "appid": 3765910,
+    "name": "Zomb'Invasion",
+    "type": "game"
+  },
+  {
+    "appid": 2600230,
+    "name": "Zombactory",
+    "type": "game"
+  },
+  {
+    "appid": 1653260,
+    "name": "Zombaliens",
+    "type": "game"
+  },
+  {
+    "appid": 1685550,
+    "name": "Zombardment",
+    "type": "game"
+  },
+  {
+    "appid": 1216580,
+    "name": "Zombase",
+    "type": "game"
+  },
+  {
+    "appid": 3168620,
+    "name": "Zombase",
+    "type": "game"
+  },
+  {
+    "appid": 408960,
+    "name": "Zombasite",
+    "type": "game"
+  },
+  {
+    "appid": 2776480,
+    "name": "ZomBay",
+    "type": "game"
+  },
+  {
+    "appid": 3035180,
+    "name": "ZombCube",
+    "type": "game"
+  },
+  {
+    "appid": 262190,
+    "name": "Zombeer",
+    "type": "game"
+  },
+  {
+    "appid": 1332630,
+    "name": "Zombeer",
+    "type": "game"
+  },
+  {
+    "appid": 1346130,
+    "name": "ZOMBEEZ: A Killer Queen Remix",
+    "type": "game"
+  },
+  {
+    "appid": 3672060,
+    "name": "Zombeo and Vampiretta",
+    "type": "game"
+  },
+  {
+    "appid": 3103470,
+    "name": "ZOMBETES",
+    "type": "game"
+  },
+  {
+    "appid": 339230,
+    "name": "ZOMBI",
+    "type": "game"
+  },
+  {
+    "appid": 3027310,
+    "name": "Zombi Efem",
+    "type": "game"
+  },
+  {
+    "appid": 2309880,
+    "name": "ZOMBI ROCKSTAR",
+    "type": "game"
+  },
+  {
+    "appid": 2419430,
+    "name": "ZOMBIAX EVIL",
+    "type": "game"
+  },
+  {
+    "appid": 612020,
+    "name": "Zombidle: REMONSTERED",
+    "type": "game"
+  },
+  {
+    "appid": 898690,
+    "name": "Zombie",
+    "type": "game"
+  },
+  {
+    "appid": 1143860,
+    "name": "Zombie Admin",
+    "type": "game"
+  },
+  {
+    "appid": 2131100,
+    "name": "Zombie Age",
+    "type": "game"
+  },
+  {
+    "appid": 1496710,
+    "name": "Zombie Alert",
+    "type": "game"
+  },
+  {
+    "appid": 2416150,
+    "name": "Zombie Ants VR",
+    "type": "game"
+  },
+  {
+    "appid": 3765230,
+    "name": "Zombie Ants VR: Definitive Edition",
+    "type": "game"
+  },
+  {
+    "appid": 589160,
+    "name": "Zombie Apocalypse",
+    "type": "game"
+  },
+  {
+    "appid": 986080,
+    "name": "Zombie Apocalypse",
+    "type": "game"
+  },
+  {
+    "appid": 2078810,
+    "name": "Zombie Apocalypse - The Last Defense",
+    "type": "game"
+  },
+  {
+    "appid": 2282900,
+    "name": "Zombie Apocalypse - The Last Fortress",
+    "type": "game"
+  },
+  {
+    "appid": 1651000,
+    "name": "Zombie Apocalypse 2021",
+    "type": "game"
+  },
+  {
+    "appid": 1074960,
+    "name": "Zombie Apocalypse Mini Golf",
+    "type": "game"
+  },
+  {
+    "appid": 2152190,
+    "name": "Zombie Apocalypse Survival Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 830380,
+    "name": "Zombie Apocalypse Survivor",
+    "type": "game"
+  },
+  {
+    "appid": 5239830,
+    "name": "Zombie Apocalypse Together",
+    "type": "game"
+  },
+  {
+    "appid": 1057030,
+    "name": "Zombie Apocalypse: Bounty Hunter",
+    "type": "game"
+  },
+  {
+    "appid": 492490,
+    "name": "Zombie Apocalypse: Escape The Undead City",
+    "type": "game"
+  },
+  {
+    "appid": 2151820,
+    "name": "Zombie Arena",
+    "type": "game"
+  },
+  {
+    "appid": 2477200,
+    "name": "ZOMBIE ARENA SURVIVAL",
+    "type": "game"
+  },
+  {
+    "appid": 3908660,
+    "name": "Zombie Arise",
+    "type": "game"
+  },
+  {
+    "appid": 694280,
+    "name": "Zombie Army 4: Dead War",
+    "type": "game"
+  },
+  {
+    "appid": 301640,
+    "name": "Zombie Army Trilogy",
+    "type": "game"
+  },
+  {
+    "appid": 2058030,
+    "name": "Zombie Army VR",
+    "type": "game"
+  },
+  {
+    "appid": 2747660,
+    "name": "Zombie Assault: Resurgence",
+    "type": "game"
+  },
+  {
+    "appid": 581970,
+    "name": "Zombie Ballz",
+    "type": "game"
+  },
+  {
+    "appid": 1418430,
+    "name": "Zombie Bar Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 1941490,
+    "name": "Zombie Barrel Blast",
+    "type": "game"
+  },
+  {
+    "appid": 867720,
+    "name": "Zombie Barricades",
+    "type": "game"
+  },
+  {
+    "appid": 2920660,
+    "name": "Zombie Battle",
+    "type": "game"
+  },
+  {
+    "appid": 2550930,
+    "name": "Zombie Battlefield Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 997630,
+    "name": "Zombie Battleground",
+    "type": "game"
+  },
+  {
+    "appid": 5365860,
+    "name": "Zombie BBQ House",
+    "type": "game"
+  },
+  {
+    "appid": 521110,
+    "name": "Zombie Birds First Encounter Halloween",
+    "type": "game"
+  },
+  {
+    "appid": 1555470,
+    "name": "Zombie Blender",
+    "type": "game"
+  },
+  {
+    "appid": 3128010,
+    "name": "Zombie Blitzkrieg",
+    "type": "game"
+  },
+  {
+    "appid": 3530950,
+    "name": "Zombie Blocks: Pixel Shooter Gun",
+    "type": "game"
+  },
+  {
+    "appid": 713090,
+    "name": "Zombie Bloxx",
+    "type": "game"
+  },
+  {
+    "appid": 516700,
+    "name": "Zombie Boom",
+    "type": "game"
+  },
+  {
+    "appid": 32160,
+    "name": "Zombie Bowl-O-Rama",
+    "type": "game"
+  },
+  {
+    "appid": 2193120,
+    "name": "Zombie Breakdown",
+    "type": "game"
+  },
+  {
+    "appid": 945460,
+    "name": "Zombie Builder Defense",
+    "type": "game"
+  },
+  {
+    "appid": 1638950,
+    "name": "Zombie Builder Defense 2",
+    "type": "game"
+  },
+  {
+    "appid": 618590,
+    "name": "Zombie Buster VR",
+    "type": "game"
+  },
+  {
+    "appid": 503410,
+    "name": "Zombie Camp",
+    "type": "game"
+  },
+  {
+    "appid": 357840,
+    "name": "Zombie Camp: Last Survivor",
+    "type": "game"
+  },
+  {
+    "appid": 1417670,
+    "name": "Zombie camping",
+    "type": "game"
+  },
+  {
+    "appid": 703070,
+    "name": "ZOMBIE CAR MASSACRE",
+    "type": "game"
+  },
+  {
+    "appid": 5093380,
+    "name": "Zombie Car: Kaiju Killer",
+    "type": "game"
+  },
+  {
+    "appid": 3054420,
+    "name": "Zombie Cards: Survival Showdown",
+    "type": "game"
+  },
+  {
+    "appid": 1699200,
+    "name": "Zombie Carnage 2",
+    "type": "game"
+  },
+  {
+    "appid": 3659810,
+    "name": "Zombie Chef",
+    "type": "game"
+  },
+  {
+    "appid": 771570,
+    "name": "Zombie City",
+    "type": "game"
+  },
+  {
+    "appid": 1895080,
+    "name": "Zombie City",
+    "type": "game"
+  },
+  {
+    "appid": 3985840,
+    "name": "Zombie City",
+    "type": "game"
+  },
+  {
+    "appid": 473970,
+    "name": "Zombie City Defense 2",
+    "type": "game"
+  },
+  {
+    "appid": 4888720,
+    "name": "Zombie City Together",
+    "type": "game"
+  },
+  {
+    "appid": 1213640,
+    "name": "Zombie Claus",
+    "type": "game"
+  },
+  {
+    "appid": 790230,
+    "name": "Zombie Clicker Defense",
+    "type": "game"
+  },
+  {
+    "appid": 3935310,
+    "name": "Zombie Clown Trap",
+    "type": "game"
+  },
+  {
+    "appid": 2655670,
+    "name": "Zombie Colony",
+    "type": "game"
+  },
+  {
+    "appid": 847240,
+    "name": "Zombie Commander",
+    "type": "game"
+  },
+  {
+    "appid": 688330,
+    "name": "Zombie Commando 3D",
+    "type": "game"
+  },
+  {
+    "appid": 1808810,
+    "name": "Zombie Craft",
+    "type": "game"
+  },
+  {
+    "appid": 4251550,
+    "name": "Zombie Craft",
+    "type": "game"
+  },
+  {
+    "appid": 4710690,
+    "name": "Zombie Crawlers",
+    "type": "game"
+  },
+  {
+    "appid": 757420,
+    "name": "Zombie Crisis",
+    "type": "game"
+  },
+  {
+    "appid": 5032330,
+    "name": "Zombie Cropse",
+    "type": "game"
+  },
+  {
+    "appid": 1912770,
+    "name": "Zombie Crush Driver",
+    "type": "game"
+  },
+  {
+    "appid": 1794860,
+    "name": "Zombie Crush VR",
+    "type": "game"
+  },
+  {
+    "appid": 959030,
+    "name": "Zombie Cubes",
+    "type": "game"
+  },
+  {
+    "appid": 3459500,
+    "name": "Zombie Cubes 2",
+    "type": "game"
+  },
+  {
+    "appid": 1620290,
+    "name": "Zombie Cure Lab",
+    "type": "game"
+  },
+  {
+    "appid": 3451590,
+    "name": "Zombie Dash",
+    "type": "game"
+  },
+  {
+    "appid": 5235560,
+    "name": "Zombie Day Protocol",
+    "type": "game"
+  },
+  {
+    "appid": 2616130,
+    "name": "Zombie Death Day",
+    "type": "game"
+  },
+  {
+    "appid": 1921530,
+    "name": "Zombie Death Quota",
+    "type": "game"
+  },
+  {
+    "appid": 951780,
+    "name": "Zombie Deathrace Feeding Frenzy",
+    "type": "game"
+  },
+  {
+    "appid": 533780,
+    "name": "Zombie Defense",
+    "type": "game"
+  },
+  {
+    "appid": 2390840,
+    "name": "Zombie Defense",
+    "type": "game"
+  },
+  {
+    "appid": 1245550,
+    "name": "Zombie Defense Shelter",
+    "type": "game"
+  },
+  {
+    "appid": 4308440,
+    "name": "Zombie Defense:Breach of The Undead",
+    "type": "game"
+  },
+  {
+    "appid": 3599220,
+    "name": "Zombie Demolition: Infinite Zombie Shooter",
+    "type": "game"
+  },
+  {
+    "appid": 831770,
+    "name": "Zombie Derby",
+    "type": "game"
+  },
+  {
+    "appid": 762590,
+    "name": "Zombie Derby 2",
+    "type": "game"
+  },
+  {
+    "appid": 4979950,
+    "name": "Zombie Derby: Blocky Roads",
+    "type": "game"
+  },
+  {
+    "appid": 1271690,
+    "name": "Zombie Derby: Pixel Survival",
+    "type": "game"
+  },
+  {
+    "appid": 818570,
+    "name": "Zombie Desperation",
+    "type": "game"
+  },
+  {
+    "appid": 4942250,
+    "name": "ZOMBIE DESTROYER",
+    "type": "game"
+  },
+  {
+    "appid": 4048550,
+    "name": "Zombie Diner Simulator 🥩 💀",
+    "type": "game"
+  },
+  {
+    "appid": 1749720,
+    "name": "Zombie Dinos from Planet Zeltoid",
+    "type": "game"
+  },
+  {
+    "appid": 4762640,
+    "name": "ZOMBIE Disaster Drill",
+    "type": "game"
+  },
+  {
+    "appid": 3574550,
+    "name": "Zombie Dog",
+    "type": "game"
+  },
+  {
+    "appid": 3033930,
+    "name": "Zombie Dolls",
+    "type": "game"
+  },
+  {
+    "appid": 1522350,
+    "name": "Zombie Drift",
+    "type": "game"
+  },
+  {
+    "appid": 2485830,
+    "name": "Zombie Drive",
+    "type": "game"
+  },
+  {
+    "appid": 31410,
+    "name": "Zombie Driver",
+    "type": "game"
+  },
+  {
+    "appid": 220820,
+    "name": "Zombie Driver HD",
+    "type": "game"
+  },
+  {
+    "appid": 1526580,
+    "name": "Zombie Dungeon",
+    "type": "game"
+  },
+  {
+    "appid": 3579890,
+    "name": "Zombie Epoch:Deck Apocalypse",
+    "type": "game"
+  },
+  {
+    "appid": 3382830,
+    "name": "Zombie Escape",
+    "type": "game"
+  },
+  {
+    "appid": 512490,
+    "name": "Zombie Estate 2",
+    "type": "game"
+  },
+  {
+    "appid": 411570,
+    "name": "Zombie Exodus",
+    "type": "game"
+  },
+  {
+    "appid": 543980,
+    "name": "Zombie Exodus: Safe Haven",
+    "type": "game"
+  },
+  {
+    "appid": 2370950,
+    "name": "Zombie Exterminator",
+    "type": "game"
+  },
+  {
+    "appid": 5053110,
+    "name": "Zombie Fish Tank",
+    "type": "game"
+  },
+  {
+    "appid": 4788760,
+    "name": "Zombie Fodder",
+    "type": "game"
+  },
+  {
+    "appid": 1803450,
+    "name": "Zombie Fooker: Starring Doug Fooker",
+    "type": "game"
+  },
+  {
+    "appid": 833010,
+    "name": "Zombie Forest 2",
+    "type": "game"
+  },
+  {
+    "appid": 1610130,
+    "name": "Zombie Freaks",
+    "type": "game"
+  },
+  {
+    "appid": 1360250,
+    "name": "Zombie Frenzy",
+    "type": "game"
+  },
+  {
+    "appid": 1561780,
+    "name": "Zombie Friday",
+    "type": "game"
+  },
+  {
+    "appid": 2656830,
+    "name": "Zombie Fun Run",
+    "type": "game"
+  },
+  {
+    "appid": 1511390,
+    "name": "Zombie Game",
+    "type": "game"
+  },
+  {
+    "appid": 3082290,
+    "name": "Zombie GO Remastered",
+    "type": "game"
+  },
+  {
+    "appid": 3035320,
+    "name": "Zombie God",
+    "type": "game"
+  },
+  {
+    "appid": 1131270,
+    "name": "Zombie Golf",
+    "type": "game"
+  },
+  {
+    "appid": 1880910,
+    "name": "Zombie Good Guy",
+    "type": "game"
+  },
+  {
+    "appid": 398890,
+    "name": "Zombie Gotchi",
+    "type": "game"
+  },
+  {
+    "appid": 3430450,
+    "name": "Zombie Graveyard Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 3623500,
+    "name": "Zombie Graveyard Simulator - Prologue",
+    "type": "game"
+  },
+  {
+    "appid": 772490,
+    "name": "Zombie Grenades Practice",
+    "type": "game"
+  },
+  {
+    "appid": 263920,
+    "name": "Zombie Grinder",
+    "type": "game"
+  },
+  {
+    "appid": 1516730,
+    "name": "Zombie Groove",
+    "type": "game"
+  },
+  {
+    "appid": 1597480,
+    "name": "Zombie Gunship Survival",
+    "type": "game"
+  },
+  {
+    "appid": 4132210,
+    "name": "Zombie Hamsters",
+    "type": "game"
+  },
+  {
+    "appid": 1579930,
+    "name": "Zombie Hazard",
+    "type": "game"
+  },
+  {
+    "appid": 888570,
+    "name": "Zombie Head",
+    "type": "game"
+  },
+  {
+    "appid": 1811350,
+    "name": "Zombie Hell: Infected City",
+    "type": "game"
+  },
+  {
+    "appid": 1417280,
+    "name": "Zombie Hills",
+    "type": "game"
+  },
+  {
+    "appid": 665620,
+    "name": "Zombie Hobby VR",
+    "type": "game"
+  },
+  {
+    "appid": 1163320,
+    "name": "Zombie horde",
+    "type": "game"
+  },
+  {
+    "appid": 2545130,
+    "name": "Zombie Horde Dominator",
+    "type": "game"
+  },
+  {
+    "appid": 4783930,
+    "name": "Zombie Horde Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 4798090,
+    "name": "Zombie Hospital : Abandoned",
+    "type": "game"
+  },
+  {
+    "appid": 851570,
+    "name": "Zombie Hotel",
+    "type": "game"
+  },
+  {
+    "appid": 2941810,
+    "name": "Zombie House Defense",
+    "type": "game"
+  },
+  {
+    "appid": 3145830,
+    "name": "Zombie House Siege",
+    "type": "game"
+  },
+  {
+    "appid": 1723420,
+    "name": "Zombie Hunter",
+    "type": "game"
+  },
+  {
+    "appid": 1772730,
+    "name": "Zombie Hunter",
+    "type": "game"
+  },
+  {
+    "appid": 2088070,
+    "name": "Zombie Hunter",
+    "type": "game"
+  },
+  {
+    "appid": 2463080,
+    "name": "Zombie Hunter",
+    "type": "game"
+  },
+  {
+    "appid": 2302760,
+    "name": "ZOMBIE HUNTER -FACE THE SINS-",
+    "type": "game"
+  },
+  {
+    "appid": 387130,
+    "name": "Zombie Hunter, Inc.",
+    "type": "game"
+  },
+  {
+    "appid": 2413730,
+    "name": "Zombie Hunter: D-Day",
+    "type": "game"
+  },
+  {
+    "appid": 1563370,
+    "name": "Zombie Hustle",
+    "type": "game"
+  },
+  {
+    "appid": 594760,
+    "name": "Zombie in my city",
+    "type": "game"
+  },
+  {
+    "appid": 1542910,
+    "name": "Zombie In Town",
+    "type": "game"
+  },
+  {
+    "appid": 5348360,
+    "name": "Zombie Incremental: The Last Outpost",
+    "type": "game"
+  },
+  {
+    "appid": 4266280,
+    "name": "Zombie Industrial Complex",
+    "type": "game"
+  },
+  {
+    "appid": 2635280,
+    "name": "Zombie Infinity",
+    "type": "game"
+  },
+  {
+    "appid": 3122430,
+    "name": "Zombie invasion",
+    "type": "game"
+  },
+  {
+    "appid": 1122970,
+    "name": "Zombie Island",
+    "type": "game"
+  },
+  {
+    "appid": 1528610,
+    "name": "Zombie Jack",
+    "type": "game"
+  },
+  {
+    "appid": 3795410,
+    "name": "Zombie Jazz",
+    "type": "game"
+  },
+  {
+    "appid": 2364370,
+    "name": "Zombie jokers 2",
+    "type": "game"
+  },
+  {
+    "appid": 3191490,
+    "name": "ZOMBIE KEBAB VR",
+    "type": "game"
+  },
+  {
+    "appid": 636430,
+    "name": "Zombie Kill",
+    "type": "game"
+  },
+  {
+    "appid": 3825160,
+    "name": "Zombie Kill",
+    "type": "game"
+  },
+  {
+    "appid": 342300,
+    "name": "Zombie Kill of the Week - Reborn",
+    "type": "game"
+  },
+  {
+    "appid": 2925210,
+    "name": "Zombie Killer",
+    "type": "game"
+  },
+  {
+    "appid": 1009100,
+    "name": "Zombie Killer - Type to Shoot!",
+    "type": "game"
+  },
+  {
+    "appid": 1720950,
+    "name": "Zombie Killer Drift - Racing Survival",
+    "type": "game"
+  },
+  {
+    "appid": 1026270,
+    "name": "Zombie Killers",
+    "type": "game"
+  },
+  {
+    "appid": 582350,
+    "name": "Zombie Killin'",
+    "type": "game"
+  },
+  {
+    "appid": 872350,
+    "name": "Zombie Killing Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 380700,
+    "name": "Zombie Killtime",
+    "type": "game"
+  },
+  {
+    "appid": 5182900,
+    "name": "Zombie Lab",
+    "type": "game"
+  },
+  {
+    "appid": 794530,
+    "name": "Zombie Lane Survival",
+    "type": "game"
+  },
+  {
+    "appid": 5313320,
+    "name": "Zombie Last Stand",
+    "type": "game"
+  },
+  {
+    "appid": 3419660,
+    "name": "Zombie Liminal Fishing",
+    "type": "game"
+  },
+  {
+    "appid": 5426730,
+    "name": "Zombie Mall Defense",
+    "type": "game"
+  },
+  {
+    "appid": 2120340,
+    "name": "Zombie Mansion",
+    "type": "game"
+  },
+  {
+    "appid": 3507030,
+    "name": "Zombie Marauders",
+    "type": "game"
+  },
+  {
+    "appid": 1336690,
+    "name": "ZOMBIE MATHters",
+    "type": "game"
+  },
+  {
+    "appid": 1808110,
+    "name": "Zombie Maze",
+    "type": "game"
+  },
+  {
+    "appid": 3442260,
+    "name": "Zombie Metal Band",
+    "type": "game"
+  },
+  {
+    "appid": 5465870,
+    "name": "Zombie Mori!",
+    "type": "game"
+  },
+  {
+    "appid": 810680,
+    "name": "Zombie Murder",
+    "type": "game"
+  },
+  {
+    "appid": 3186250,
+    "name": "Zombie Murder 3",
+    "type": "game"
+  },
+  {
+    "appid": 810720,
+    "name": "Zombie Murder Hell Arrives",
+    "type": "game"
+  },
+  {
+    "appid": 4801040,
+    "name": "Zombie Murder Squad Y2K",
+    "type": "game"
+  },
+  {
+    "appid": 3309070,
+    "name": "Zombie Must Dead!",
+    "type": "game"
+  },
+  {
+    "appid": 1214380,
+    "name": "Zombie Mutant DNA",
+    "type": "game"
+  },
+  {
+    "appid": 5121870,
+    "name": "Zombie Mystery: 100 Hidden Cats",
+    "type": "game"
+  },
+  {
+    "appid": 1519280,
+    "name": "Zombie Neighborhood",
+    "type": "game"
+  },
+  {
+    "appid": 2408620,
+    "name": "Zombie Night",
+    "type": "game"
+  },
+  {
+    "appid": 416680,
+    "name": "Zombie Night Terror",
+    "type": "game"
+  },
+  {
+    "appid": 725950,
+    "name": "Zombie Nightmare",
+    "type": "game"
+  },
+  {
+    "appid": 3878590,
+    "name": "ZOMBIE NTR APOCALYPSE",
+    "type": "game"
+  },
+  {
+    "appid": 412860,
+    "name": "Zombie Office Politics",
+    "type": "game"
+  },
+  {
+    "appid": 3696080,
+    "name": "Zombie Outbreak 1942",
+    "type": "game"
+  },
+  {
+    "appid": 3927150,
+    "name": "Zombie Outbreak 1943",
+    "type": "game"
+  },
+  {
+    "appid": 5431400,
+    "name": "Zombie Outbreak Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 3858410,
+    "name": "Zombie Outbreak: Undead Survival",
+    "type": "game"
+  },
+  {
+    "appid": 3191930,
+    "name": "Zombie Overdrive",
+    "type": "game"
+  },
+  {
+    "appid": 3316360,
+    "name": "Zombie Pandemia 2D",
+    "type": "game"
+  },
+  {
+    "appid": 4692980,
+    "name": "Zombie Panic",
+    "type": "game"
+  },
+  {
+    "appid": 1173850,
+    "name": "Zombie Panic In Wonderland DX",
+    "type": "game"
+  },
+  {
+    "appid": 3825360,
+    "name": "Zombie Panic!",
+    "type": "game"
+  },
+  {
+    "appid": 17500,
+    "name": "Zombie Panic! Source",
+    "type": "game"
+  },
+  {
+    "appid": 449090,
+    "name": "Zombie Parking",
+    "type": "game"
+  },
+  {
+    "appid": 4944270,
+    "name": "Zombie Parking Lot Defense",
+    "type": "game"
+  },
+  {
+    "appid": 2515370,
+    "name": "Zombie Parkour Apocalypse",
+    "type": "game"
+  },
+  {
+    "appid": 384500,
+    "name": "Zombie Party",
+    "type": "game"
+  },
+  {
+    "appid": 2507630,
+    "name": "Zombie Party 丧尸派对",
+    "type": "game"
+  },
+  {
+    "appid": 5301700,
+    "name": "Zombie Pile",
+    "type": "game"
+  },
+  {
+    "appid": 458510,
+    "name": "Zombie Pinball",
+    "type": "game"
+  },
+  {
+    "appid": 46850,
+    "name": "Zombie Pirates",
+    "type": "game"
+  },
+  {
+    "appid": 215550,
+    "name": "Zombie Playground™",
+    "type": "game"
+  },
+  {
+    "appid": 2825070,
+    "name": "Zombie Police",
+    "type": "game"
+  },
+  {
+    "appid": 3649840,
+    "name": "Zombie Police: Midsummer Unhappy New Year",
+    "type": "game"
+  },
+  {
+    "appid": 739350,
+    "name": "Zombie Pop",
+    "type": "game"
+  },
+  {
+    "appid": 2110930,
+    "name": "Zombie Prison Break",
+    "type": "game"
+  },
+  {
+    "appid": 3937480,
+    "name": "Zombie Protocol",
+    "type": "game"
+  },
+  {
+    "appid": 360400,
+    "name": "Zombie Quarantine",
+    "type": "game"
+  },
+  {
+    "appid": 4811410,
+    "name": "Zombie Queen",
+    "type": "game"
+  },
+  {
+    "appid": 1707470,
+    "name": "Zombie Quest",
+    "type": "game"
+  },
+  {
+    "appid": 3727460,
+    "name": "Zombie Quest",
+    "type": "game"
+  },
+  {
+    "appid": 688540,
+    "name": "ZOMBIE RAID: No One Survives",
+    "type": "game"
+  },
+  {
+    "appid": 864590,
+    "name": "Zombie Rampage",
+    "type": "game"
+  },
+  {
+    "appid": 3089820,
+    "name": "ZOMBIE RECALL",
+    "type": "game"
+  },
+  {
+    "appid": 5441010,
+    "name": "Zombie Recorder: Undead Divas",
+    "type": "game"
+  },
+  {
+    "appid": 3211070,
+    "name": "Zombie Restaurant",
+    "type": "game"
+  },
+  {
+    "appid": 639460,
+    "name": "Zombie Riot",
+    "type": "game"
+  },
+  {
+    "appid": 1175640,
+    "name": "Zombie Road Rider",
+    "type": "game"
+  },
+  {
+    "appid": 915230,
+    "name": "Zombie Rollerz: Pinball Heroes",
+    "type": "game"
+  },
+  {
+    "appid": 2224120,
+    "name": "Zombie Rollerz: The Last Ship",
+    "type": "game"
+  },
+  {
+    "appid": 2336990,
+    "name": "Zombie Rollerz: The Last Ship Demo",
+    "type": "game"
+  },
+  {
+    "appid": 2653960,
+    "name": "Zombie Rooms",
+    "type": "game"
+  },
+  {
+    "appid": 2871550,
+    "name": "Zombie Royale",
+    "type": "game"
+  },
+  {
+    "appid": 2069860,
+    "name": "Zombie Runner",
+    "type": "game"
+  },
+  {
+    "appid": 2355790,
+    "name": "Zombie Rush",
+    "type": "game"
+  },
+  {
+    "appid": 1414840,
+    "name": "Zombie Rush - Heroes",
+    "type": "game"
+  },
+  {
+    "appid": 1070890,
+    "name": "Zombie Rush : Extinction",
+    "type": "game"
+  },
+  {
+    "appid": 4254730,
+    "name": "Zombie Sandwich",
+    "type": "game"
+  },
+  {
+    "appid": 4859500,
+    "name": "Zombie Scavenger",
+    "type": "game"
+  },
+  {
+    "appid": 1344870,
+    "name": "Zombie School Survival",
+    "type": "game"
+  },
+  {
+    "appid": 943290,
+    "name": "Zombie school-丧尸学院",
+    "type": "game"
+  },
+  {
+    "appid": 997170,
+    "name": "Zombie Scrapper",
+    "type": "game"
+  },
+  {
+    "appid": 1971100,
+    "name": "Zombie Scream",
+    "type": "game"
+  },
+  {
+    "appid": 1157120,
+    "name": "Zombie Season",
+    "type": "game"
+  },
+  {
+    "appid": 4187670,
+    "name": "Zombie Self-Cultivation",
+    "type": "game"
+  },
+  {
+    "appid": 792230,
+    "name": "Zombie Serial Killer Incident",
+    "type": "game"
+  },
+  {
+    "appid": 3628400,
+    "name": "Zombie Ship",
+    "type": "game"
+  },
+  {
+    "appid": 33130,
+    "name": "Zombie Shooter",
+    "type": "game"
+  },
+  {
+    "appid": 4508880,
+    "name": "Zombie Shooter",
+    "type": "game"
+  },
+  {
+    "appid": 33180,
+    "name": "Zombie Shooter 2",
+    "type": "game"
+  },
+  {
+    "appid": 3430430,
+    "name": "Zombie Shooter Kit",
+    "type": "game"
+  },
+  {
+    "appid": 3232240,
+    "name": "Zombie Shooter TPS",
+    "type": "game"
+  },
+  {
+    "appid": 1032750,
+    "name": "Zombie Shooter: Ares Virus",
+    "type": "game"
+  },
+  {
+    "appid": 1328000,
+    "name": "Zombie Shooting Star",
+    "type": "game"
+  },
+  {
+    "appid": 2210710,
+    "name": "Zombie Shooting Star: ARCADE",
+    "type": "game"
+  },
+  {
+    "appid": 1882520,
+    "name": "Zombie Shotgun Rampage",
+    "type": "game"
+  },
+  {
+    "appid": 3184720,
+    "name": "Zombie Siege",
+    "type": "game"
+  },
+  {
+    "appid": 5384840,
+    "name": "Zombie Siege",
+    "type": "game"
+  },
+  {
+    "appid": 3116530,
+    "name": "Zombie Siege City",
+    "type": "game"
+  },
+  {
+    "appid": 1362310,
+    "name": "Zombie Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 2154350,
+    "name": "Zombie Slapper",
+    "type": "game"
+  },
+  {
+    "appid": 1835530,
+    "name": "Zombie Slaughter VR",
+    "type": "game"
+  },
+  {
+    "appid": 1299890,
+    "name": "Zombie Slayer",
+    "type": "game"
+  },
+  {
+    "appid": 1203600,
+    "name": "Zombie Slayers",
+    "type": "game"
+  },
+  {
+    "appid": 3917950,
+    "name": "Zombie Smash",
+    "type": "game"
+  },
+  {
+    "appid": 1700400,
+    "name": "Zombie Society - Dead Detective",
+    "type": "game"
+  },
+  {
+    "appid": 954780,
+    "name": "Zombie Soldier",
+    "type": "game"
+  },
+  {
+    "appid": 311850,
+    "name": "Zombie Solitaire",
+    "type": "game"
+  },
+  {
+    "appid": 623160,
+    "name": "Zombie Solitaire 2 Chapter 1",
+    "type": "game"
+  },
+  {
+    "appid": 623170,
+    "name": "Zombie Solitaire 2 Chapter 2",
+    "type": "game"
+  },
+  {
+    "appid": 623180,
+    "name": "Zombie Solitaire 2 Chapter 3",
+    "type": "game"
+  },
+  {
+    "appid": 1095290,
+    "name": "Zombie Soup",
+    "type": "game"
+  },
+  {
+    "appid": 2001190,
+    "name": "Zombie Spree: The Dawn",
+    "type": "game"
+  },
+  {
+    "appid": 1618310,
+    "name": "Zombie Strike",
+    "type": "game"
+  },
+  {
+    "appid": 1605960,
+    "name": "Zombie Survival",
+    "type": "game"
+  },
+  {
+    "appid": 3006700,
+    "name": "Zombie Survival",
+    "type": "game"
+  },
+  {
+    "appid": 4426470,
+    "name": "Zombie Survival 3D",
+    "type": "game"
+  },
+  {
+    "appid": 4868210,
+    "name": "Zombie Survival Frontier",
+    "type": "game"
+  },
+  {
+    "appid": 2268560,
+    "name": "Zombie Survival Game Online",
+    "type": "game"
+  },
+  {
+    "appid": 2307950,
+    "name": "Zombie Survivals [18+]🧟‍♀️🔞",
+    "type": "game"
+  },
+  {
+    "appid": 3794730,
+    "name": "Zombie Survivor",
+    "type": "game"
+  },
+  {
+    "appid": 2546630,
+    "name": "Zombie Survivor: Undead City Attack",
+    "type": "game"
+  },
+  {
+    "appid": 1690650,
+    "name": "Zombie Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 1933800,
+    "name": "Zombie Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 3113890,
+    "name": "Zombie Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 3244140,
+    "name": "Zombie Survivors - Eternal Nightfall",
+    "type": "game"
+  },
+  {
+    "appid": 4465840,
+    "name": "Zombie Survivors - last soldier -",
+    "type": "game"
+  },
+  {
+    "appid": 3646550,
+    "name": "Zombie Survivors: Inventory Apocalypse",
+    "type": "game"
+  },
+  {
+    "appid": 4936630,
+    "name": "Zombie Tag",
+    "type": "game"
+  },
+  {
+    "appid": 1194220,
+    "name": "Zombie Tag Royale",
+    "type": "game"
+  },
+  {
+    "appid": 4638570,
+    "name": "Zombie Taxi",
+    "type": "game"
+  },
+  {
+    "appid": 826020,
+    "name": "Zombie Teacher",
+    "type": "game"
+  },
+  {
+    "appid": 5143160,
+    "name": "Zombie Tide Arena",
+    "type": "game"
+  },
+  {
+    "appid": 3457410,
+    "name": "Zombie Tide Incoming Final Defense",
+    "type": "game"
+  },
+  {
+    "appid": 3509920,
+    "name": "zombie tide incoming Rising",
+    "type": "game"
+  },
+  {
+    "appid": 1610250,
+    "name": "Zombie Total War",
+    "type": "game"
+  },
+  {
+    "appid": 3459160,
+    "name": "Zombie Tower Defense",
+    "type": "game"
+  },
+  {
+    "appid": 2934480,
+    "name": "Zombie Tower Survivor",
+    "type": "game"
+  },
+  {
+    "appid": 666600,
+    "name": "Zombie Town",
+    "type": "game"
+  },
+  {
+    "appid": 5042160,
+    "name": "zombie town",
+    "type": "game"
+  },
+  {
+    "appid": 3600670,
+    "name": "Zombie Town Breakout",
+    "type": "game"
+  },
+  {
+    "appid": 810190,
+    "name": "Zombie Town Online : Premium",
+    "type": "game"
+  },
+  {
+    "appid": 562740,
+    "name": "Zombie Town VR",
+    "type": "game"
+  },
+  {
+    "appid": 2345200,
+    "name": "Zombie Town!",
+    "type": "game"
+  },
+  {
+    "appid": 1223210,
+    "name": "Zombie Towns",
+    "type": "game"
+  },
+  {
+    "appid": 446620,
+    "name": "Zombie Training Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 512830,
+    "name": "Zombie Trigger",
+    "type": "game"
+  },
+  {
+    "appid": 252270,
+    "name": "Zombie Tycoon 2: Brainhov's Revenge",
+    "type": "game"
+  },
+  {
+    "appid": 3949700,
+    "name": "Zombie Typing",
+    "type": "game"
+  },
+  {
+    "appid": 1168320,
+    "name": "Zombie valley",
+    "type": "game"
+  },
+  {
+    "appid": 1813330,
+    "name": "Zombie Vampires",
+    "type": "game"
+  },
+  {
+    "appid": 1247950,
+    "name": "zombie variant",
+    "type": "game"
+  },
+  {
+    "appid": 1693570,
+    "name": "Zombie Vegas",
+    "type": "game"
+  },
+  {
+    "appid": 337480,
+    "name": "Zombie Vikings",
+    "type": "game"
+  },
+  {
+    "appid": 566910,
+    "name": "Zombie Vikings: Stab-a-thon",
+    "type": "game"
+  },
+  {
+    "appid": 1544690,
+    "name": "Zombie Village",
+    "type": "game"
+  },
+  {
+    "appid": 958110,
+    "name": "Zombie Virus Attack",
+    "type": "game"
+  },
+  {
+    "appid": 2072340,
+    "name": "zombie virus Ukraine2022",
+    "type": "game"
+  },
+  {
+    "appid": 1903600,
+    "name": "Zombie VS Police",
+    "type": "game"
+  },
+  {
+    "appid": 680550,
+    "name": "Zombie Waiting",
+    "type": "game"
+  },
+  {
+    "appid": 1864210,
+    "name": "Zombie War",
+    "type": "game"
+  },
+  {
+    "appid": 3057400,
+    "name": "Zombie War:New World",
+    "type": "game"
+  },
+  {
+    "appid": 1638870,
+    "name": "Zombie Wars",
+    "type": "game"
+  },
+  {
+    "appid": 429060,
+    "name": "Zombie Wars: Invasion",
+    "type": "game"
+  },
+  {
+    "appid": 2299490,
+    "name": "Zombie Warz",
+    "type": "game"
+  },
+  {
+    "appid": 4805240,
+    "name": "Zombie Wasteland Together",
+    "type": "game"
+  },
+  {
+    "appid": 785860,
+    "name": "Zombie Watch",
+    "type": "game"
+  },
+  {
+    "appid": 2266020,
+    "name": "Zombie Watch Part II",
+    "type": "game"
+  },
+  {
+    "appid": 1894460,
+    "name": "Zombie Within",
+    "type": "game"
+  },
+  {
+    "appid": 2778770,
+    "name": "Zombie Woods",
+    "type": "game"
+  },
+  {
+    "appid": 815170,
+    "name": "Zombie World",
+    "type": "game"
+  },
+  {
+    "appid": 1206080,
+    "name": "Zombie World Apocalypse VR",
+    "type": "game"
+  },
+  {
+    "appid": 2236780,
+    "name": "Zombie World Pixel",
+    "type": "game"
+  },
+  {
+    "appid": 5167690,
+    "name": "Zombie Wrap Simulator: Grill the Dead",
+    "type": "game"
+  },
+  {
+    "appid": 5106570,
+    "name": "Zombie X",
+    "type": "game"
+  },
+  {
+    "appid": 366890,
+    "name": "Zombie Zoeds",
+    "type": "game"
+  },
+  {
+    "appid": 5127000,
+    "name": "Zombie-Like",
+    "type": "game"
+  },
+  {
+    "appid": 1413070,
+    "name": "ZOMBIE! HENTAI! DEFENSE!",
+    "type": "game"
+  },
+  {
+    "appid": 1419760,
+    "name": "Zombie's Cool",
+    "type": "game"
+  },
+  {
+    "appid": 1449970,
+    "name": "Zombie's Retreat",
+    "type": "game"
+  },
+  {
+    "appid": 1202550,
+    "name": "ZombieBusters",
+    "type": "game"
+  },
+  {
+    "appid": 5300020,
+    "name": "ZombieBusters: Reborn",
+    "type": "game"
+  },
+  {
+    "appid": 2865350,
+    "name": "ZOMBIECAM",
+    "type": "game"
+  },
+  {
+    "appid": 3443610,
+    "name": "ZombieCards",
+    "type": "game"
+  },
+  {
+    "appid": 565340,
+    "name": "ZombieCarz",
+    "type": "game"
+  },
+  {
+    "appid": 3478880,
+    "name": "Zombiefield",
+    "type": "game"
+  },
+  {
+    "appid": 569640,
+    "name": "ZombieFight VR",
+    "type": "game"
+  },
+  {
+    "appid": 3003120,
+    "name": "Zombiehood",
+    "type": "game"
+  },
+  {
+    "appid": 799120,
+    "name": "ZombieHunt",
+    "type": "game"
+  },
+  {
+    "appid": 857700,
+    "name": "ZombieHunterZ",
+    "type": "game"
+  },
+  {
+    "appid": 1296970,
+    "name": "Zombieland VR: Headshot Fever",
+    "type": "game"
+  },
+  {
+    "appid": 995430,
+    "name": "Zombieland: Double Tap - Road Trip",
+    "type": "game"
+  },
+  {
+    "appid": 2916930,
+    "name": "Zombieland: Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 1892780,
+    "name": "Zombielantis",
+    "type": "game"
+  },
+  {
+    "appid": 3240000,
+    "name": "Zombiemachia",
+    "type": "game"
+  },
+  {
+    "appid": 2059630,
+    "name": "ZombieMaze",
+    "type": "game"
+  },
+  {
+    "appid": 1124400,
+    "name": "Zombien",
+    "type": "game"
+  },
+  {
+    "appid": 1053040,
+    "name": "ZombieOrNotZombie",
+    "type": "game"
+  },
+  {
+    "appid": 2435330,
+    "name": "Zombiepede",
+    "type": "game"
+  },
+  {
+    "appid": 358840,
+    "name": "ZombieRun",
+    "type": "game"
+  },
+  {
+    "appid": 467460,
+    "name": "ZombieRush",
+    "type": "game"
+  },
+  {
+    "appid": 2149000,
+    "name": "Zombies",
+    "type": "game"
+  },
+  {
+    "appid": 4295690,
+    "name": "Zombies & Battery",
+    "type": "game"
+  },
+  {
+    "appid": 2802870,
+    "name": "Zombies & Bullets",
+    "type": "game"
+  },
+  {
+    "appid": 2742590,
+    "name": "Zombies & Love",
+    "type": "game"
+  },
+  {
+    "appid": 3153760,
+    "name": "Zombies & Survivors",
+    "type": "game"
+  },
+  {
+    "appid": 1167150,
+    "name": "Zombies and Keys",
+    "type": "game"
+  },
+  {
+    "appid": 3387740,
+    "name": "Zombies and Orcs",
+    "type": "game"
+  },
+  {
+    "appid": 3665670,
+    "name": "Zombies And Strangers",
+    "type": "game"
+  },
+  {
+    "appid": 5185890,
+    "name": "Zombies Aren't Real",
+    "type": "game"
+  },
+  {
+    "appid": 2242430,
+    "name": "Zombies Aren't Your Friends",
+    "type": "game"
+  },
+  {
+    "appid": 1901510,
+    "name": "Zombies ate my dog",
+    "type": "game"
+  },
+  {
+    "appid": 3365000,
+    "name": "Zombies Ate My Femboy",
+    "type": "game"
+  },
+  {
+    "appid": 1137970,
+    "name": "Zombies Ate My Neighbors and Ghoul Patrol",
+    "type": "game"
+  },
+  {
+    "appid": 2027540,
+    "name": "Zombies Attack",
+    "type": "game"
+  },
+  {
+    "appid": 3757240,
+    "name": "Zombies Attack",
+    "type": "game"
+  },
+  {
+    "appid": 4606860,
+    "name": "Zombies Attack My Burger Joint",
+    "type": "game"
+  },
+  {
+    "appid": 693280,
+    "name": "Zombies Berserk",
+    "type": "game"
+  },
+  {
+    "appid": 693290,
+    "name": "Zombies Berserk Demo",
+    "type": "game"
+  },
+  {
+    "appid": 1652950,
+    "name": "Zombies Beyond Me",
+    "type": "game"
+  },
+  {
+    "appid": 1645680,
+    "name": "Zombies Desert and Guns",
+    "type": "game"
+  },
+  {
+    "appid": 1297370,
+    "name": "Zombies Don't Drive",
+    "type": "game"
+  },
+  {
+    "appid": 3970080,
+    "name": "Zombies Hate to Die",
+    "type": "game"
+  },
+  {
+    "appid": 2183490,
+    "name": "Zombies in Metropolis",
+    "type": "game"
+  },
+  {
+    "appid": 928410,
+    "name": "Zombies in the dark",
+    "type": "game"
+  },
+  {
+    "appid": 1035190,
+    "name": "Zombies In The Forest",
+    "type": "game"
+  },
+  {
+    "appid": 3607120,
+    "name": "Zombies In Valkeala",
+    "type": "game"
+  },
+  {
+    "appid": 2027570,
+    "name": "Zombies Invasion",
+    "type": "game"
+  },
+  {
+    "appid": 1850690,
+    "name": "Zombies Killer Machine",
+    "type": "game"
+  },
+  {
+    "appid": 2054450,
+    "name": "Zombies Midnight",
+    "type": "game"
+  },
+  {
+    "appid": 306830,
+    "name": "Zombies Monsters Robots",
+    "type": "game"
+  },
+  {
+    "appid": 1359850,
+    "name": "Zombies Must Die",
+    "type": "game"
+  },
+  {
+    "appid": 297450,
+    "name": "Zombies on a Plane",
+    "type": "game"
+  },
+  {
+    "appid": 3446070,
+    "name": "Zombies Overloaded",
+    "type": "game"
+  },
+  {
+    "appid": 4416970,
+    "name": "Zombies Per Minute",
+    "type": "game"
+  },
+  {
+    "appid": 2221070,
+    "name": "Zombies Rocket Boom Boom",
+    "type": "game"
+  },
+  {
+    "appid": 3191230,
+    "name": "Zombies ruined my day",
+    "type": "game"
+  },
+  {
+    "appid": 2112570,
+    "name": "Zombies TD",
+    "type": "game"
+  },
+  {
+    "appid": 1966280,
+    "name": "Zombies Under Control",
+    "type": "game"
+  },
+  {
+    "appid": 2840040,
+    "name": "Zombies vs You",
+    "type": "game"
+  },
+  {
+    "appid": 1081140,
+    "name": "Zombies war",
+    "type": "game"
+  },
+  {
+    "appid": 1487280,
+    "name": "Zombies War Apocalypse",
+    "type": "game"
+  },
+  {
+    "appid": 2563480,
+    "name": "Zombies, Aliens and Guns",
+    "type": "game"
+  },
+  {
+    "appid": 1389980,
+    "name": "Zombies!",
+    "type": "game"
+  },
+  {
+    "appid": 2748240,
+    "name": "Zombies!!! Board Game",
+    "type": "game"
+  },
+  {
+    "appid": 1411090,
+    "name": "ZombieSpectre",
+    "type": "game"
+  },
+  {
+    "appid": 2129730,
+    "name": "ZombieSquad",
+    "type": "game"
+  },
+  {
+    "appid": 1534610,
+    "name": "ZombiesWaves",
+    "type": "game"
+  },
+  {
+    "appid": 718270,
+    "name": "ZombieThon",
+    "type": "game"
+  },
+  {
+    "appid": 5298950,
+    "name": "ZombieTrain",
+    "type": "game"
+  },
+  {
+    "appid": 3817910,
+    "name": "ZombieTungSahur",
+    "type": "game"
+  },
+  {
+    "appid": 1521050,
+    "name": "ZombieVan Drive",
+    "type": "game"
+  },
+  {
+    "appid": 1801520,
+    "name": "Zombieville USA 3D",
+    "type": "game"
+  },
+  {
+    "appid": 4280380,
+    "name": "ZombieVirusSurviveAlone",
+    "type": "game"
+  },
+  {
+    "appid": 2411870,
+    "name": "ZombieWave FM",
+    "type": "game"
+  },
+  {
+    "appid": 1491850,
+    "name": "ZombieWave-UnlimitedChallenges",
+    "type": "game"
+  },
+  {
+    "appid": 403230,
+    "name": "ZombieZoid® Zenith",
+    "type": "game"
+  },
+  {
+    "appid": 2408790,
+    "name": "Zombiflux: Sleepless War",
+    "type": "game"
+  },
+  {
+    "appid": 2469240,
+    "name": "Zombikini PinballZ",
+    "type": "game"
+  },
+  {
+    "appid": 456810,
+    "name": "Zombillie",
+    "type": "game"
+  },
+  {
+    "appid": 5133580,
+    "name": "ZOMBILLIONAIRE",
+    "type": "game"
+  },
+  {
+    "appid": 2206400,
+    "name": "Zombinions",
+    "type": "game"
+  },
+  {
+    "appid": 2477100,
+    "name": "Zombiolence",
+    "type": "game"
+  },
+  {
+    "appid": 2896730,
+    "name": "Zombiology",
+    "type": "game"
+  },
+  {
+    "appid": 2767900,
+    "name": "Zombion: Survivor",
+    "type": "game"
+  },
+  {
+    "appid": 932950,
+    "name": "Zombiotik",
+    "type": "game"
+  },
+  {
+    "appid": 2754750,
+    "name": "ZombiQ",
+    "type": "game"
+  },
+  {
+    "appid": 3698150,
+    "name": "Zombitality",
+    "type": "game"
+  },
+  {
+    "appid": 508140,
+    "name": "Zombitatos the end of the Pc master race",
+    "type": "game"
+  },
+  {
+    "appid": 682150,
+    "name": "Zombitatos: Ultimate Game Of The Year Edition",
+    "type": "game"
+  },
+  {
+    "appid": 2652310,
+    "name": "ZomBits",
+    "type": "game"
+  },
+  {
+    "appid": 508620,
+    "name": "ZombLabs",
+    "type": "game"
+  },
+  {
+    "appid": 5173270,
+    "name": "ZomBMart",
+    "type": "game"
+  },
+  {
+    "appid": 3233500,
+    "name": "ZombMe",
+    "type": "game"
+  },
+  {
+    "appid": 3096130,
+    "name": "Zombnami",
+    "type": "game"
+  },
+  {
+    "appid": 1302780,
+    "name": "Zombo Buster Advance",
+    "type": "game"
+  },
+  {
+    "appid": 518730,
+    "name": "Zombo Buster Rising",
+    "type": "game"
+  },
+  {
+    "appid": 3543130,
+    "name": "Zomboard",
+    "type": "game"
+  },
+  {
+    "appid": 4682030,
+    "name": "Zombobox: Bredo Story",
+    "type": "game"
+  },
+  {
+    "appid": 3378650,
+    "name": "Zombocalypse",
+    "type": "game"
+  },
+  {
+    "appid": 3993590,
+    "name": "Zombocalypse Now!",
+    "type": "game"
+  },
+  {
+    "appid": 2270840,
+    "name": "Zombocity",
+    "type": "game"
+  },
+  {
+    "appid": 4122770,
+    "name": "Zombocity",
+    "type": "game"
+  },
+  {
+    "appid": 2864300,
+    "name": "Zombodesert",
+    "type": "game"
+  },
+  {
+    "appid": 1894940,
+    "name": "ZOMBODRIVE",
+    "type": "game"
+  },
+  {
+    "appid": 2825270,
+    "name": "Zombolion",
+    "type": "game"
+  },
+  {
+    "appid": 5007950,
+    "name": "Zombonk",
+    "type": "game"
+  },
+  {
+    "appid": 729720,
+    "name": "Zomborg",
+    "type": "game"
+  },
+  {
+    "appid": 5277290,
+    "name": "Zomboroad",
+    "type": "game"
+  },
+  {
+    "appid": 664830,
+    "name": "Zombotron",
+    "type": "game"
+  },
+  {
+    "appid": 1892580,
+    "name": "Zombotron Re-Boot",
+    "type": "game"
+  },
+  {
+    "appid": 2966810,
+    "name": "Zombots: Invasion",
+    "type": "game"
+  },
+  {
+    "appid": 2952920,
+    "name": "Zombound",
+    "type": "game"
+  },
+  {
+    "appid": 823650,
+    "name": "Zombow",
+    "type": "game"
+  },
+  {
+    "appid": 2425280,
+    "name": "Zombreak: The Last Escape",
+    "type": "game"
+  },
+  {
+    "appid": 1489820,
+    "name": "Zombrio",
+    "type": "game"
+  },
+  {
+    "appid": 4443350,
+    "name": "Zombuds",
+    "type": "game"
+  },
+  {
+    "appid": 4877240,
+    "name": "Zombuffoonery",
+    "type": "game"
+  },
+  {
+    "appid": 3511360,
+    "name": "Zombus",
+    "type": "game"
+  },
+  {
+    "appid": 1272300,
+    "name": "Zombusters",
+    "type": "game"
+  },
+  {
+    "appid": 4039900,
+    "name": "ZOMBUTCHER",
+    "type": "game"
+  },
+  {
+    "appid": 523940,
+    "name": "ZombVR",
+    "type": "game"
+  },
+  {
+    "appid": 2050890,
+    "name": "ZombWave",
+    "type": "game"
+  },
+  {
+    "appid": 769340,
+    "name": "Zomby Soldier",
+    "type": "game"
+  },
+  {
+    "appid": 3303340,
+    "name": "ZombZerro999",
+    "type": "game"
+  },
+  {
+    "appid": 1305220,
+    "name": "Zomcade",
+    "type": "game"
+  },
+  {
+    "appid": 2699240,
+    "name": "Zomcats Invasion",
+    "type": "game"
+  },
+  {
+    "appid": 681390,
+    "name": "ZomDay",
+    "type": "game"
+  },
+  {
+    "appid": 4557020,
+    "name": "Zomdied",
+    "type": "game"
+  },
+  {
+    "appid": 4335430,
+    "name": "ZomeStead",
+    "type": "game"
+  },
+  {
+    "appid": 2393250,
+    "name": "ZOMG!",
+    "type": "game"
+  },
+  {
+    "appid": 2975190,
+    "name": "ZomGoBo",
+    "type": "game"
+  },
+  {
+    "appid": 5488250,
+    "name": "Zomking",
+    "type": "game"
+  },
+  {
+    "appid": 2453290,
+    "name": "Zompell",
+    "type": "game"
+  },
+  {
+    "appid": 1262460,
+    "name": "Zompiercer",
+    "type": "game"
+  },
+  {
+    "appid": 5273680,
+    "name": "Zompioland",
+    "type": "game"
+  },
+  {
+    "appid": 2937920,
+    "name": "Zompizza : The Last Delivery",
+    "type": "game"
+  },
+  {
+    "appid": 1622140,
+    "name": "Zoms & Guns",
+    "type": "game"
+  },
+  {
+    "appid": 3845480,
+    "name": "Zomvac",
+    "type": "game"
+  },
+  {
+    "appid": 3222270,
+    "name": "ZOMVIRUS",
+    "type": "game"
+  },
+  {
+    "appid": 2534300,
+    "name": "ZomWick",
+    "type": "game"
+  },
+  {
+    "appid": 3651110,
+    "name": "Zon",
+    "type": "game"
+  },
+  {
+    "appid": 4735540,
+    "name": "Zona Eleitoral",
+    "type": "game"
+  },
+  {
+    "appid": 3598990,
+    "name": "Zonark",
+    "type": "game"
+  },
+  {
+    "appid": 4560800,
+    "name": "Zonda",
+    "type": "game"
+  },
+  {
+    "appid": 3607460,
+    "name": "Zone",
+    "type": "game"
+  },
+  {
+    "appid": 4259110,
+    "name": "Zone 1-70",
+    "type": "game"
+  },
+  {
+    "appid": 1084530,
+    "name": "Zone 10",
+    "type": "game"
+  },
+  {
+    "appid": 3104110,
+    "name": "Zone 13",
+    "type": "game"
+  },
+  {
+    "appid": 321390,
+    "name": "Zone 22",
+    "type": "game"
+  },
+  {
+    "appid": 3964280,
+    "name": "Zone 404",
+    "type": "game"
+  },
+  {
+    "appid": 4953500,
+    "name": "ZONE 47",
+    "type": "game"
+  },
+  {
+    "appid": 2813590,
+    "name": "Zone 6",
+    "type": "game"
+  },
+  {
+    "appid": 979830,
+    "name": "Zone Anomaly",
+    "type": "game"
+  },
+  {
+    "appid": 1693160,
+    "name": "Zone B Korosu",
+    "type": "game"
+  },
+  {
+    "appid": 4330500,
+    "name": "Zone Idle",
+    "type": "game"
+  },
+  {
+    "appid": 4420660,
+    "name": "ZONE L.O.S.T.",
+    "type": "game"
+  },
+  {
+    "appid": 4354660,
+    "name": "Zone Nova",
+    "type": "game"
+  },
+  {
+    "appid": 1423410,
+    "name": "Zone of Death",
+    "type": "game"
+  },
+  {
+    "appid": 496540,
+    "name": "Zone of Lacryma",
+    "type": "game"
+  },
+  {
+    "appid": 650510,
+    "name": "ZONE OF THE ENDERS THE 2nd RUNNER : MARS / ANUBIS ZONE OF THE ENDERS : MARS",
+    "type": "game"
+  },
+  {
+    "appid": 1488000,
+    "name": "Zone Of War",
+    "type": "game"
+  },
+  {
+    "appid": 3099550,
+    "name": "ZONE ONE",
+    "type": "game"
+  },
+  {
+    "appid": 4093020,
+    "name": "Zone Shot",
+    "type": "game"
+  },
+  {
+    "appid": 4724340,
+    "name": "Zone Stalkers",
+    "type": "game"
+  },
+  {
+    "appid": 4959960,
+    "name": "Zone Sweeper",
+    "type": "game"
+  },
+  {
+    "appid": 2563400,
+    "name": "Zone Trip",
+    "type": "game"
+  },
+  {
+    "appid": 2391080,
+    "name": "Zone VX",
+    "type": "game"
+  },
+  {
+    "appid": 3313600,
+    "name": "Zone-0",
+    "type": "game"
+  },
+  {
+    "appid": 4963760,
+    "name": "Zone//Zero",
+    "type": "game"
+  },
+  {
+    "appid": 518660,
+    "name": "Zone4",
+    "type": "game"
+  },
+  {
+    "appid": 2479120,
+    "name": "Zoned",
+    "type": "game"
+  },
+  {
+    "appid": 700770,
+    "name": "ZoneDriver",
+    "type": "game"
+  },
+  {
+    "appid": 1598030,
+    "name": "ZONERS",
+    "type": "game"
+  },
+  {
+    "appid": 2583950,
+    "name": "Zonescape",
+    "type": "game"
+  },
+  {
+    "appid": 1339290,
+    "name": "ZONEX",
+    "type": "game"
+  },
+  {
+    "appid": 2334590,
+    "name": "Zong",
+    "type": "game"
+  },
+  {
+    "appid": 2964180,
+    "name": "ZonZon",
+    "type": "game"
+  },
+  {
+    "appid": 1352330,
+    "name": "Zoo 2: Animal Park",
+    "type": "game"
+  },
+  {
+    "appid": 1995340,
+    "name": "Zoo Chess",
+    "type": "game"
+  },
+  {
+    "appid": 1538620,
+    "name": "Zoo Cleaner",
+    "type": "game"
+  },
+  {
+    "appid": 868260,
+    "name": "Zoo Constructor",
+    "type": "game"
+  },
+  {
+    "appid": 286750,
+    "name": "Zoo Empire",
+    "type": "game"
+  },
+  {
+    "appid": 99520,
+    "name": "Zoo Park",
+    "type": "game"
+  },
+  {
+    "appid": 307760,
+    "name": "Zoo Park",
+    "type": "game"
+  },
+  {
+    "appid": 2437690,
+    "name": "Zoo Park Story",
+    "type": "game"
+  },
+  {
+    "appid": 4556090,
+    "name": "Zoo Party",
+    "type": "game"
+  },
+  {
+    "appid": 1895830,
+    "name": "Zoo Peaks : Riders",
+    "type": "game"
+  },
+  {
+    "appid": 4389810,
+    "name": "Zoo Protocol",
+    "type": "game"
+  },
+  {
+    "appid": 312900,
+    "name": "Zoo Rampage",
+    "type": "game"
+  },
+  {
+    "appid": 1789180,
+    "name": "Zoo Seeker",
+    "type": "game"
+  },
+  {
+    "appid": 2129220,
+    "name": "Zoo Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 2610810,
+    "name": "Zoo Simulator: Prologue",
+    "type": "game"
+  },
+  {
+    "appid": 685140,
+    "name": "Zoo Strikers",
+    "type": "game"
+  },
+  {
+    "appid": 3280100,
+    "name": "Zoo Time",
+    "type": "game"
+  },
+  {
+    "appid": 613880,
+    "name": "Zoo Tycoon",
+    "type": "game"
+  },
+  {
+    "appid": 612240,
+    "name": "Zoo War: Tank Battle - Army & Military Games",
+    "type": "game"
+  },
+  {
+    "appid": 3989360,
+    "name": "Zoo Wars",
+    "type": "game"
+  },
+  {
+    "appid": 1311770,
+    "name": "Zoo World VR",
+    "type": "game"
+  },
+  {
+    "appid": 2260360,
+    "name": "Zooblies",
+    "type": "game"
+  },
+  {
+    "appid": 5048100,
+    "name": "Zoocard",
+    "type": "game"
+  },
+  {
+    "appid": 4781800,
+    "name": "Zoocatchers",
+    "type": "game"
+  },
+  {
+    "appid": 5211630,
+    "name": "Zooccer",
+    "type": "game"
+  },
+  {
+    "appid": 2458560,
+    "name": "Zoochosis",
+    "type": "game"
+  },
+  {
+    "appid": 1358110,
+    "name": "Zooconomy",
+    "type": "game"
+  },
+  {
+    "appid": 5576130,
+    "name": "Zoodemonium",
+    "type": "game"
+  },
+  {
+    "appid": 2126830,
+    "name": "ZOOGARNIAN",
+    "type": "game"
+  },
+  {
+    "appid": 622040,
+    "name": "Zooicide",
+    "type": "game"
+  },
+  {
+    "appid": 2994730,
+    "name": "Zooika",
+    "type": "game"
+  },
+  {
+    "appid": 707800,
+    "name": "Zooistry",
+    "type": "game"
+  },
+  {
+    "appid": 1027810,
+    "name": "ZooKeeper",
+    "type": "game"
+  },
+  {
+    "appid": 1194680,
+    "name": "ZooKeeper Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 1647730,
+    "name": "Zool Redimensioned",
+    "type": "game"
+  },
+  {
+    "appid": 3874220,
+    "name": "ZooLife Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 4176270,
+    "name": "Zoollision",
+    "type": "game"
+  },
+  {
+    "appid": 950600,
+    "name": "Zoological Era",
+    "type": "game"
+  },
+  {
+    "appid": 1128010,
+    "name": "Zoological Era II",
+    "type": "game"
+  },
+  {
+    "appid": 283450,
+    "name": "Zooloretto",
+    "type": "game"
+  },
+  {
+    "appid": 2274150,
+    "name": "Zoolovelogy",
+    "type": "game"
+  },
+  {
+    "appid": 3592960,
+    "name": "ZOOM",
+    "type": "game"
+  },
+  {
+    "appid": 1214410,
+    "name": "Zooma",
+    "type": "game"
+  },
+  {
+    "appid": 4594030,
+    "name": "Zoomachy",
+    "type": "game"
+  },
+  {
+    "appid": 3274010,
+    "name": "Zoomageddon",
+    "type": "game"
+  },
+  {
+    "appid": 4153900,
+    "name": "Zoomalia",
+    "type": "game"
+  },
+  {
+    "appid": 397430,
+    "name": "Zoombinis",
+    "type": "game"
+  },
+  {
+    "appid": 3717380,
+    "name": "Zoomcat",
+    "type": "game"
+  },
+  {
+    "appid": 2914910,
+    "name": "Zoomer Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 3733100,
+    "name": "Zoomers Versus Boomers",
+    "type": "game"
+  },
+  {
+    "appid": 3009430,
+    "name": "zoomies",
+    "type": "game"
+  },
+  {
+    "appid": 3282420,
+    "name": "Zoominoes",
+    "type": "game"
+  },
+  {
+    "appid": 870580,
+    "name": "ZOOMnBOOM",
+    "type": "game"
+  },
+  {
+    "appid": 2101890,
+    "name": "Zoonomaly",
+    "type": "game"
+  },
+  {
+    "appid": 4346940,
+    "name": "Zoooom",
+    "type": "game"
+  },
+  {
+    "appid": 4011290,
+    "name": "ZOOP WORLD",
+    "type": "game"
+  },
+  {
+    "appid": 2954450,
+    "name": "Zooparasite",
+    "type": "game"
+  },
+  {
+    "appid": 2694140,
+    "name": "Zooplop",
+    "type": "game"
+  },
+  {
+    "appid": 1482790,
+    "name": "ZooSim",
+    "type": "game"
+  },
+  {
+    "appid": 1738480,
+    "name": "ZooSquad",
+    "type": "game"
+  },
+  {
+    "appid": 3145900,
+    "name": "Zootisan",
+    "type": "game"
+  },
+  {
+    "appid": 4542100,
+    "name": "Zoovivors",
+    "type": "game"
+  },
+  {
+    "appid": 2690760,
+    "name": "Zopa",
+    "type": "game"
+  },
+  {
+    "appid": 3361190,
+    "name": "ZOPHARION",
+    "type": "game"
+  },
+  {
+    "appid": 4271850,
+    "name": "Zophos",
+    "type": "game"
+  },
+  {
+    "appid": 1162990,
+    "name": "ZOR: Pilgrimage of the Slorfs",
+    "type": "game"
+  },
+  {
+    "appid": 3109340,
+    "name": "Zoratharion",
+    "type": "game"
+  },
+  {
+    "appid": 739410,
+    "name": "Zorbit's Orbits",
+    "type": "game"
+  },
+  {
+    "appid": 4513360,
+    "name": "Zorbo",
+    "type": "game"
+  },
+  {
+    "appid": 2125420,
+    "name": "Zorbus",
+    "type": "game"
+  },
+  {
+    "appid": 4949440,
+    "name": "Zorehrai: Space Formations",
+    "type": "game"
+  },
+  {
+    "appid": 3348560,
+    "name": "Zorezdra",
+    "type": "game"
+  },
+  {
+    "appid": 1102750,
+    "name": "Zorg The Typing Warrior",
+    "type": "game"
+  },
+  {
+    "appid": 1622110,
+    "name": "Zoria and the Cursed Land",
+    "type": "game"
+  },
+  {
+    "appid": 1159090,
+    "name": "Zoria: Age of Shattering",
+    "type": "game"
+  },
+  {
+    "appid": 1216470,
+    "name": "Zoria: Age of Shattering Prologue",
+    "type": "game"
+  },
+  {
+    "appid": 570580,
+    "name": "Zork Anthology",
+    "type": "game"
+  },
+  {
+    "appid": 571060,
+    "name": "Zork Nemesis: The Forbidden Lands",
+    "type": "game"
+  },
+  {
+    "appid": 570680,
+    "name": "Zork: Grand Inquisitor",
+    "type": "game"
+  },
+  {
+    "appid": 918190,
+    "name": "Zoroastra",
+    "type": "game"
+  },
+  {
+    "appid": 2599630,
+    "name": "Zorro and Zedd",
+    "type": "game"
+  },
+  {
+    "appid": 1571460,
+    "name": "Zorro The Chronicles",
+    "type": "game"
+  },
+  {
+    "appid": 1098530,
+    "name": "ZorroMoro",
+    "type": "game"
+  },
+  {
+    "appid": 3121110,
+    "name": "Zort",
+    "type": "game"
+  },
+  {
+    "appid": 2443360,
+    "name": "Zortch",
+    "type": "game"
+  },
+  {
+    "appid": 3807500,
+    "name": "Zortch 2",
+    "type": "game"
+  },
+  {
+    "appid": 3551230,
+    "name": "zory",
+    "type": "game"
+  },
+  {
+    "appid": 1332150,
+    "name": "Zorya",
+    "type": "game"
+  },
+  {
+    "appid": 2404490,
+    "name": "ZOSU Ocean VR",
+    "type": "game"
+  },
+  {
+    "appid": 2012570,
+    "name": "ZOSU VR Explosive Bow Hunting",
+    "type": "game"
+  },
+  {
+    "appid": 2234650,
+    "name": "Zotenhold",
+    "type": "game"
+  },
+  {
+    "appid": 4593760,
+    "name": "Zoti's Train Workshop",
+    "type": "game"
+  },
+  {
+    "appid": 4848360,
+    "name": "Zoto's Garden",
+    "type": "game"
+  },
+  {
+    "appid": 343280,
+    "name": "Zotrix",
+    "type": "game"
+  },
+  {
+    "appid": 3188750,
+    "name": "Zoul Dungeon",
+    "type": "game"
+  },
+  {
+    "appid": 1796750,
+    "name": "Zovid-19 Remake",
+    "type": "game"
+  },
+  {
+    "appid": 3463560,
+    "name": "Zovid27: The Last Vaccine",
+    "type": "game"
+  },
+  {
+    "appid": 1412400,
+    "name": "Zoxel",
+    "type": "game"
+  },
+  {
+    "appid": 1609540,
+    "name": "Zoy",
+    "type": "game"
+  },
+  {
+    "appid": 3230120,
+    "name": "Zozo and the Lost Dreams",
+    "type": "game"
+  },
+  {
+    "appid": 3226180,
+    "name": "Zozo's Show",
+    "type": "game"
+  },
+  {
+    "appid": 591950,
+    "name": "Zpeciation: Tough Days (TD)",
+    "type": "game"
+  },
+  {
+    "appid": 1447700,
+    "name": "ZpellCatz",
+    "type": "game"
+  },
+  {
+    "appid": 1679590,
+    "name": "ZpellCatz: Pumpkin Prologue",
+    "type": "game"
+  },
+  {
+    "appid": 3095410,
+    "name": "ZPF",
+    "type": "game"
+  },
+  {
+    "appid": 1870280,
+    "name": "ZPlague",
+    "type": "game"
+  },
+  {
+    "appid": 966580,
+    "name": "Zquirrels Jump",
+    "type": "game"
+  },
+  {
+    "appid": 2572820,
+    "name": "Zra Stories",
+    "type": "game"
+  },
+  {
+    "appid": 2973000,
+    "name": "ZRAGG",
+    "type": "game"
+  },
+  {
+    "appid": 458600,
+    "name": "ZRoll",
+    "type": "game"
+  },
+  {
+    "appid": 4512190,
+    "name": "ZrOth",
+    "type": "game"
+  },
+  {
+    "appid": 1887320,
+    "name": "Zruce Adventures",
+    "type": "game"
+  },
+  {
+    "appid": 3096040,
+    "name": "Zrust",
+    "type": "game"
+  },
+  {
+    "appid": 2956450,
+    "name": "ZSG",
+    "type": "game"
+  },
+  {
+    "appid": 1769850,
+    "name": "zsweep_st",
+    "type": "game"
+  },
+  {
+    "appid": 523440,
+    "name": "zTime (Danger Noodles!)",
+    "type": "game"
+  },
+  {
+    "appid": 3484470,
+    "name": "zu xing",
+    "type": "game"
+  },
+  {
+    "appid": 849020,
+    "name": "Zucc Simulator",
+    "type": "game"
+  },
+  {
+    "appid": 4685030,
+    "name": "Zudon",
+    "type": "game"
+  },
+  {
+    "appid": 952290,
+    "name": "Zueirama",
+    "type": "game"
+  },
+  {
+    "appid": 3259400,
+    "name": "Zueirama 2",
+    "type": "game"
+  },
+  {
+    "appid": 3842370,
+    "name": "Zugaran",
+    "type": "game"
+  },
+  {
+    "appid": 3100730,
+    "name": "Zugnaex",
+    "type": "game"
+  },
+  {
+    "appid": 4155660,
+    "name": "Zugzwang",
+    "type": "game"
+  },
+  {
+    "appid": 3603660,
+    "name": "Zui's Witch Academy",
+    "type": "game"
+  },
+  {
+    "appid": 3237720,
+    "name": "Zuido",
+    "type": "game"
+  },
+  {
+    "appid": 547160,
+    "name": "Zukara",
+    "type": "game"
+  },
+  {
+    "appid": 5194150,
+    "name": "Zukontide",
+    "type": "game"
+  },
+  {
+    "appid": 3012260,
+    "name": "ZukuRace",
+    "type": "game"
+  },
+  {
+    "appid": 459510,
+    "name": "Zula",
+    "type": "game"
+  },
+  {
+    "appid": 513650,
+    "name": "Zula Europe",
+    "type": "game"
+  },
+  {
+    "appid": 747610,
+    "name": "Zula Global",
+    "type": "game"
+  },
+  {
+    "appid": 714210,
+    "name": "Zula Türkiye",
+    "type": "game"
+  },
+  {
+    "appid": 1047430,
+    "name": "Zulin Time",
+    "type": "game"
+  },
+  {
+    "appid": 1419970,
+    "name": "Zulmarash: Echoes of Zaltar",
+    "type": "game"
+  },
+  {
+    "appid": 401250,
+    "name": "Zulu Response",
+    "type": "game"
+  },
+  {
+    "appid": 1228730,
+    "name": "Zulup",
+    "type": "game"
+  },
+  {
+    "appid": 3330,
+    "name": "Zuma Deluxe",
+    "type": "game"
+  },
+  {
+    "appid": 935960,
+    "name": "Zuma Legend VR",
+    "type": "game"
+  },
+  {
+    "appid": 3620,
+    "name": "Zuma's Revenge",
+    "type": "game"
+  },
+  {
+    "appid": 3629,
+    "name": "Zuma's Revenge",
+    "type": "game"
+  },
+  {
+    "appid": 3650,
+    "name": "Zuma's Revenge! - Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 4105390,
+    "name": "ZUMANU Trip",
+    "type": "game"
+  },
+  {
+    "appid": 2589630,
+    "name": "Zumba Garden",
+    "type": "game"
+  },
+  {
+    "appid": 502020,
+    "name": "Zumbi Blocks",
+    "type": "game"
+  },
+  {
+    "appid": 1941780,
+    "name": "Zumbi Blocks 2 Open Alpha",
+    "type": "game"
+  },
+  {
+    "appid": 4230740,
+    "name": "Zumbi Olé",
+    "type": "game"
+  },
+  {
+    "appid": 2654430,
+    "name": "Zumbido Seele",
+    "type": "game"
+  },
+  {
+    "appid": 57810,
+    "name": "Zumfelkin",
+    "type": "game"
+  },
+  {
+    "appid": 1085230,
+    "name": "zumoubattoru",
+    "type": "game"
+  },
+  {
+    "appid": 4542500,
+    "name": "zunda8",
+    "type": "game"
+  },
+  {
+    "appid": 1058510,
+    "name": "Zunius",
+    "type": "game"
+  },
+  {
+    "appid": 4998100,
+    "name": "ZUNKS",
+    "type": "game"
+  },
+  {
+    "appid": 4114690,
+    "name": "ZuOnline",
+    "type": "game"
+  },
+  {
+    "appid": 533300,
+    "name": "Zup!",
+    "type": "game"
+  },
+  {
+    "appid": 562220,
+    "name": "Zup! 2",
+    "type": "game"
+  },
+  {
+    "appid": 575640,
+    "name": "Zup! 3",
+    "type": "game"
+  },
+  {
+    "appid": 591420,
+    "name": "Zup! 4",
+    "type": "game"
+  },
+  {
+    "appid": 645090,
+    "name": "Zup! 5",
+    "type": "game"
+  },
+  {
+    "appid": 566160,
+    "name": "Zup! 6",
+    "type": "game"
+  },
+  {
+    "appid": 658560,
+    "name": "Zup! 7",
+    "type": "game"
+  },
+  {
+    "appid": 799070,
+    "name": "Zup! 8",
+    "type": "game"
+  },
+  {
+    "appid": 1098340,
+    "name": "Zup! 9",
+    "type": "game"
+  },
+  {
+    "appid": 914160,
+    "name": "Zup! Arena",
+    "type": "game"
+  },
+  {
+    "appid": 601220,
+    "name": "Zup! F",
+    "type": "game"
+  },
+  {
+    "appid": 2206560,
+    "name": "Zup! Q",
+    "type": "game"
+  },
+  {
+    "appid": 617670,
+    "name": "Zup! S",
+    "type": "game"
+  },
+  {
+    "appid": 508900,
+    "name": "Zup! X",
+    "type": "game"
+  },
+  {
+    "appid": 673800,
+    "name": "Zup! XS",
+    "type": "game"
+  },
+  {
+    "appid": 2160470,
+    "name": "Zup! Y",
+    "type": "game"
+  },
+  {
+    "appid": 1218900,
+    "name": "Zup! Z",
+    "type": "game"
+  },
+  {
+    "appid": 610360,
+    "name": "Zup! Zero",
+    "type": "game"
+  },
+  {
+    "appid": 658550,
+    "name": "Zup! Zero 2",
+    "type": "game"
+  },
+  {
+    "appid": 4074370,
+    "name": "Zupay: Shadows of Independence",
+    "type": "game"
+  },
+  {
+    "appid": 2732600,
+    "name": "Zurarararush!!!",
+    "type": "game"
+  },
+  {
+    "appid": 3256530,
+    "name": "ZURCAM ARENA",
+    "type": "game"
+  },
+  {
+    "appid": 3748170,
+    "name": "ZURD HUNT",
+    "type": "game"
+  },
+  {
+    "appid": 2012650,
+    "name": "Zuria",
+    "type": "game"
+  },
+  {
+    "appid": 1040730,
+    "name": "ZUSI 3 - Aerosoft Edition",
+    "type": "game"
+  },
+  {
+    "appid": 956870,
+    "name": "Zvezda",
+    "type": "game"
+  },
+  {
+    "appid": 2251170,
+    "name": "Zwaard",
+    "type": "game"
+  },
+  {
+    "appid": 4501000,
+    "name": "Zwamman",
+    "type": "game"
+  },
+  {
+    "appid": 427680,
+    "name": "Zwei: The Arges Adventure",
+    "type": "game"
+  },
+  {
+    "appid": 427700,
+    "name": "Zwei: The Ilvard Insurrection",
+    "type": "game"
+  },
+  {
+    "appid": 5477420,
+    "name": "ZX Allstar Holdem",
+    "type": "game"
+  },
+  {
+    "appid": 2559550,
+    "name": "ZXC",
+    "type": "game"
+  },
+  {
+    "appid": 397830,
+    "name": "Zxill: A Legend of Time",
+    "type": "game"
+  },
+  {
+    "appid": 1658740,
+    "name": "Zyconix",
+    "type": "game"
+  },
+  {
+    "appid": 1052590,
+    "name": "ZYKRUN",
+    "type": "game"
+  },
+  {
+    "appid": 2464060,
+    "name": "ZYNDECK VX: Card Battler",
+    "type": "game"
+  },
+  {
+    "appid": 1246170,
+    "name": "ZYNET",
+    "type": "game"
+  },
+  {
+    "appid": 3635220,
+    "name": "Zynga Poker ™ – Texas Holdem",
+    "type": "game"
+  },
+  {
+    "appid": 3018000,
+    "name": "Zynpo Chess",
+    "type": "game"
+  },
+  {
+    "appid": 4691080,
+    "name": "Zyntaris",
+    "type": "game"
+  },
+  {
+    "appid": 5220760,
+    "name": "Zynthex",
+    "type": "game"
+  },
+  {
+    "appid": 1026020,
+    "name": "Zyphoid",
+    "type": "game"
+  },
+  {
+    "appid": 4823000,
+    "name": "Zyrcon",
+    "type": "game"
+  },
+  {
+    "appid": 820690,
+    "name": "ZYTERNION",
+    "type": "game"
+  },
+  {
+    "appid": 888900,
+    "name": "ZYX STORY",
+    "type": "game"
+  },
+  {
+    "appid": 768630,
+    "name": "Zyxia: Neon Termination",
+    "type": "game"
+  },
+  {
+    "appid": 5144170,
+    "name": "ZZ SALVAGE CO.",
+    "type": "game"
+  },
+  {
+    "appid": 2328870,
+    "name": "Zzoom",
+    "type": "game"
+  },
+  {
+    "appid": 1115810,
+    "name": "ZZZombie Ball",
+    "type": "game"
+  },
+  {
+    "appid": 507520,
+    "name": "Zzzz-Zzzz-Zzzz",
+    "type": "game"
+  },
+  {
+    "appid": 1154350,
+    "name": "zzzzz",
+    "type": "game"
+  },
+  {
+    "appid": 2880970,
+    "name": "Zомби Апокалипсис - Война Марка Фейгина",
+    "type": "game"
+  }
+]

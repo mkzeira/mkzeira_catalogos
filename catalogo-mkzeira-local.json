@@ -1,0 +1,80 @@
+[
+  {
+    "shop": "steam",
+    "objectId": "730",
+    "title": "Counter-Strike 2",
+    "genres": [
+      "Ação",
+      "FPS"
+    ],
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/730/324b323045b09bace182f928f4104dfcd93cb7f3.ico",
+    "libraryImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg",
+    "coverImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/730/library_600x900_2x.jpg",
+    "logoImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/730/logo_2x.png"
+  },
+  {
+    "shop": "steam",
+    "objectId": "1091500",
+    "title": "Cyberpunk 2077",
+    "genres": [
+      "RPG",
+      "Ação"
+    ],
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1091500/e8cbb253f929cb6a67dcb4f03a60dc4328ea65f2.ico",
+    "libraryImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg",
+    "coverImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1091500/fc7064f4a8ee2960eb51f5872d7990d771f26d2e/library_600x900_2x.jpg",
+    "logoImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1091500/37680a273aeee84646db37ed0423aafee948d845/logo_2x.png"
+  },
+  {
+    "shop": "steam",
+    "objectId": "367520",
+    "title": "Hollow Knight",
+    "genres": [
+      "Metroidvania",
+      "Plataforma"
+    ],
+    "iconUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg",
+    "libraryImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg",
+    "coverImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/367520/library_600x900_2x.jpg",
+    "logoImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/367520/logo_2x.png"
+  },
+  {
+    "shop": "steam",
+    "objectId": "1174180",
+    "title": "Red Dead Redemption 2",
+    "genres": [
+      "Ação",
+      "Aventura"
+    ],
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1174180/5bf6edd7efb1110b457da905e7ac696c6c619ed1.ico",
+    "libraryImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "coverImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900_2x.jpg",
+    "logoImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1174180/logo_2x.png"
+  },
+  {
+    "shop": "steam",
+    "objectId": "413150",
+    "title": "Stardew Valley",
+    "genres": [
+      "Simulação",
+      "Indie"
+    ],
+    "iconUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "libraryImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "coverImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/413150/library_600x900_2x.jpg",
+    "logoImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/413150/logo_2x.png"
+  },
+  {
+    "shop": "steam",
+    "objectId": "1245620",
+    "title": "Elden Ring",
+    "genres": [
+      "RPG",
+      "Ação"
+    ],
+    "iconUrl": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1245620/2e048bfc2073ca30804ed5b8c454a9ca0e2f98de.ico",
+    "libraryImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "coverImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900_2x.jpg",
+    "logoImageUrl": "https://shared.steamstatic.com/store_item_assets/steam/apps/1245620/logo_2x.png"
+  }
+]
